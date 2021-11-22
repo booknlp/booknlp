@@ -1,3 +1,5 @@
+# BookNLP
+
 BookNLP is a natural language processing pipeline that scales to books and other long documents (in English), including:
 
 * Part-of-speech tagging
@@ -206,8 +208,8 @@ For more on the quotation annotations, see [this paper](https://arxiv.org/pdf/20
 
 BookNLP uses [Spacy](https://spacy.io) for part-of-speech tagging and dependency parsing.
 
-# Acknowlegments
+# Acknowledgments
 
-<table><tr><td><img width="200" src="https://www.neh.gov/sites/default/files/inline-files/NEH-Preferred-Seal820.jpg" /></td><td><img width="150" src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png" /></td><td>
+<table><tr><td><img width="250" src="https://www.neh.gov/sites/default/files/inline-files/NEH-Preferred-Seal820.jpg" /></td><td><img width="150" src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png" /></td><td>
 BookNLP is supported by the National Endowment for the Humanities (HAA-271654-20) and the National Science Foundation (IIS-1942591).
 </td></tr></table>
