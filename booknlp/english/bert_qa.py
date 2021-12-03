@@ -139,7 +139,7 @@ class QuotationAttribution:
 			wp_tok_count=0
 			# go back *window* tokens, not counting tokens that are in quotes
 			lastPar=None
-			while start > 0 and count < window and wp_tok_count + len(self.model.tokenizer.tokenize(convert_word(tokens[start].text))) < 350:
+			while start >= 0 and count < window and wp_tok_count + len(self.model.tokenizer.tokenize(convert_word(tokens[start].text))) < 350:
 				if in_quotes[start] == 0:
 					count+=1
 					wp_tok_count+=len(self.model.tokenizer.tokenize(convert_word(tokens[start].text)))
@@ -172,6 +172,7 @@ class QuotationAttribution:
 
 			if end < end_tok+1:
 				end=end_tok+1
+
 
 			toks=[]
 			cands=[]
