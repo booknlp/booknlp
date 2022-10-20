@@ -2,9 +2,8 @@ import sys
 import argparse
 from transformers import logging
 logging.set_verbosity_error()
-from pathlib import Path
-import os
 from booknlp.english.english_booknlp import EnglishBookNLP
+from booknlp.italian.italian_booknlp import ItalianBookNLP
 
 class BookNLP():
 
@@ -12,6 +11,8 @@ class BookNLP():
 
 		if language == "en":
 			self.booknlp=EnglishBookNLP(model_params)
+		elif language == "it":
+			self.booknlp=ItalianBookNLP(model_params)
 
 	def process(self, inputFile, outputFolder, idd):
 		self.booknlp.process(inputFile, outputFolder, idd)
@@ -20,7 +21,7 @@ class BookNLP():
 def proc():
 
 	parser = argparse.ArgumentParser()
-	parser.add_argument('-l','--language', help='Currently on {en}', required=True)
+	parser.add_argument('-l','--language', help='Currently on {en, it}', required=True)
 	parser.add_argument('-i','--inputFile', help='Filename to run BookNLP on', required=True)
 	parser.add_argument('-o','--outputFolder', help='Folder to write results to', required=True)
 	parser.add_argument('--id', help='ID of text (for creating filenames within output folder)', required=True)
@@ -34,7 +35,7 @@ def proc():
 
 	print("tagging %s" % inputFile)
 	
-	valid_languages=set(["en"])
+	valid_languages=set(["en", "it"])
 	if language not in valid_languages:
 		print("%s not recognized; supported languages: %s" % (language, valid_languages))
 		sys.exit(1)
@@ -46,6 +47,6 @@ def proc():
 
 	booknlp=BookNLP(language, model_params)
 	booknlp.process(inputFile, outputFolder, idd)
-		
-if __name__ is "__main__":
+
+if __name__ == "__main__":
 	proc()
