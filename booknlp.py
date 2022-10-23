@@ -2,20 +2,16 @@ import sys
 import argparse
 from transformers import logging
 logging.set_verbosity_error()
-from booknlp.english.english_booknlp import EnglishBookNLP
-from booknlp.italian.italian_booknlp import ItalianBookNLP
+from booknlp.english.english_booknlp import MultilingualBookNLP
 
 class BookNLP():
 
 	def __init__(self, language, model_params):
 
-		if language == "en":
-			self.booknlp=EnglishBookNLP(model_params)
-		elif language == "it":
-			self.booknlp=ItalianBookNLP(model_params)
+		self.booknlp=MultilingualBookNLP(language, model_params)
 
-	def process(self, inputFile, outputFolder, idd):
-		self.booknlp.process(inputFile, outputFolder, idd)
+	def process(self, language, inputFile, outputFolder, idd):
+		self.booknlp.process(language, inputFile, outputFolder, idd)
 
 
 def proc():
@@ -46,7 +42,7 @@ def proc():
 	}
 
 	booknlp=BookNLP(language, model_params)
-	booknlp.process(inputFile, outputFolder, idd)
+	booknlp.process(language, inputFile, outputFolder, idd)
 
 if __name__ == "__main__":
 	proc()

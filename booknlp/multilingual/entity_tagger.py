@@ -1,4 +1,4 @@
-from booknlp.english.tagger import Tagger
+from booknlp.multilingual.tagger import Tagger
 import torch
 import re
 import booknlp.common.layered_reader as layered_reader

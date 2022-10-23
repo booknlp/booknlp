@@ -1,6 +1,6 @@
 import torch
 import re
-from booknlp.english.speaker_attribution import BERTSpeakerID
+from booknlp.multilingual.speaker_attribution import BERTSpeakerID
 import numpy as np
 import sys
 

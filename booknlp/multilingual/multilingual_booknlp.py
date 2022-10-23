@@ -2,12 +2,12 @@ import sys
 import spacy
 import copy
 from booknlp.common.pipelines import SpacyPipeline
-from booknlp.english.entity_tagger import LitBankEntityTagger
-from booknlp.english.gender_inference_model_1 import GenderEM
-from booknlp.english.name_coref import NameCoref
-from booknlp.english.litbank_coref import LitBankCoref
-from booknlp.english.litbank_quote import QuoteTagger
-from booknlp.english.bert_qa import QuotationAttribution
+from booknlp.multilingual.entity_tagger import LitBankEntityTagger
+from booknlp.multilingual.gender_inference_model_1 import GenderEM
+from booknlp.multilingual.name_coref import NameCoref
+from booknlp.multilingual.litbank_coref import LitBankCoref
+from booknlp.multilingual.litbank_quote import QuoteTagger
+from booknlp.multilingual.bert_qa import QuotationAttribution
 from os.path import join
 import os
 import json
@@ -19,9 +19,9 @@ import urllib.request
 import pkg_resources
 import torch
 
-class ItalianBookNLP:
+class MultilingualBookNLP:
 
-	def __init__(self, model_params):
+	def __init__(self, language, model_params):
 
 		with torch.no_grad():
 
@@ -29,7 +29,10 @@ class ItalianBookNLP:
 
 			print(model_params)
 
-			spacy_model="it_core_news_sm"
+			if language == "en":
+				spacy_model="en_core_web_sm"
+			elif language == "it":
+				spacy_model="it_core_news_sm"
 			if "spacy_model" in model_params:
 				spacy_model=model_params["spacy_model"]
 
@@ -39,14 +42,20 @@ class ItalianBookNLP:
 			
 			pipes=model_params["pipeline"].split(",")
 
-			self.gender_cats= [ ["lui", "egli", "esso"], ["lei", "ella", "essa"], ["loro", "essi"], ["esse"] ]
+			if language == "en":
+				self.gender_cats= [ ["he", "him", "his"], ["she", "her"], ["they", "them", "their"], ["xe", "xem", "xyr", "xir"], ["ze", "zem", "zir", "hir"] ] 
+			elif language == "it":
+				self.gender_cats= [ ["lui", "egli", "esso"], ["lei", "ella", "essa"], ["loro", "essi"], ["esse"] ]
 
 			if "referential_gender_cats" in model_params:
 				self.gender_cats=model_params["referential_gender_cats"]
 
 			home = str(Path.home())
-			modelPath=os.path.join(home, "booknlp_models")
-			if "model_path" in model_params:
+			if language == "en":
+				modelPath=os.path.join(home, "booknlp_models")
+			elif language == "it":
+				modelPath=os.path.join(home, "modelli_di_booknlp")
+			if "model_path" in model_params:			
 				modelPath=model_params["model_path"]
 
 			if not Path(modelPath).is_dir():
@@ -116,14 +125,15 @@ class ItalianBookNLP:
 				elif pipe == "quote":
 					self.doQuoteAttrib=True
 
-			tagsetPath="data/entity_cat.tagset"
+			tagsetPath=language+"_data/entity_cat.tagset"
 			tagsetPath = pkg_resources.resource_filename(__name__, tagsetPath)
 
 
 			if "referential_gender_hyperparameterFile" in model_params:
 				self.gender_hyperparameterFile=model_params["referential_gender_hyperparameterFile"]
 			else:
-				self.gender_hyperparameterFile = pkg_resources.resource_filename(__name__, "data/gutenberg_prop_gender_terms.txt")
+				if language == "en":
+					self.gender_hyperparameterFile = pkg_resources.resource_filename(__name__, "en_data/gutenberg_prop_gender_terms.txt")
 			
 			pronominalCorefOnly=True
 
@@ -146,7 +156,7 @@ class ItalianBookNLP:
 
 			if self.doEntities:
 				self.entityTagger=LitBankEntityTagger(self.entityPath, tagsetPath)
-				aliasPath = pkg_resources.resource_filename(__name__, "data/aliases.txt")
+				aliasPath = pkg_resources.resource_filename(__name__, language + "_data/aliases.txt")
 				self.name_resolver=NameCoref(aliasPath)
 
 
@@ -329,7 +339,7 @@ class ItalianBookNLP:
 			
 
 
-	def process(self, filename, outFolder, idd):		
+	def process(self, language, filename, outFolder, idd):		
 
 		with torch.no_grad():
 
@@ -603,3 +613,5 @@ class ItalianBookNLP:
 
 				print("--- TOTAL (excl. startup): %.3f seconds ---, %s words" % (time.time() - originalTime, len(tokens)))
 				return time.time() - originalTime
+
+

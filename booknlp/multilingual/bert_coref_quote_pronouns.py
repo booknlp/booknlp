@@ -14,10 +14,10 @@ import numpy as np
 import random
 
 from booknlp.common.pipelines import Token, Entity
-from booknlp.english.litbank_quote import QuoteTagger
-from booknlp.english.name_coref import NameCoref
+from booknlp.multilingual.litbank_quote import QuoteTagger
+from booknlp.multilingual.name_coref import NameCoref
 
-from booknlp.english.bert_qa import QuotationAttribution
+from booknlp.multilingual.bert_qa import QuotationAttribution
 
 random.seed(1)
 np.random.seed(1)
