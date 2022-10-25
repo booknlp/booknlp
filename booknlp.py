@@ -2,7 +2,7 @@ import sys
 import argparse
 from transformers import logging
 logging.set_verbosity_error()
-from booknlp.english.english_booknlp import MultilingualBookNLP
+from booknlp.multilingual.multilingual_booknlp import MultilingualBookNLP
 
 class BookNLP():
 

@@ -1,17 +1,9 @@
-import sys
 import re
-import random
-from random import shuffle
-from math import sqrt, exp, isnan
 from transformers import BertTokenizer, BertModel
 import torch.nn as nn
 import torch
 import numpy as np
-import argparse
-import json
 from booknlp.common.b3 import b3
-
-from collections import Counter
 
 PINK = '\033[95m'
 ENDC = '\033[0m'

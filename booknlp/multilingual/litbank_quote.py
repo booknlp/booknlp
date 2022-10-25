@@ -1,4 +1,3 @@
-import re
 from collections import Counter
 
 class QuoteTagger:

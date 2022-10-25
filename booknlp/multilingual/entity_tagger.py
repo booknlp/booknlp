@@ -10,7 +10,7 @@ class LitBankEntityTagger:
 
 		device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 		self.tagset=sequence_layered_reader.read_tagset(model_tagset)
-		supersenseTagset = pkg_resources.resource_filename(__name__, "data/supersense.tagset")
+		supersenseTagset = pkg_resources.resource_filename(__name__, "en_data/supersense.tagset")
 
 		self.supersense_tagset=sequence_layered_reader.read_tagset(supersenseTagset)
 		base_model=re.sub("google_bert", "google/bert", model_file.split("/")[-1])
@@ -20,7 +20,7 @@ class LitBankEntityTagger:
 
 		self.model.to(device)
 		self.model.load_state_dict(torch.load(model_file, map_location=device))
-		wnsFile = pkg_resources.resource_filename(__name__, "data/wordnet.first.sense")
+		wnsFile = pkg_resources.resource_filename(__name__, "en_data/wordnet.first.sense")
 		self.wns=self.read_wn(wnsFile)
 
 	def read_wn(self, filename):

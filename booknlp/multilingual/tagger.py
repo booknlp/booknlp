@@ -1,10 +1,7 @@
-import sys
 import re
-import math
 from transformers import BertTokenizer, BertModel 
 
 import torch.nn as nn
-import torch.nn.functional as F
 import torch
 import numpy as np
 import booknlp.common.crf as crf

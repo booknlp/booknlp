@@ -53,6 +53,7 @@ class MultilingualBookNLP:
 			home = str(Path.home())
 			if language == "en":
 				modelPath=os.path.join(home, "booknlp_models")
+				modelPath="/".join(modelPath.split("\\"))
 			elif language == "it":
 				modelPath=os.path.join(home, "modelli_di_booknlp")
 			if "model_path" in model_params:			
@@ -67,16 +68,19 @@ class MultilingualBookNLP:
 				quoteAttribName="speaker_google_bert_uncased_L-12_H-768_A-12-v1.0.1.model"
 
 				self.entityPath=os.path.join(modelPath, entityName)
+				self.entityPath="/".join(self.entityPath.split("\\"))
 				if not Path(self.entityPath).is_file():
 					print("downloading %s" % entityName)
 					urllib.request.urlretrieve("http://ischool.berkeley.edu/~dbamman/booknlp_models/%s" % entityName, self.entityPath)
 
 				self.coref_model=os.path.join(modelPath, corefName)
+				self.coref_model="/".join(self.coref_model.split("\\"))
 				if not Path(self.coref_model).is_file():
 					print("downloading %s" % corefName)
 					urllib.request.urlretrieve("http://ischool.berkeley.edu/~dbamman/booknlp_models/%s" % corefName, self.coref_model)
 
 				self.quoteAttribModel=os.path.join(modelPath, quoteAttribName)
+				self.quoteAttribModel="/".join(self.quoteAttribModel.split("\\"))
 				if not Path(self.quoteAttribModel).is_file():
 					print("downloading %s" % quoteAttribName)
 					urllib.request.urlretrieve("http://ischool.berkeley.edu/~dbamman/booknlp_models/%s" % quoteAttribName, self.quoteAttribModel)
@@ -88,16 +92,19 @@ class MultilingualBookNLP:
 				quoteAttribName="speaker_google_bert_uncased_L-8_H-256_A-4-v1.0.1.model"
 
 				self.entityPath=os.path.join(modelPath, entityName)
+				self.entityPath="/".join(self.entityPath.split("\\"))
 				if not Path(self.entityPath).is_file():
 					print("downloading %s" % entityName)
 					urllib.request.urlretrieve("http://ischool.berkeley.edu/~dbamman/booknlp_models/%s" % entityName, self.entityPath)
 
 				self.coref_model=os.path.join(modelPath, corefName)
+				self.coref_model="/".join(self.coref_model.split("\\"))
 				if not Path(self.coref_model).is_file():
 					print("downloading %s" % corefName)
 					urllib.request.urlretrieve("http://ischool.berkeley.edu/~dbamman/booknlp_models/%s" % corefName, self.coref_model)
 
 				self.quoteAttribModel=os.path.join(modelPath, quoteAttribName)
+				self.quoteAttribModel="/".join(self.quoteAttribModel.split("\\"))
 				if not Path(self.quoteAttribModel).is_file():
 					print("downloading %s" % quoteAttribName)
 					urllib.request.urlretrieve("http://ischool.berkeley.edu/~dbamman/booknlp_models/%s" % quoteAttribName, self.quoteAttribModel)
@@ -346,7 +353,7 @@ class MultilingualBookNLP:
 			start_time = time.time()
 			originalTime=start_time
 
-			with open(filename) as file:
+			with open(filename, encoding = "utf8") as file:
 				data=file.read()
 
 				if len(data) == 0:
