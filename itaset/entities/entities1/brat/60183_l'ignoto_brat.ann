@@ -1,0 +1,161 @@
+T0	FAC 4 26	Piazzale di Porta Roma
+T1	PER 33 46	poche persone
+T2	LOC 57 91	la via del laboratorio pirotecnico
+T3	FAC 68 91	laboratorio pirotecnico
+T4	FAC 159 207	la semplice e nuda fabbrica dell ' Arcivescovado
+T5	FAC 227 248	altre fabbriche basse
+T6	LOC 277 293	Riviera Casilina
+T7	FAC 310 326	una fila di case
+T8	LOC 430 460	il dosso fuggevole de ' Tifati
+T9	LOC 490 495	monti
+T10	LOC 532 542	la collina
+T11	LOC 607 626	quelle gobbe immani
+T12	LOC 645 670	immensa e aperta campagna
+T13	GPE 679 683	Roma
+T14	GPE 760 812	Capua , la triste città delle chiese e delle caserme
+T15	FAC 790 796	chiese
+T16	FAC 805 812	caserme
+T17	FAC 819 837	ponte del Volturno
+T18	LOC 829 837	Volturno
+T19	LOC 863 879	Riviera Casilina
+T20	FAC 893 902	parapetto
+T21	PER 948 971	San Giovanni Nepomuceno
+T22	LOC 998 1003	fiume
+T23	LOC 1056 1070	l ' umide rive
+T24	FAC 1283 1292	parapetto
+T25	PER 1295 1305	due uomini
+T26	FAC 1494 1511	ponte ferroviario
+T27	LOC 1620 1628	il fiume
+T28	LOC 1647 1663	piano sterminato
+T29	FAC 1771 1785	ponte di ferro
+T30	FAC 1802 1821	un breve caseggiato
+T31	LOC 1841 1857	sponda cittadina
+T32	VEH 1868 1876	un treno
+T33	VEH 1912 1928	il treno di Roma
+T34	GPE 1924 1928	Roma
+T35	LOC 2068 2075	collina
+T36	LOC 2084 2108	opposta sponda del fiume
+T37	VEH 2206 2214	macchina
+T38	PER 2272 2284	i due uomini
+T39	FAC 2303 2312	parapetto
+T40	FAC 2399 2417	ponte nella piazza
+T41	FAC 2411 2417	piazza
+T42	FAC 2461 2479	la torre del ponte
+T43	FAC 2474 2479	ponte
+T44	FAC 2620 2636	parapetto destro
+T45	FAC 2667 2683	mura della torre
+T46	PER 2739 2749	il soldato
+T47	FAC 2801 2813	il parapetto
+T48	FAC 2841 2861	l ' androne abbuiato
+T49	FAC 2982 2998	il vecchio ponte
+T50	LOC 3068 3079	Corso Appio
+T51	FAC 3095 3117	Piazzale di Porta Roma
+T52	LOC 3251 3259	il fiume
+T53	FAC 3262 3277	il ponte antico
+T54	LOC 3280 3293	le rive scure
+T55	FAC 3296 3304	la torre
+T56	FAC 3332 3337	ponte
+T57	LOC 3352 3366	riva superiore
+T58	LOC 3373 3403	campagne invisibili , nascoste
+T59	LOC 3437 3444	i monti
+T60	LOC 3612 3632	le cime d ' un bosco
+T61	LOC 3661 3669	il fiume
+T62	LOC 3754 3784	la verde e soprastante collina
+T63	LOC 3848 3893	un lago percosso dal mite chiarore della luna
+T64	FAC 3896 3932	Il ponte di ferro , nero e tagliente
+T65	FAC 3968 3973	ponte
+T66	LOC 3982 3987	fiume
+T67	LOC 4295 4324	lontana e invisibile campagna
+T68	LOC 4725 4740	dosso dei monti
+T69	LOC 4856 4862	Tifati
+T70	FAC 4989 5017	il muro dell ' Arcivescovado
+T71	FAC 5081 5099	Ponte d ' Annibale
+T72	PER 5102 5111	Una donna
+T73	FAC 5554 5562	piazzale
+T74	PER 5565 5577	un fanciullo
+T75	PER 5616 5628	Il fanciullo
+T76	LOC 5640 5651	Corso Appio
+T77	LOC 5667 5680	Riva Casilina
+T78	PER 5901 5908	Letizia
+T79	PER 5947 5952	donna
+T80	PER 6049 6057	La donna
+T81	FAC 6130 6138	piazzale
+T82	PER 6163 6173	scolaretto
+T83	LOC 6262 6265	via
+T84	PER 6310 6318	La donna
+T85	PER 6351 6366	il fanciulletto
+T86	PER 6518 6528	il piccino
+T87	FAC 6569 6575	scuola
+T88	FAC 6617 6621	casa
+T89	PER 6945 6955	Il piccino
+T90	PER 7051 7061	Il piccino
+T91	PER 7117 7124	Letizia
+T92	PER 7239 7278	il ragazzetto , obbediente , sorridente
+T93	PER 7468 7475	nessuno
+T94	PER 7511 7518	nessuno
+T95	PER 7581 7591	il piccino
+T96	PER 7672 7679	Letizia
+T97	PER 7891 7898	nessuno
+T98	PER 7926 7933	nessuno
+T99	PER 7953 7960	Paolino
+T100	PER 7986 7993	Letizia
+T101	PER 8031 8041	Il piccino
+T102	PER 8079 8086	nessuno
+T103	PER 8094 8102	la donna
+T104	PER 8178 8187	mamma tua
+T105	PER 8202 8205	Dio
+T106	PER 8215 8222	Letizia
+T107	PER 8251 8256	mamma
+T108	PER 8279 8289	lo scolare
+T109	PER 8410 8417	nessuno
+T110	LOC 8473 8476	via
+T111	PER 8526 8533	Letizia
+T112	FAC 8544 8549	ponte
+T113	PER 8729 8739	lo scolare
+T114	LOC 8768 8781	Riva Casilina
+T115	LOC 8808 8815	un vico
+T116	FAC 8957 8968	il piazzale
+T117	PER 8987 8994	Letizia
+T118	FAC 9022 9035	il gran ponte
+T119	FAC 9045 9057	il parapetto
+T120	FAC 9243 9252	parapetto
+T121	PER 9753 9760	Letizia
+T122	FAC 9780 9789	parapetto
+T123	LOC 9794 9814	fiume tacito e lento
+T124	FAC 9863 9872	parapetto
+T125	FAC 9937 9942	ponte
+T126	FAC 10315 10322	muretto
+T127	FAC 10491 10500	parapetto
+T128	LOC 10542 10550	il fiume
+T129	LOC 10566 10574	Volturno
+T130	ORG 10631 10651	fabbrica imperatoria
+T131	LOC 10922 10929	le rive
+T132	FAC 10954 10974	il ponte ferroviario
+T133	PER 11055 11063	La donna
+T134	LOC 11092 11100	il fiume
+T135	PER 11538 11545	Letizia
+T136	FAC 11558 11563	ponte
+T137	FAC 11568 11577	parapetto
+T138	FAC 11695 11708	Arcivescovado
+T139	FAC 11711 11724	le case basse
+T140	LOC 11727 11734	una via
+T141	FAC 11756 11763	le case
+T142	FAC 11833 11857	la cupola della Santella
+T143	FAC 11888 11930	l ' alto anfiteatro della Riviera Casilina
+T144	LOC 11914 11930	Riviera Casilina
+T145	FAC 11969 11995	fabbrica rozza e massiccia
+T146	LOC 12030 12043	Riva Casilina
+T147	LOC 12141 12146	fiume
+T148	LOC 12153 12183	infame contrada Mazzamauriello
+T149	LOC 12202 12224	un sentiero invisibile
+T150	FAC 12225 12264	le sue due o tre casucce a un sol piano
+T151	PER 12345 12353	la donna
+T152	FAC 12383 12402	quel gruppo di case
+T153	LOC 12420 12425	fiume
+T154	FAC 12588 12593	ponte
+T155	FAC 12617 12630	Arcivescovado
+T156	PER 12633 12640	Letizia
+T157	LOC 12715 12720	bosco
+T158	LOC 12796 12812	Riviera Casilina
+T159	FAC 12933 12938	ponte
+T160	LOC 12948 12959	Corso Appio

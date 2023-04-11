@@ -1,0 +1,185 @@
+T0	GPE 34 45	altri paesi
+T1	PER 56 64	la gente
+T2	GPE 95 102	Venezia
+T3	GPE 155 177	questa città singolare
+T4	FAC 260 297	la camera dell ' inquilino dirimpetto
+T5	PER 277 286	inquilino
+T6	FAC 357 363	verone
+T7	LOC 496 509	queste viuzze
+T8	PER 526 534	le donne
+T9	PER 736 750	nostro Goldoni
+T10	ORG 854 860	chiesa
+T11	PER 883 889	vicina
+T12	PER 896 902	grasso
+T13	PER 909 914	magro
+T14	PER 937 942	bimbi
+T15	PER 1246 1263	l ' autore comico
+T16	PER 1316 1323	un uomo
+T17	PER 1547 1582	l ' uno o l ' altro degli inquilini
+T18	LOC 1589 1603	le tante calli
+T19	GPE 1619 1626	Venezia
+T20	LOC 1649 1663	Calle lombarda
+T21	PER 1708 1715	eruditi
+T22	PER 1718 1729	noi profani
+T23	GPE 1786 1795	Lombardia
+T24	FAC 1900 1925	alcune casupole disuguali
+T25	FAC 1966 2013	il muro posteriore di un palazzone del seicento
+T26	FAC 1988 2013	un palazzone del seicento
+T27	LOC 2043 2055	Canal grande
+T28	FAC 2074 2085	questo muro
+T29	LOC 2196 2201	calle
+T30	LOC 2248 2257	via cieca
+T31	FAC 2260 2270	Il palazzo
+T32	PER 2279 2287	famiglia
+T33	FAC 2341 2350	Cà Dareni
+T34	LOC 2357 2363	Canale
+T35	LOC 2405 2413	la calle
+T36	FAC 2443 2466	una muraglia sgretolata
+T37	PER 2687 2695	Prometeo
+T38	LOC 2708 2712	rupe
+T39	FAC 2734 2751	tre piani diversi
+T40	FAC 2857 2870	tutto il muro
+T41	LOC 2976 2982	vicolo
+T42	FAC 3001 3013	un gabinetto
+T43	FAC 3038 3056	una fila di stanze
+T44	FAC 3059 3081	l ' ultima delle quali
+T45	LOC 3092 3101	Canalazzo
+T46	LOC 3122 3128	un rio
+T47	FAC 3131 3151	Il muro di Cà Dareni
+T48	FAC 3142 3151	Cà Dareni
+T49	FAC 3161 3187	le catapecchie di rimpetto
+T50	FAC 3281 3288	palazzo
+T51	PER 3329 3343	creature umane
+T52	FAC 3367 3378	catapecchie
+T53	LOC 3393 3398	calle
+T54	PER 3623 3631	passanti
+T55	PER 3672 3680	passanti
+T56	PER 3733 3747	gl ' inquilini
+T57	FAC 3754 3758	case
+T58	FAC 3765 3772	palazzo
+T59	PER 3803 3830	qualche coppia sentimentale
+T60	LOC 3916 3924	la calle
+T61	LOC 4000 4008	la calle
+T62	FAC 4019 4046	una stradicciuola non larga
+T63	PER 4071 4076	gente
+T64	PER 4089 4103	il fruttaiuolo
+T65	LOC 4190 4195	monti
+T66	GPE 4205 4212	Venezia
+T67	PER 4310 4322	i compratori
+T68	FAC 4527 4538	l ' ufficio
+T69	PER 4554 4560	moglie
+T70	PER 4593 4600	soprano
+T71	PER 4725 4738	i due coniugi
+T72	LOC 4840 4854	Calle lombarda
+T73	PER 5125 5138	siora Annetta
+T74	PER 5158 5171	sioraGertrude
+T75	PER 5241 5255	siora Veronica
+T76	PER 5420 5435	uno dei monelli
+T77	FAC 5473 5482	piazzetta
+T78	LOC 5523 5528	calle
+T79	PER 5588 5601	siora Annetta
+T80	PER 5604 5618	siora Gertrude
+T81	PER 5623 5637	siora Veronica
+T82	PER 5646 5651	tutte
+T83	PER 5668 5679	una di esse
+T84	PER 5687 5697	il ragazzo
+T85	FAC 6039 6055	muro del palazzo
+T86	FAC 6048 6055	palazzo
+T87	PER 6117 6124	nessuno
+T88	PER 6254 6260	vicini
+T89	FAC 6302 6311	Cà Dareni
+T90	PER 6461 6473	Povera Gegia
+T91	PER 6515 6532	un amore di bimba
+T92	PER 6588 6620	una personcina svelta , elegante
+T93	PER 6688 6696	la mamma
+T94	PER 6756 6804	padre , gondoliere presso una famiglia signorile
+T95	PER 6782 6804	una famiglia signorile
+T96	PER 6826 6832	vedovo
+T97	FAC 6850 6854	casa
+T98	PER 6855 6873	una sorella nubile
+T99	PER 6893 6902	fanciulla
+T100	PER 6905 6912	Filippo
+T101	PER 6982 6994	i barcaiuoli
+T102	PER 7119 7126	padrino
+T103	PER 7157 7164	giudice
+T104	PER 7218 7225	Filippo
+T105	PER 7228 7235	nessuno
+T106	PER 7269 7291	un avvenentissimo uomo
+T107	PER 7353 7360	I bimbi
+T108	PER 7393 7401	le donne
+T109	PER 7417 7422	bimbi
+T110	PER 7452 7457	donne
+T111	PER 7506 7515	sua Gegia
+T112	PER 7655 7684	le fanciulle della parrocchia
+T113	FAC 7674 7684	parrocchia
+T114	PER 7773 7787	i suoi padroni
+T115	PER 7920 7929	suo padre
+T116	PER 7992 8069	i Dareni , patrizi molto boriosi e molto bene incamminati verso il fallimento
+T117	PER 8149 8161	loro bambine
+T118	FAC 8178 8182	casa
+T119	PER 8188 8193	Gegia
+T120	FAC 8253 8272	la lunghissima sala
+T121	GPE 8316 8322	Murano
+T122	PER 8465 8475	conte Luca
+T123	ORG 8501 8520	Gazzetta di Venezia
+T124	GPE 8513 8520	Venezia
+T125	PER 8634 8641	i morti
+T126	FAC 8723 8730	palazzo
+T127	PER 8757 8784	i bambini di sua conoscenza
+T128	FAC 8910 8938	la stanzuccia della sua casa
+T129	FAC 8930 8938	sua casa
+T130	PER 8964 8969	Gegia
+T131	PER 8974 8985	zentilomini
+T132	PER 9080 9085	tutti
+T133	PER 9157 9167	contessina
+T134	PER 9207 9239	quelli ch ' erano da meno di lei
+T135	FAC 9276 9296	fabbrica di conterie
+T136	PER 9415 9450	signor Menico , il vecchio commesso
+T137	FAC 9597 9601	casa
+T138	PER 9659 9685	tutti i bimbi del vicinato
+T139	PER 9697 9717	le contessine Dareni
+T140	FAC 9804 9814	il palazzo
+T141	PER 9839 9847	i Dareni
+T142	LOC 9866 9874	campagna
+T143	PER 9970 9983	Le contessine
+T144	PER 10021 10026	Gegia
+T145	LOC 10047 10061	Calle lombarda
+T146	PER 10077 10082	Gegia
+T147	PER 10179 10192	nuovo parroco
+T148	FAC 10365 10377	tutti i muri
+T149	FAC 10394 10403	le strade
+T150	FAC 10408 10416	baracche
+T151	PER 10482 10490	Il babbo
+T152	PER 10664 10669	folla
+T153	FAC 10804 10823	muro della canonica
+T154	PER 10892 10905	nuovo pastore
+T155	PER 10912 10924	parrocchiani
+T156	PER 10928 10952	coreConforti Don Vittore
+T157	PER 11000 11015	Le donnicciuole
+T158	FAC 11118 11124	chiesa
+T159	PER 11183 11190	parroco
+T160	PER 11295 11300	Gegia
+T161	FAC 11311 11328	il palazzo Dareni
+T162	PER 11322 11328	Dareni
+T163	PER 11354 11377	una famiglia forestiera
+T164	FAC 11457 11465	sua casa
+T165	PER 11499 11511	la fanciulla
+T166	PER 11540 11566	Il medico della parrocchia
+T167	FAC 11556 11566	parrocchia
+T168	PER 11589 11605	un altro dottore
+T169	PER 11610 11617	Filippo
+T170	PER 11638 11650	la figliuola
+T171	PER 11772 11787	la povera gente
+T172	FAC 11803 11811	casa sua
+T173	FAC 11837 11849	gli ospedali
+T174	FAC 11875 11883	ospedale
+T175	PER 11887 11892	Gegia
+T176	PER 11919 11926	Filippo
+T177	PER 11940 11950	sua figlia
+T178	PER 11983 12004	le comari della calle
+T179	LOC 11999 12004	calle
+T180	PER 12050 12058	i medici
+T181	PER 12125 12137	una empirica
+T182	PER 12258 12270	la fanciulla
+T183	PER 12372 12412	Siora Veronica , la moglie del falegname
+T184	PER 12403 12412	falegname

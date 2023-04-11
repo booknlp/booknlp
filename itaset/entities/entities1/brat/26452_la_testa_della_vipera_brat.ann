@@ -1,0 +1,166 @@
+T0	PER 37 49	i giuocatori
+T1	PER 134 165	servitori sonnacchiosi del club
+T2	FAC 161 165	club
+T3	FAC 200 234	quel salotto dall ' afa soffocante
+T4	PER 268 278	giuocatori
+T5	PER 319 350	un uomo di circa quarant ' anni
+T6	PER 551 563	Quest ' uomo
+T7	FAC 836 844	casa sua
+T8	PER 847 860	Quell ' altro
+T9	PER 976 984	il servo
+T10	PER 1018 1030	Quella donna
+T11	PER 1065 1070	Donna
+T12	PER 1079 1088	una donna
+T13	PER 1099 1106	signore
+T14	PER 1112 1119	Vecchia
+T15	PER 1297 1309	Quell ' uomo
+T16	PER 1514 1521	Lograve
+T17	PER 1536 1554	uno dei giuocatori
+T18	PER 1721 1729	il servo
+T19	FAC 1733 1751	una camera attigua
+T20	PER 1774 1783	una donna
+T21	PER 1814 1824	giuocatore
+T22	PER 1932 1959	una serva che fa da padrona
+T23	PER 2978 2992	signor Lograve
+T24	PER 2995 3007	quella donna
+T25	PER 3039 3050	sor Lorenzo
+T26	FAC 3063 3067	casa
+T27	PER 3072 3082	Sua moglie
+T28	PER 3344 3351	signore
+T29	PER 3362 3371	il medico
+T30	PER 3377 3386	Il medico
+T31	PER 3399 3408	il medico
+T32	FAC 3412 3420	casa mia
+T33	PER 3530 3539	la malata
+T34	PER 3590 3599	La monaca
+T35	PER 3651 3661	la signora
+T36	PER 3728 3735	dottore
+T37	PER 3809 3827	il padrone di casa
+T38	FAC 3823 3827	casa
+T39	PER 3842 3849	Lorenzo
+T40	PER 3912 3918	medico
+T41	PER 3957 3967	il dottore
+T42	PER 3970 3978	la suora
+T43	PER 4072 4080	il servo
+T44	PER 4084 4096	il portinajo
+T45	PER 4211 4218	Lorenzo
+T46	PER 4280 4288	Sciocchi
+T47	PER 4291 4300	imbecilli
+T48	PER 4303 4311	poltroni
+T49	PER 4332 4342	il diavolo
+T50	PER 4387 4395	Marianna
+T51	FAC 4442 4446	casa
+T52	PER 4468 4476	la donna
+T53	PER 4558 4565	Lorenzo
+T54	PER 4577 4585	Marianna
+T55	PER 4628 4638	Tua moglie
+T56	PER 4661 4669	la gente
+T57	FAC 4752 4764	una biscazza
+T58	PER 4825 4832	Lograve
+T59	PER 4886 4892	alcuno
+T60	PER 4930 4938	L ' uomo
+T61	PER 5080 5088	la gente
+T62	PER 5196 5204	compagni
+T63	FAC 5282 5286	casa
+T64	PER 5394 5402	l ' uomo
+T65	PER 5427 5435	Marianna
+T66	PER 5605 5612	Lorenzo
+T67	FAC 5627 5644	stanza del giuoco
+T68	PER 5696 5708	i giuocatori
+T69	PER 5803 5810	Lorenzo
+T70	PER 6085 6100	Lorenzo Lograve
+T71	FAC 6354 6358	casa
+T72	FAC 6446 6468	la stanza d ' ingresso
+T73	FAC 6471 6484	un ' antisala
+T74	FAC 6487 6497	un salotto
+T75	FAC 6547 6566	una camera da letto
+T76	PER 6756 6763	Nessuno
+T77	PER 6826 6833	Lorenzo
+T78	PER 6923 6954	una donna tutta vestita di nero
+T79	PER 6980 7001	la monaca vegliatrice
+T80	PER 7024 7031	Lorenzo
+T81	PER 7066 7075	La monaca
+T82	PER 7154 7162	Marianna
+T83	PER 7179 7188	il medico
+T84	PER 7213 7238	il marito della moribonda
+T85	PER 7229 7238	moribonda
+T86	PER 7389 7399	La morente
+T87	PER 7812 7823	una bambina
+T88	PER 7826 7844	La suora di carità
+T89	PER 7952 7961	moribondi
+T90	PER 7994 8002	Marianna
+T91	PER 8053 8062	la monaca
+T92	PER 8067 8076	il marito
+T93	PER 8107 8118	la giacente
+T94	PER 8287 8295	Marianna
+T95	PER 8420 8429	la misera
+T96	PER 8473 8481	Marianna
+T97	PER 8567 8575	giacente
+T98	PER 8601 8607	monaca
+T99	PER 8653 8663	le persone
+T100	PER 8693 8702	La monaca
+T101	PER 8738 8747	moribonda
+T102	PER 8863 8899	quell ' essere vicino ad estinguersi
+T103	PER 8905 8915	Mio figlio
+T104	PER 8980 8990	Il bambino
+T105	PER 9009 9018	la monaca
+T106	PER 9176 9181	Luisa
+T107	PER 9194 9202	la suora
+T108	PER 9205 9215	il bambino
+T109	PER 9240 9247	nutrice
+T110	PER 9351 9359	la balia
+T111	PER 9652 9661	la monaca
+T112	PER 9714 9724	il piccino
+T113	PER 9736 9748	la moribonda
+T114	PER 9770 9779	La monaca
+T115	PER 9842 9858	quella poveretta
+T116	PER 9916 9924	Marianna
+T117	PER 9997 10007	il bambino
+T118	PER 10010 10018	Marianna
+T119	PER 10119 10129	Mio figlio
+T120	PER 10136 10146	mio figlio
+T121	PER 10195 10205	la morente
+T122	PER 10236 10245	la monaca
+T123	PER 10313 10323	suo marito
+T124	PER 10367 10386	una balia assonnata
+T125	PER 10461 10489	un fantolino di pochi giorni
+T126	PER 10537 10546	sua madre
+T127	PER 10576 10590	quest ' ultima
+T128	PER 10631 10640	La misera
+T129	PER 10727 10734	bambino
+T130	PER 10842 10851	La monaca
+T131	PER 10858 10868	il bambino
+T132	PER 10875 10882	nutrice
+T133	PER 10923 10928	madre
+T134	PER 10935 10973	un bimbo miseruzzo , piccino , piccino
+T135	PER 11119 11131	La moribonda
+T136	PER 11191 11209	La suora di carità
+T137	PER 11238 11245	morente
+T138	PER 11267 11272	bimbo
+T139	PER 11283 11293	figlio mio
+T140	PER 11304 11321	la madre infelice
+T141	PER 11355 11366	Dio pietoso
+T142	PER 11445 11451	monaca
+T143	PER 11553 11562	poveretta
+T144	PER 11614 11623	La monaca
+T145	PER 11630 11640	il bambino
+T146	PER 11646 11651	balia
+T147	PER 11688 11704	Questo innocente
+T148	PER 11716 11721	madre
+T149	PER 11724 11732	Marianna
+T150	PER 11837 11846	la monaca
+T151	PER 11896 11901	morta
+T152	PER 12047 12055	Marianna
+T153	PER 12103 12111	la morta
+T154	PER 12365 12375	suo figlio
+T155	PER 12424 12427	Dio
+T156	PER 12461 12470	la monaca
+T157	PER 12504 12509	suora
+T158	PER 12553 12561	Marianna
+T159	PER 12564 12567	Dio
+T160	PER 12749 12760	sor Lorenzo
+T161	PER 12840 12849	La monaca
+T162	PER 12992 12997	suora
+T163	PER 13042 13050	Marianna
+T164	PER 13131 13140	la monaca
+T165	PER 13203 13218	la mia compagna

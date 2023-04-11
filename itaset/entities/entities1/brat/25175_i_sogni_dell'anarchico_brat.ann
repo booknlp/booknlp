@@ -1,0 +1,121 @@
+T0	FAC 14 24	Il salotto
+T1	PER 246 256	due uomini
+T2	PER 259 266	l ' uno
+T3	PER 349 365	tutta la persona
+T4	PER 368 377	l ' altro
+T5	PER 468 478	due uomini
+T6	PER 586 633	un uomo di mezza età , alto , slanciato , magro
+T7	PER 977 990	collezionisti
+T8	FAC 1278 1284	camera
+T9	PER 1565 1590	qualche ricamatore cinese
+T10	FAC 1616 1622	camera
+T11	GPE 1665 1681	regno della coda
+T12	PER 1684 1693	L ' altro
+T13	PER 2261 2271	due uomini
+T14	PER 2318 2355	L ' uomo dalla veste da camera cinese
+T15	FAC 2342 2348	camera
+T16	PER 2544 2551	un uomo
+T17	PER 2699 2704	tutti
+T18	PER 2707 2716	L ' altro
+T19	PER 3556 3565	L ' altro
+T20	PER 3678 3683	Pazzo
+T21	PER 3686 3694	L ' uomo
+T22	PER 3742 3768	l ' uomo dagli occhi grigi
+T23	PER 3799 3804	altro
+T24	PER 3890 3895	frate
+T25	PER 3898 3907	L ' altro
+T26	PER 4067 4122	tutti coloro i quali metterebbero in ceppi il mio corpo
+T27	PER 4200 4218	Schiavo di nessuno
+T28	PER 4211 4218	nessuno
+T29	PER 4419 4428	l ' altro
+T30	PER 4546 4554	ciarloni
+T31	PER 4566 4582	gente che lavori
+T32	PER 4618 4632	il più giovane
+T33	PER 4878 4887	L ' altro
+T34	PER 5128 5154	l ' uomo dagli occhi grigi
+T35	PER 5163 5172	l ' altro
+T36	PER 5437 5464	l ' uomo dalla veste cinese
+T37	PER 5479 5488	L ' altro
+T38	PER 5611 5615	vile
+T39	PER 5701 5713	ogni tiranno
+T40	ORG 5716 5726	il governo
+T41	ORG 5729 5738	la chiesa
+T42	ORG 5741 5757	l ' aristocrazia
+T43	PER 5760 5768	i ricchi
+T44	PER 5780 5815	tutti i papi del partito socialista
+T45	ORG 5797 5815	partito socialista
+T46	PER 5822 5826	vile
+T47	PER 5945 5954	L ' altro
+T48	PER 6076 6085	L ' altro
+T49	FAC 6503 6509	chiesa
+T50	PER 6537 6559	la folla che passeggia
+T51	PER 6569 6577	la folla
+T52	FAC 6596 6602	chiesa
+T53	PER 6648 6656	trattore
+T54	FAC 6694 6703	gabinetto
+T55	PER 6792 6801	l ' altro
+T56	PER 6816 6830	Il più anziano
+T57	PER 6950 6961	mia sorella
+T58	PER 6968 6978	suoi figli
+T59	PER 7433 7442	L ' altro
+T60	LOC 7806 7811	mondo
+T61	PER 8054 8074	fanciullo di Nazaret
+T62	GPE 8067 8074	Nazaret
+T63	PER 8139 8149	Il giovane
+T64	PER 8258 8267	L ' altro
+T65	FAC 8476 8483	armadio
+T66	PER 8623 8633	il giovane
+T67	PER 8755 8766	Il fanatico
+T68	PER 8789 8805	l ' indifferente
+T69	PER 8808 8819	l ' apatico
+T70	PER 8876 8885	l ' altro
+T71	PER 8888 8898	Il giovane
+T72	PER 8936 8941	amico
+T73	PER 9047 9051	vile
+T74	LOC 9374 9379	terra
+T75	PER 9828 9871	quell ' uomo , il cui sguardo era sì freddo
+T76	FAC 10043 10049	stanza
+T77	FAC 10058 10062	casa
+T78	PER 10179 10194	Giovanni Giunti
+T79	PER 10202 10211	l ' amico
+T80	PER 10241 10279	tutti questi uomini dalle mezze misure
+T81	PER 10598 10603	molti
+T82	PER 10606 10611	molti
+T83	PER 10620 10632	indifferenti
+T84	PER 10641 10652	miscredenti
+T85	PER 10655 10666	Le famiglie
+T86	FAC 10779 10785	chiesa
+T87	FAC 10928 10940	le fabbriche
+T88	PER 10956 10964	la gente
+T89	LOC 10976 10982	le vie
+T90	PER 11106 11111	Molti
+T91	PER 11146 11152	Cristo
+T92	PER 11299 11312	il forestiero
+T93	GPE 11353 11358	città
+T94	PER 11441 11454	questo popolo
+T95	PER 11466 11471	tutti
+T96	PER 11581 11585	Gesù
+T97	PER 11705 11723	un fanciullo ebreo
+T98	PER 11731 11739	un ebreo
+T99	PER 11964 11970	popolo
+T100	ORG 12022 12030	anarchia
+T101	ORG 12237 12279	autoritarismo ieratico , civile e militare
+T102	ORG 12370 12376	Chiesa
+T103	ORG 12460 12470	la società
+T104	PER 12482 12491	Il popolo
+T105	PER 12535 12546	le autorità
+T106	PER 12597 12602	molti
+T107	PER 12838 12852	il vendicatore
+T108	PER 12989 13005	grande pensatore
+T109	PER 13033 13049	ragazzo credente
+T110	PER 13055 13084	socio di un circolo cattolico
+T111	ORG 13064 13084	un circolo cattolico
+T112	ORG 13091 13099	anarchia
+T113	ORG 13146 13162	il cristianesimo
+T114	FAC 13170 13176	scuola
+T115	ORG 13230 13245	il cattolicismo
+T116	ORG 13261 13279	tutte le religioni
+T117	PER 13332 13339	umanità
+T118	ORG 13404 13410	Chiesa
+T119	GPE 13434 13441	nazioni
+T120	LOC 13548 13553	mondo

@@ -1,0 +1,214 @@
+T0	PER 2 12	Sua Maestà
+T1	PER 13 22	la Regina
+T2	PER 36 90	conte Ercole Pagano Silf , gran Maresciallo di Birònia
+T3	GPE 83 90	Birònia
+T4	FAC 142 146	sala
+T5	PER 213 230	la persona del Re
+T6	PER 233 261	Ludovico XII , Re di Birònia
+T7	GPE 254 261	Birònia
+T8	PER 700 712	Ludovico XII
+T9	PER 834 839	il Re
+T10	PER 852 858	Maestà
+T11	PER 903 915	Ludovico XII
+T12	FAC 952 966	cappella Reale
+T13	PER 1158 1161	Dio
+T14	PER 1222 1238	prelato di corte
+T15	ORG 1233 1238	corte
+T16	PER 1332 1356	conte Ercole Pagano Silf
+T17	PER 1400 1407	Sovrano
+T18	PER 1423 1441	Monsignore vicario
+T19	PER 1526 1537	le Orsoline
+T20	PER 1576 1611	Monsignora Superiora delle Clarisse
+T21	PER 1603 1611	Clarisse
+T22	FAC 1663 1673	cattedrale
+T23	PER 1719 1757	tutte le vergini e le madri di Birònia
+T24	GPE 1750 1757	Birònia
+T25	PER 1778 1783	il Re
+T26	PER 1814 1833	Il gran Maresciallo
+T27	PER 1860 1870	il Sovrano
+T28	FAC 1899 1940	il lungo e deserto corridoio della Reggia
+T29	FAC 1934 1940	Reggia
+T30	PER 1972 1977	il Re
+T31	PER 1980 1999	il gran Maresciallo
+T32	PER 2066 2082	Sua Maestà il Re
+T33	FAC 2098 2158	quella camera tappezzata di seta azzurra a gigli d ' argento
+T34	PER 2283 2317	Regina Sofia Clementina di Birònia
+T35	GPE 2310 2317	Birònia
+T36	PER 2426 2437	i moribondi
+T37	PER 2449 2458	sacerdote
+T38	PER 2570 2594	conte Ercole Pagano Silf
+T39	FAC 2702 2714	il corridoio
+T40	PER 2817 2824	Signore
+T41	PER 2841 2924	Ludovico XII Re di Birònia , Re assoluto , tipo straordinariamente forte di soldato
+T42	GPE 2860 2867	Birònia
+T43	GPE 3001 3008	Birònia
+T44	PER 3027 3037	suo popolo
+T45	PER 3155 3184	Ludovico il Grande di Birònia
+T46	GPE 3177 3184	Birònia
+T47	GPE 3227 3235	il Regno
+T48	PER 3305 3317	Ludovico XII
+T49	PER 3470 3490	sgherro d ' operetta
+T50	PER 3623 3629	ognuno
+T51	PER 3673 3689	la persona tutta
+T52	PER 3705 3707	Re
+T53	PER 3725 3732	Sovrano
+T54	PER 3769 3774	tutti
+T55	PER 3876 3881	tutti
+T56	GPE 3942 3949	Birònia
+T57	PER 3954 3966	un cittadino
+T58	PER 4008 4014	suo Re
+T59	GPE 4036 4058	il Regno della Birònia
+T60	GPE 4051 4058	Birònia
+T61	PER 4064 4088	una patriarcale famiglia
+T62	PER 4103 4127	figura fortissima del Re
+T63	PER 4147 4176	Regina , pallida e sofferente
+T64	PER 4351 4357	popolo
+T65	ORG 4421 4426	Stato
+T66	PER 4499 4505	ognuno
+T67	PER 4574 4581	Signore
+T68	GPE 4719 4729	quel Regno
+T69	PER 4778 4780	Re
+T70	PER 4795 4811	ultimo cittadino
+T71	PER 4823 4833	il Sovrano
+T72	GPE 4934 4941	Birònia
+T73	PER 4954 4962	Ludovico
+T74	ORG 5021 5026	Stato
+T75	PER 5061 5063	Re
+T76	PER 5199 5253	conte Ercole Pagano Silf , gran Maresciallo di Birònia
+T77	GPE 5246 5253	Birònia
+T78	PER 5376 5383	Monarca
+T79	PER 5441 5467	l ' eminente uomo di Stato
+T80	ORG 5462 5467	Stato
+T81	PER 5590 5602	Ludovico XII
+T82	PER 5612 5642	Principe ereditario di Birònia
+T83	GPE 5635 5642	Birònia
+T84	PER 5654 5708	principessa Sofia Clementina Spifz Mai de Burgo Manèro
+T85	PER 5771 5797	bella principessa Eufrasia
+T86	PER 5823 5832	il popolo
+T87	PER 5889 5900	quel popolo
+T88	PER 5951 5965	augusta coppia
+T89	PER 5974 5994	principessa Angelica
+T90	PER 6046 6057	principesse
+T91	PER 6058 6076	Giovanna Francesca
+T92	PER 6081 6095	Maria Carolina
+T93	PER 6127 6136	Ludovichi
+T94	PER 6143 6165	numerosa e fiera prole
+T95	PER 6200 6211	principesse
+T96	PER 6212 6219	Olimpia
+T97	PER 6222 6229	Zelinda
+T98	PER 6232 6237	Zaira
+T99	PER 6240 6247	Colomba
+T100	PER 6294 6308	nostro Sovrano
+T101	GPE 6315 6340	Regno tutto della Birònia
+T102	GPE 6333 6340	Birònia
+T103	PER 6444 6467	Regina Sofia Clementina
+T104	PER 6540 6558	i medici del regno
+T105	GPE 6553 6558	regno
+T106	PER 6561 6596	quelli chiamati dai regni limitrofi
+T107	GPE 6581 6596	regni limitrofi
+T108	PER 6689 6699	Sua Maestà
+T109	PER 6872 6888	il Re di Birònia
+T110	GPE 6881 6888	Birònia
+T111	PER 6904 6924	l ' augusta consorte
+T112	PER 7128 7136	Ludovico
+T113	PER 7139 7158	la graziosa signora
+T114	PER 7191 7210	tutto il popolo suo
+T115	ORG 7282 7287	Corte
+T116	PER 7328 7339	primo il Re
+T117	PER 7397 7403	Regina
+T118	GPE 7456 7463	Birònia
+T119	PER 7469 7530	il messia , l ' erede , colui che doveva essere Ludovico XIII
+T120	PER 7517 7530	Ludovico XIII
+T121	PER 7587 7594	Sovrana
+T122	PER 7643 7662	il Gran Maresciallo
+T123	PER 7695 7697	Re
+T124	PER 7736 7741	il Re
+T125	PER 7782 7792	Sua Maestà
+T126	PER 7809 7826	brutto pagliaccio
+T127	PER 7855 7879	questa nuova principessa
+T128	PER 7892 7900	Geltrude
+T129	ORG 7940 7952	felice Stato
+T130	PER 7964 7972	Ludovico
+T131	PER 8004 8014	il Monarca
+T132	PER 8068 8087	Le nove principesse
+T133	FAC 8116 8141	ultimo piano della Reggia
+T134	FAC 8135 8141	Reggia
+T135	FAC 8184 8194	i giardini
+T136	PER 8209 8214	il Re
+T137	PER 8305 8321	tutti gli uomini
+T138	GPE 8565 8573	il Regno
+T139	PER 8589 8605	Ludovichi Giulii
+T140	PER 8626 8635	Ludovichi
+T141	GPE 8657 8662	Regno
+T142	PER 8716 8722	Sgòrpi
+T143	PER 8782 8800	Ludovico il grande
+T144	PER 8805 8830	soli settantasette uomini
+T145	FAC 8841 8865	piazza dei Settantasette
+T146	PER 8852 8865	Settantasette
+T147	PER 8895 8913	Ludovico il Grande
+T148	GPE 8919 8926	Birònia
+T149	GPE 8960 8967	Sgorpìa
+T150	PER 9039 9048	Ludovichi
+T151	PER 9066 9103	una donna , una pallida donna dannata
+T152	PER 9144 9166	miserabili principesse
+T153	PER 9328 9346	il peggiore nemico
+T154	GPE 9420 9427	Birònia
+T155	PER 9441 9450	Ludovichi
+T156	PER 9484 9493	il popolo
+T157	PER 9530 9554	conte Ercole Pagano Silf
+T158	PER 9583 9593	il sovrano
+T159	PER 9666 9674	la donna
+T160	GPE 9678 9683	regno
+T161	PER 9689 9715	bella principessa Eufrasia
+T162	PER 9730 9753	una regina meravigliosa
+T163	PER 9773 9778	il Re
+T164	GPE 9795 9817	il regno dei Ludovichi
+T165	PER 9808 9817	Ludovichi
+T166	PER 9818 9828	la femmina
+T167	PER 9899 9920	nessuno dei dodici Re
+T168	ORG 9959 9964	Stato
+T169	PER 9974 10037	le donne dei Ludovichi sagge ed ottime spose , e migliori madri
+T170	FAC 10105 10111	Reggia
+T171	PER 10157 10175	Ludovico il Grande
+T172	FAC 10182 10206	Piazza dei Settantasette
+T173	PER 10193 10206	Settantasette
+T174	PER 10315 10344	Il buono e saggio Maresciallo
+T175	GPE 10418 10426	il Regno
+T176	PER 10457 10462	il Re
+T177	PER 10489 10500	altra donna
+T178	PER 10538 10544	Regina
+T179	PER 10664 10688	conte Ercole Pagano Silf
+T180	PER 10751 10758	Monarca
+T181	PER 10770 10778	Ludovico
+T182	PER 10880 10889	la Regina
+T183	PER 10932 10940	I medici
+T184	PER 10964 10981	l ' augusta donna
+T185	PER 11155 11164	il decimo
+T186	PER 11173 11195	principessa Genovieffa
+T187	PER 11208 11218	Sua Maestà
+T188	PER 11267 11279	Ludovico XII
+T189	PER 11406 11426	principessa Penelope
+T190	PER 11446 11455	la Regina
+T191	PER 11678 11698	principessa Penelope
+T192	PER 11701 11706	Il Re
+T193	PER 11733 11742	un vedovo
+T194	ORG 11774 11779	Stato
+T195	PER 11812 11825	il popolo suo
+T196	LOC 11908 11920	questo mondo
+T197	GPE 11944 11951	Birònia
+T198	GPE 11954 11968	Tutto il Regno
+T199	PER 12028 12063	chirurghi e ostetrici e specialisti
+T200	PER 12081 12084	uno
+T201	GPE 12100 12107	America
+T202	PER 12124 12134	sua Maestà
+T203	PER 12208 12217	la Regina
+T204	PER 12320 12337	l ' anelato erede
+T205	PER 12340 12348	L ' eroe
+T206	PER 12416 12440	conte Ercole Pagano Silf
+T207	PER 12445 12483	tutti i dignitari e medici della corte
+T208	ORG 12478 12483	corte
+T209	PER 12498 12516	monsignore Vicario
+T210	PER 12521 12556	Monsignora Superiora delle Clarisse
+T211	PER 12548 12556	Clarisse
+T212	PER 12561 12603	Monsignora Generalissima delle Rocchettine
+T213	PER 12592 12603	Rocchettine

@@ -1,0 +1,185 @@
+T0	PER 4 10	Fulvio
+T1	PER 45 50	Paola
+T2	PER 267 273	marito
+T3	PER 324 330	Fulvio
+T4	PER 817 823	Fulvio
+T5	PER 941 957	una donna odiosa
+T6	PER 976 981	Paola
+T7	PER 1025 1045	un malato incurabile
+T8	PER 1066 1072	Fulvio
+T9	PER 1075 1085	La brigata
+T10	PER 1129 1157	un maestro giovane , pallido
+T11	PER 1237 1274	una fanciulla gracile , biancovestita
+T12	PER 1336 1341	Bizet
+T13	PER 1477 1494	due o tre signore
+T14	PER 1596 1615	fanciulla orientale
+T15	PER 1618 1636	il marito di Paola
+T16	PER 1631 1636	Paola
+T17	PER 1742 1752	sua moglie
+T18	FAC 1880 1897	quel lungo salone
+T19	PER 1927 1933	Fulvio
+T20	LOC 1943 1950	il mare
+T21	PER 1974 1979	Paola
+T22	PER 2004 2014	giovinotti
+T23	PER 2022 2029	signore
+T24	PER 2073 2093	il porta - sigarette
+T25	PER 2137 2143	Fulvio
+T26	PER 2251 2256	Amico
+T27	PER 2294 2299	Paola
+T28	PER 2322 2332	un brutale
+T29	PER 2479 2484	amico
+T30	PER 2487 2501	questi signori
+T31	PER 2536 2546	mio marito
+T32	PER 2611 2621	suo marito
+T33	PER 2640 2649	Il marito
+T34	PER 2705 2739	uomo dalla felicità imperturbabile
+T35	PER 2804 2810	moglie
+T36	PER 2850 2865	marito e moglie
+T37	PER 2954 2966	i loro amici
+T38	PER 3019 3032	due fidanzati
+T39	PER 3073 3079	Fulvio
+T40	PER 3361 3374	vostro marito
+T41	PER 3446 3453	signora
+T42	PER 3518 3523	Paola
+T43	PER 3611 3616	tutti
+T44	PER 3636 3651	signorina Sofia
+T45	PER 3694 3711	l ' hôtesse arabe
+T46	PER 3716 3736	la gracile fanciulla
+T47	PER 3793 3798	Bizet
+T48	PER 3810 3815	Sofia
+T49	PER 3818 3824	Fulvio
+T50	PER 3851 3870	resto della brigata
+T51	PER 3875 3880	Bizet
+T52	PER 3980 4008	La fanciulla gracile e mesta
+T53	PER 4183 4195	bel étranger
+T54	PER 4203 4208	Sofia
+T55	PER 4267 4347	Il maestro giovanetto , pallido , col grosso ciuffo di capelli neri sulla fronte
+T56	GPE 4370 4376	Londra
+T57	PER 4392 4418	quei suoi amici napoletani
+T58	PER 4441 4447	misses
+T59	PER 4456 4474	mistresses inglesi
+T60	PER 4593 4603	napoletano
+T61	PER 4676 4681	Tutti
+T62	PER 4706 4724	il marito di Paola
+T63	PER 4719 4724	Paola
+T64	PER 4727 4732	Paola
+T65	PER 4807 4828	un pittore fantastico
+T66	PER 4867 4873	Fulvio
+T67	PER 4907 4912	Paola
+T68	PER 5311 5317	Fulvio
+T69	PER 5485 5490	Paola
+T70	PER 5493 5498	tutti
+T71	PER 5530 5547	maestro di musica
+T72	PER 5550 5556	Fulvio
+T73	PER 5592 5597	Sofia
+T74	LOC 5724 5728	mare
+T75	PER 5750 5755	tutti
+T76	PER 5804 5814	la brigata
+T77	FAC 5868 5876	terrazzo
+T78	LOC 5888 5895	il mare
+T79	LOC 5996 6000	mare
+T80	VEH 6001 6014	una barchetta
+T81	FAC 6036 6041	prora
+T82	VEH 6127 6136	barchetta
+T83	PER 6137 6145	qualcuno
+T84	PER 6252 6261	una donna
+T85	LOC 6314 6318	mare
+T86	VEH 6398 6410	la barchetta
+T87	PER 6444 6460	la lieta brigata
+T88	PER 6497 6517	il maestro di musica
+T89	PER 6570 6583	un giovanotto
+T90	PER 6626 6631	Paola
+T91	VEH 6648 6653	barca
+T92	PER 6663 6681	il marito di Paola
+T93	PER 6676 6681	Paola
+T94	PER 6705 6715	sua moglie
+T95	PER 6756 6772	Tutta la brigata
+T96	VEH 6925 6937	la barchetta
+T97	PER 6996 7006	innamorati
+T98	PER 7019 7037	il marito di Paola
+T99	PER 7032 7037	Paola
+T100	PER 7042 7052	Beati loro
+T101	PER 7063 7069	Fulvio
+T102	PER 7103 7123	il maestro di musica
+T103	GPE 7128 7134	Napoli
+T104	LOC 7138 7153	le sue spiaggie
+T105	VEH 7163 7172	barchette
+T106	FAC 7175 7186	le sue case
+T107	PER 7258 7276	il marito di Paola
+T108	PER 7271 7276	Paola
+T109	VEH 7303 7312	barchetta
+T110	PER 7351 7357	quelli
+T111	PER 7440 7449	due o tre
+T112	PER 7494 7500	Fulvio
+T113	PER 7568 7586	il marito di Paola
+T114	PER 7581 7586	Paola
+T115	PER 7619 7639	il maestro di musica
+T116	PER 7644 7650	Fulvio
+T117	PER 7663 7676	signora Paola
+T118	PER 7679 7689	suo marito
+T119	PER 7759 7764	Paola
+T120	PER 7794 7800	Fulvio
+T121	PER 7806 7827	gli amici e le amiche
+T122	FAC 7844 7850	salone
+T123	LOC 7902 7906	mare
+T124	VEH 7913 7926	due barchette
+T125	VEH 8121 8146	la barchetta degli amanti
+T126	PER 8140 8146	amanti
+T127	PER 8165 8175	le signore
+T128	PER 8178 8187	i signori
+T129	FAC 8254 8265	il terrazzo
+T130	PER 8268 8273	Paola
+T131	PER 8282 8288	Fulvio
+T132	FAC 8413 8421	terrazzo
+T133	PER 8424 8439	Qualche signora
+T134	PER 8481 8493	gli invitati
+T135	PER 8511 8516	Sofia
+T136	PER 8575 8583	La gente
+T137	PER 8642 8651	fanciulla
+T138	PER 8920 8925	Paola
+T139	PER 8939 8945	Fulvio
+T140	FAC 8978 8986	terrazzo
+T141	PER 9216 9221	Paola
+T142	FAC 9260 9266	salone
+T143	PER 9273 9285	il cameriere
+T144	PER 9488 9504	altro suo ospite
+T145	FAC 9541 9549	terrazzo
+T146	LOC 9590 9594	mare
+T147	PER 9621 9626	amico
+T148	FAC 9733 9737	sala
+T149	PER 9840 9846	Fulvio
+T150	PER 9940 9945	Paola
+T151	PER 10072 10077	gente
+T152	PER 10086 10098	gente felice
+T153	PER 10125 10130	Paola
+T154	FAC 10359 10374	questo terrazzo
+T155	PER 10459 10472	Vostro marito
+T156	PER 10636 10641	Paola
+T157	PER 10711 10725	un agonizzante
+T158	PER 10849 10861	donna onesta
+T159	PER 10887 10896	fanciulla
+T160	PER 10902 10907	sposa
+T161	PER 11048 11053	Paola
+T162	PER 11109 11114	Paola
+T163	PER 11139 11152	una cristiana
+T164	PER 11176 11183	un uomo
+T165	LOC 11261 11277	golfo napoletano
+T166	FAC 11338 11365	deserta strada di Posillipo
+T167	GPE 11356 11365	Posillipo
+T168	FAC 11388 11408	terrazza della villa
+T169	FAC 11403 11408	villa
+T170	GPE 11443 11449	Napoli
+T171	FAC 11507 11514	balcone
+T172	FAC 11530 11538	terrazzo
+T173	PER 11619 11625	Fulvio
+T174	PER 11707 11712	Paola
+T175	PER 11892 11897	Paola
+T176	PER 12113 12118	Paola
+T177	FAC 12283 12287	casa
+T178	PER 12290 12297	i servi
+T179	FAC 12312 12321	le stanze
+T180	PER 12378 12383	Paola
+T181	PER 12389 12399	suo marito
+T182	PER 12701 12706	Paola
+T183	PER 12714 12732	un bimbo disperato
+T184	PER 12796 12801	Paola

@@ -1,0 +1,186 @@
+T0	PER 29 127	biondo e rubicondo signor Trüb , seniore , il socio gerente della Tête - pointue a Villars - Ollon
+T1	GPE 95 127	Tête - pointue a Villars - Ollon
+T2	FAC 200 239	l ' atrio oscuro e basso dell ' albergo
+T3	FAC 232 239	albergo
+T4	PER 285 295	forestieri
+T5	FAC 393 406	alta terrazza
+T6	PER 463 474	signor Trüb
+T7	LOC 704 716	Dent du Midi
+T8	LOC 778 809	grande montagna nera e rocciosa
+T9	LOC 1107 1145	Il largo piano della valle sottostante
+T10	LOC 1167 1194	striscia torbida del Rodano
+T11	GPE 1197 1230	i bianchi villaggi delle due rive
+T12	LOC 1222 1230	due rive
+T13	LOC 1258 1274	pendio dei monti
+T14	LOC 1293 1315	la curva delle colline
+T15	LOC 1336 1394	il vasto paesaggio così verde , così vario e così colorito
+T16	FAC 1535 1543	terrazza
+T17	PER 1649 1685	Una grande famiglia di prim ' ordine
+T18	PER 1688 1700	Otto signori
+T19	PER 1703 1728	dieci persone di servizio
+T20	PER 1731 1746	L ' albergatore
+T21	PER 1778 1785	Ginevra
+T22	LOC 1860 1864	lago
+T23	PER 1969 1980	signor Trüb
+T24	FAC 2011 2019	terrazza
+T25	PER 2020 2030	un cliente
+T26	FAC 2035 2046	primo piano
+T27	FAC 2051 2080	camera d ' angolo con salotto
+T28	PER 2088 2107	barone Marco Danova
+T29	PER 2112 2125	Signor barone
+T30	PER 2160 2173	signor barone
+T31	PER 2182 2213	signor barone , un ex veneziano
+T32	GPE 2221 2243	Alessandria d ' Egitto
+T33	PER 2580 2599	Il terribile barone
+T34	PER 2628 2649	il povero albergatore
+T35	PER 2697 2711	uomo barometro
+T36	PER 2765 2776	signor Trüb
+T37	PER 2907 2920	signor barone
+T38	PER 2981 3000	L ' egizio venezian
+T39	VEH 3130 3138	ferrovia
+T40	GPE 3142 3148	Milano
+T41	VEH 3165 3173	carrozza
+T42	PER 3226 3240	rubicondo Trüb
+T43	PER 3273 3298	briosissimo signor barone
+T44	VEH 3444 3449	barca
+T45	PER 3452 3467	L ' albergatore
+T46	PER 3608 3621	signor barone
+T47	PER 3919 3932	signor barone
+T48	PER 3953 3966	signor barone
+T49	PER 4135 4150	miei forestieri
+T50	PER 4286 4301	L ' albergatore
+T51	PER 4346 4374	una grande famiglia italiana
+T52	PER 4409 4437	signore giovani , bellissime
+T53	PER 4460 4473	barone Danova
+T54	PER 4506 4529	signore giovani e belle
+T55	GPE 4581 4595	Tête - pointue
+T56	PER 4598 4607	L ' altro
+T57	FAC 4652 4696	tutto il grande appartamento della balconata
+T58	FAC 4702 4713	primo piano
+T59	FAC 4720 4731	due balconi
+T60	FAC 4736 4768	un altro appartamento al secondo
+T61	PER 4771 4783	Otto signori
+T62	PER 4786 4801	dieci servitori
+T63	FAC 4837 4860	il terzo e quarto piano
+T64	PER 4913 4926	signor barone
+T65	GPE 4977 4980	Bex
+T66	VEH 5006 5011	treno
+T67	LOC 5133 5153	punte dei Diablerets
+T68	LOC 5207 5219	Dent du Midi
+T69	LOC 5290 5302	i Diablerets
+T70	PER 5305 5317	Marco Danova
+T71	LOC 5410 5421	Chamossaire
+T72	PER 5440 5451	signor Trüb
+T73	PER 5496 5509	signor barone
+T74	LOC 5841 5852	la montagna
+T75	PER 5868 5892	Marco Danova , rabbonito
+T76	PER 5943 5954	signor Trüb
+T77	LOC 6340 6351	una collina
+T78	PER 6461 6472	signor Trüb
+T79	FAC 6497 6508	l ' albergo
+T80	FAC 6594 6603	l ' atrio
+T81	PER 6606 6616	Le signore
+T82	PER 6705 6716	signor Trüb
+T83	FAC 6790 6796	bureau
+T84	PER 6893 6940	quella strega verde e brontolona di missis Eyre
+T85	PER 6962 6973	signor Trüb
+T86	PER 6976 6987	Missis Eyre
+T87	FAC 6992 7003	terzo piano
+T88	FAC 7006 7022	camera di dietro
+T89	FAC 7031 7038	balcone
+T90	PER 7166 7177	signor Trüb
+T91	PER 7281 7292	Missis Eyre
+T92	PER 7322 7332	I D ' Orea
+T93	PER 7335 7347	i Moncavallo
+T94	GPE 7362 7367	Aigle
+T95	GPE 7373 7376	Bex
+T96	PER 7439 7442	Dio
+T97	GPE 7557 7564	Villars
+T98	PER 7647 7658	missis Eyre
+T99	PER 7737 7747	i D ' Orea
+T100	PER 7750 7762	i Moncavallo
+T101	GPE 7784 7789	Aigle
+T102	VEH 7795 7803	carrozza
+T103	GPE 7837 7840	Bex
+T104	VEH 7844 7862	ferrovia elettrica
+T105	VEH 7869 7886	un treno espresso
+T106	VEH 7895 7908	l ' ordinario
+T107	PER 7939 7958	persone di servizio
+T108	PER 7988 7998	i D ' Orea
+T109	PER 8001 8013	i Moncavallo
+T110	FAC 8028 8042	table d ' hôte
+T111	FAC 8048 8058	restaurant
+T112	FAC 8079 8084	carta
+T113	FAC 8154 8190	il solo appartamento del primo piano
+T114	FAC 8179 8190	primo piano
+T115	FAC 8206 8239	le camere disponibili del secondo
+T116	PER 8290 8318	la marmaglia del servidorame
+T117	FAC 8340 8352	quarto piano
+T118	PER 8434 8445	signor Trüb
+T119	FAC 8556 8569	suo corridoio
+T120	FAC 8819 8826	albergo
+T121	FAC 8862 8876	Tête - pointue
+T122	FAC 8893 8907	Villa d ' Este
+T123	LOC 8914 8926	lago di Como
+T124	FAC 8947 8960	hôtel - Royal
+T125	GPE 8963 8971	San Remo
+T126	FAC 9027 9045	tutti gli alberghi
+T127	PER 9164 9169	altri
+T128	FAC 9247 9262	sala di lettura
+T129	FAC 9271 9292	sala di conversazione
+T130	FAC 9301 9326	sala di musica e di ballo
+T131	PER 9346 9357	missis Eyre
+T132	FAC 9397 9405	fumatoio
+T133	PER 9430 9442	un cameriere
+T134	FAC 9508 9523	sala di lettura
+T135	PER 9543 9551	portiere
+T136	FAC 9738 9758	sala della direzione
+T137	PER 9848 9859	missis Eyre
+T138	VEH 9965 9973	carrozza
+T139	FAC 10009 10016	albergo
+T140	PER 10043 10065	qualche ineducatissimo
+T141	FAC 10189 10221	suo solito balcone della veranda
+T142	PER 10261 10272	Missis Eyre
+T143	LOC 10281 10288	il lago
+T144	LOC 10291 10298	il mare
+T145	LOC 10301 10312	la montagna
+T146	FAC 10364 10378	Villa d ' Este
+T147	PER 10408 10420	quella gente
+T148	FAC 10488 10497	corridoio
+T149	PER 10517 10528	signor Trüb
+T150	PER 10559 10566	vecchia
+T151	PER 10630 10635	Gente
+T152	PER 10655 10672	Gente disordinata
+T153	PER 10715 10723	Portieri
+T154	PER 10726 10735	camerieri
+T155	PER 10799 10811	I forestieri
+T156	PER 10847 10858	signor Trüb
+T157	PER 10880 10895	Grande famiglia
+T158	PER 10915 10927	I Moncavallo
+T159	GPE 10936 10942	Napoli
+T160	PER 10982 11009	duchi , principi , marchesi
+T161	PER 11033 11043	I D ' Orea
+T162	GPE 11052 11059	Bologna
+T163	PER 11120 11147	Una Moncavallo , bellissima
+T164	PER 11164 11189	cavalier Luciano D ' Orea
+T165	PER 11215 11282	Fanfan Trécoeur , la celebre canzonettista delle Folies Parisiennes
+T166	PER 11394 11400	Fanfan
+T167	GPE 11416 11422	Italia
+T168	FAC 11475 11490	Scala di Milano
+T169	GPE 11484 11490	Milano
+T170	PER 11540 11552	i Moncavallo
+T171	FAC 11630 11644	Villa d ' Este
+T172	PER 11688 11699	Missis Eyre
+T173	PER 11774 11799	la carovana della servitù
+T174	PER 11819 11824	tutti
+T175	FAC 11830 11842	quarto piano
+T176	PER 11845 11860	L ' albergatore
+T177	FAC 11932 11951	molte camere libere
+T178	PER 11991 12021	Quell ' oste esoso e spilorcio
+T179	FAC 12135 12144	corridoio
+T180	PER 12276 12300	L ' aristocratica missis
+T181	PER 12530 12540	colonnello
+T182	PER 12545 12555	mio marito
+T183	GPE 12624 12632	Calcutta
+T184	PER 12681 12696	colonnello Eyre
+T185	PER 12802 12812	sua moglie

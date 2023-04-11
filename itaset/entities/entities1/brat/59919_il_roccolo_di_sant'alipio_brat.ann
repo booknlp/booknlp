@@ -1,0 +1,212 @@
+T0	GPE 36 51	Pieve di Cadore
+T1	LOC 85 92	Antelao
+T2	FAC 108 116	ballatoi
+T3	FAC 145 166	vecchie case di legno
+T4	FAC 203 227	balconi delle case nuove
+T5	FAC 217 227	case nuove
+T6	FAC 357 361	muri
+T7	FAC 424 430	cucine
+T8	FAC 470 478	casolari
+T9	FAC 500 504	case
+T10	PER 591 603	gli abitanti
+T11	PER 656 673	tutti i viandanti
+T12	LOC 768 774	le vie
+T13	FAC 819 828	le strade
+T14	FAC 891 902	casa Lareze
+T15	PER 896 902	Lareze
+T16	PER 1011 1028	tutta la famiglia
+T17	PER 1069 1081	Sior Antonio
+T18	LOC 1396 1401	mondo
+T19	PER 1404 1424	Sua moglie Maddalena
+T20	PER 1611 1639	Bortolo il giovane domestico
+T21	FAC 1657 1661	casa
+T22	PER 1702 1753	Betta madre di lui , e vecchia serva della famiglia
+T23	PER 1745 1753	famiglia
+T24	PER 1782 1818	Tiziano l ' unico figlio dei padroni
+T25	PER 1811 1818	padroni
+T26	PER 2044 2059	quella famiglia
+T27	PER 2062 2067	tutti
+T28	PER 2098 2109	ciascheduno
+T29	PER 2244 2259	un buon vecchio
+T30	PER 2339 2358	povero nonno Taddeo
+T31	PER 2450 2457	nessuno
+T32	PER 2480 2543	Piccolo possidente , e agente principale d ' una ricca famiglia
+T33	PER 2525 2543	una ricca famiglia
+T34	GPE 2582 2589	Venezia
+T35	PER 2592 2598	Taddeo
+T36	PER 2659 2666	padroni
+T37	GPE 2686 2727	antica e gloriosa repubblica di San Marco
+T38	FAC 2767 2774	palazzi
+T39	FAC 2796 2802	chiese
+T40	FAC 3069 3091	la piazza di San Marco
+T41	GPE 3082 3091	San Marco
+T42	LOC 3187 3192	mondo
+T43	PER 3289 3300	papa Pio VI
+T44	ORG 3386 3393	governo
+T45	FAC 3537 3568	una loggia tutta oro e damaschi
+T46	FAC 3572 3598	campo San Giovanni e Paolo
+T47	PER 3624 3646	sommo pontefice Pio VI
+T48	PER 3666 3701	patriarca Federigo Maria Giovanelli
+T49	PER 3708 3725	Doge Paolo Renier
+T50	PER 3740 3749	cardinali
+T51	PER 3756 3763	Vescovi
+T52	ORG 3772 3778	Senato
+T53	PER 3781 3790	Il popolo
+T54	FAC 3840 3846	piazza
+T55	FAC 3896 3900	case
+T56	PER 3930 3934	papa
+T57	PER 3944 3955	i veneziani
+T58	FAC 4028 4034	chiesa
+T59	GPE 4094 4099	città
+T60	VEH 4160 4164	navi
+T61	GPE 4232 4247	città singolare
+T62	GPE 4303 4310	Venezia
+T63	GPE 4439 4465	la repubblica di San Marco
+T64	PER 4605 4615	i cadorini
+T65	ORG 4652 4669	governo Austriaco
+T66	PER 4795 4805	i tedeschi
+T67	GPE 4817 4823	Cadore
+T68	GPE 4921 4929	il paese
+T69	PER 5149 5167	suo figlio Antonio
+T70	PER 5187 5194	Tiziano
+T71	PER 5197 5204	Bortolo
+T72	GPE 5342 5352	ogni paese
+T73	PER 5375 5380	nonni
+T74	PER 5507 5515	famiglia
+T75	PER 5523 5537	vecchio Taddeo
+T76	GPE 5597 5606	San Marco
+T77	ORG 5626 5646	il governo Austriaco
+T78	GPE 5703 5709	Italia
+T79	PER 5791 5798	suo Dio
+T80	PER 5888 5900	Sior Antonio
+T81	PER 6067 6076	montanaro
+T82	PER 6315 6351	agente generale degli stessi padroni
+T83	PER 6337 6351	stessi padroni
+T84	PER 6410 6416	vicini
+T85	LOC 6493 6503	quei monti
+T86	PER 6711 6723	Sior Antonio
+T87	PER 6739 6795	sua moglie Maddalena , sobria ed economa padrona di casa
+T88	FAC 6791 6795	casa
+T89	PER 6843 6863	unico figlio Tiziano
+T90	PER 6980 6987	Tiziano
+T91	FAC 7039 7055	le scuole locali
+T92	LOC 7075 7080	monti
+T93	PER 7111 7124	suoi compagni
+T94	PER 7133 7140	Bortolo
+T95	FAC 7162 7166	casa
+T96	PER 7186 7214	un vecchio e fedel servitore
+T97	PER 7221 7226	Betta
+T98	PER 7246 7252	vedova
+T99	PER 7264 7273	il figlio
+T100	PER 7292 7300	genitori
+T101	PER 7337 7359	i padroni di suo padre
+T102	PER 7350 7359	suo padre
+T103	PER 7362 7375	I due ragazzi
+T104	PER 7423 7431	fratelli
+T105	PER 7443 7450	Tiziano
+T106	FAC 7490 7521	seminario Gregoriano di Belluno
+T107	GPE 7514 7521	Belluno
+T108	PER 7524 7531	Bortolo
+T109	ORG 7674 7719	la società di compagni svegli ed intelligenti
+T110	PER 7734 7741	Tiziano
+T111	GPE 7774 7780	Italia
+T112	PER 7815 7823	famiglia
+T113	PER 7826 7876	Michele Malacchini suo compatriotta , condiscepolo
+T114	FAC 7888 7905	scuole elementari
+T115	PER 7910 7921	suo collega
+T116	FAC 7925 7934	seminario
+T117	PER 7945 7973	il più intimo dei suoi amici
+T118	PER 7978 8003	l ' indivisibile compagno
+T119	PER 8021 8035	Questo giovane
+T120	PER 8044 8050	orfano
+T121	FAC 8085 8089	casa
+T122	PER 8093 8104	Sior Iseppo
+T123	PER 8107 8131	un vecchio zio bisbetico
+T124	PER 8141 8151	suo tutore
+T125	PER 8170 8179	il nipote
+T126	PER 8229 8238	Il nipote
+T127	PER 8251 8257	lo zio
+T128	PER 8263 8273	un tiranno
+T129	FAC 8352 8362	sua stanza
+T130	PER 8378 8391	il giovanetto
+T131	PER 8513 8520	Tiziano
+T132	PER 8523 8530	Michele
+T133	LOC 8541 8549	i boschi
+T134	LOC 8552 8560	le valli
+T135	LOC 8724 8752	più erte rupi delle montagne
+T136	LOC 8744 8752	montagne
+T137	FAC 8779 8788	Seminario
+T138	PER 8789 8800	i due amici
+T139	FAC 8825 8845	Università di Padova
+T140	GPE 8839 8845	Padova
+T141	FAC 8873 8884	stessa casa
+T142	FAC 8888 8907	due camere contigue
+T143	PER 8910 8917	Tiziano
+T144	PER 8952 8961	ingegnere
+T145	PER 8964 8971	Michele
+T146	FAC 9010 9016	scuola
+T147	FAC 9068 9079	aule chiuse
+T148	FAC 9219 9238	le strade di Padova
+T149	GPE 9232 9238	Padova
+T150	PER 9267 9291	le sartine e le crestaie
+T151	PER 9330 9344	tutte le donne
+T152	PER 9455 9464	i giovani
+T153	GPE 9578 9586	il paese
+T154	PER 9711 9718	Mazzini
+T155	PER 9721 9726	Balbo
+T156	PER 9729 9737	Gioberti
+T157	PER 9740 9751	D ' Azeglio
+T158	PER 9797 9806	Niccolini
+T159	PER 9841 9847	Giusti
+T160	PER 9850 9857	Berchet
+T161	PER 9920 9929	Guerrazzi
+T162	ORG 10022 10027	sêtte
+T163	LOC 10034 10040	estero
+T164	ORG 10067 10091	società segrete italiane
+T165	GPE 10121 10136	Pieve di Cadore
+T166	FAC 10196 10220	roccolo di Sant ' Alipio
+T167	GPE 10256 10262	Italia
+T168	PER 10265 10280	Isidoro Lorenzi
+T169	PER 10289 10318	il capo dei liberali cadorini
+T170	PER 10301 10318	liberali cadorini
+T171	PER 10323 10388	il più fervente promotore della liberazione d ' Italia sulle Alpi
+T172	GPE 10371 10377	Italia
+T173	LOC 10384 10388	Alpi
+T174	LOC 10524 10532	montagne
+T175	PER 10611 10628	suoi compatriotti
+T176	PER 10669 10678	stranieri
+T177	FAC 10684 10708	roccolo di Sant ' Alipio
+T178	LOC 10805 10834	quella stretta gola del Piave
+T179	LOC 10864 10874	Montericco
+T180	FAC 10883 10933	i ruderi dell ' antico castello di Pieve di Cadore
+T181	GPE 10918 10933	Pieve di Cadore
+T182	GPE 10954 10959	paese
+T183	LOC 11006 11014	torrente
+T184	LOC 11059 11077	un bosco di larici
+T185	LOC 11114 11119	monti
+T186	LOC 11128 11133	selve
+T187	LOC 11147 11157	la vallata
+T188	FAC 11174 11194	una casetta di legno
+T189	LOC 11258 11309	una specie di oasi capricciosa di fiori e di frutta
+T190	LOC 11449 11462	il precipizio
+T191	FAC 11528 11535	roccolo
+T192	PER 11642 11649	Tiziano
+T193	LOC 11678 11688	Montericco
+T194	LOC 11805 11813	montagna
+T195	PER 11816 11878	Isidoro Lorenzi , il fortunato possessore di questo romitaggio
+T196	PER 11901 11923	unica sua figlia Maria
+T197	PER 11930 11947	una vecchia serva
+T198	PER 12052 12088	figlia , una bella e robusta ragazza
+T199	PER 12171 12202	la cara compagna della sua vita
+T200	PER 12229 12265	Passionato cacciatore ed uccellatore
+T201	FAC 12379 12386	roccolo
+T202	LOC 12594 12602	un bosco
+T203	LOC 12828 12856	pittoresca vallata del Piave
+T204	LOC 12874 12887	monti boscosi
+T205	GPE 12900 12923	paeselli biancheggianti
+T206	LOC 12929 12951	falde di verdi colline
+T207	PER 13086 13099	qualche amico
+T208	PER 13186 13193	persone
+T209	LOC 13269 13277	i boschi
+T210	LOC 13291 13297	dirupi
+T211	LOC 13338 13355	più alte montagne

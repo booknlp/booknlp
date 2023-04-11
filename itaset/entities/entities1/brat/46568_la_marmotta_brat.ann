@@ -1,0 +1,205 @@
+T0	GPE 39 43	Como
+T1	LOC 63 70	Bisbino
+T2	LOC 98 106	la vetta
+T3	LOC 181 206	una larga distesa di neve
+T4	LOC 250 275	le acque del primo bacino
+T5	FAC 455 468	piazza Cavour
+T6	PER 462 468	Cavour
+T7	PER 471 484	Tullio Sciara
+T8	PER 498 505	Estella
+T9	PER 560 567	Estella
+T10	PER 650 656	Tullio
+T11	PER 693 705	la sua amica
+T12	PER 769 775	Tullio
+T13	FAC 989 996	albergo
+T14	FAC 1105 1114	le strade
+T15	GPE 1159 1163	Como
+T16	PER 1217 1225	L ' uomo
+T17	PER 1328 1335	sua zia
+T18	PER 1350 1356	Tullio
+T19	PER 1392 1423	una ragazza di diciassette anni
+T20	GPE 1465 1471	Milano
+T21	PER 1491 1525	zia d ' Estella ; una signora alta
+T22	PER 1657 1678	signora Anna Arrigoni
+T23	PER 1705 1712	Estella
+T24	PER 1776 1783	Estella
+T25	PER 1791 1795	Anna
+T26	PER 1829 1849	la giovinetta bionda
+T27	PER 1857 1873	la scura matrona
+T28	PER 2004 2010	la zia
+T29	PER 2038 2045	Estella
+T30	PER 2184 2198	questa bambina
+T31	PER 2220 2230	la signora
+T32	PER 2243 2249	Tullio
+T33	PER 2341 2348	bambina
+T34	PER 2349 2359	sua nipote
+T35	PER 2480 2489	una donna
+T36	PER 2544 2550	Sciara
+T37	PER 2570 2580	mia figlia
+T38	PER 2602 2612	la signora
+T39	PER 2622 2653	mia figlia maritata , Francesca
+T40	GPE 2709 2716	Brescia
+T41	PER 2771 2785	questa bambina
+T42	PER 2812 2821	suo padre
+T43	PER 2862 2868	Tullio
+T44	PER 2874 2890	signora Arrigoni
+T45	PER 3044 3055	mio cognato
+T46	GPE 3118 3126	Bellagio
+T47	PER 3131 3137	medico
+T48	PER 3154 3166	i forestieri
+T49	GPE 3208 3216	Bellagio
+T50	LOC 3230 3240	la Riviera
+T51	PER 3301 3308	Estella
+T52	PER 3335 3338	zia
+T53	PER 3364 3394	un malato inglese , un vecchio
+T54	PER 3454 3458	papà
+T55	PER 3483 3493	la signora
+T56	PER 3522 3536	questa bambina
+T57	PER 3548 3558	un ' amica
+T58	PER 3583 3593	Un ' amica
+T59	PER 3630 3639	suo padre
+T60	PER 3642 3648	Tullio
+T61	PER 3695 3711	signora Arrigoni
+T62	PER 3792 3797	amica
+T63	PER 3877 3887	mia figlia
+T64	PER 3949 3962	mia Francesca
+T65	PER 4016 4022	Sciara
+T66	FAC 4079 4095	un altro salotto
+T67	PER 4131 4137	Tullio
+T68	PER 4310 4320	la signora
+T69	PER 4443 4452	Lo Sciara
+T70	PER 4514 4530	signora Arrigoni
+T71	PER 4582 4589	Estella
+T72	PER 4667 4677	mia figlia
+T73	GPE 4709 4716	Brescia
+T74	PER 4736 4745	una mamma
+T75	PER 4792 4806	quella bambina
+T76	PER 4827 4834	signora
+T77	PER 4859 4874	la povera donna
+T78	PER 4964 4970	Tullio
+T79	PER 5021 5028	Estella
+T80	PER 5052 5061	suo padre
+T81	PER 5257 5264	Estella
+T82	PER 5267 5278	una bambina
+T83	PER 5281 5286	tutti
+T84	PER 5305 5319	un uomo maturo
+T85	PER 5322 5329	nessuno
+T86	PER 5358 5364	Sciara
+T87	PER 5401 5408	Estella
+T88	PER 5620 5630	la signora
+T89	PER 5688 5699	uomo maturo
+T90	PER 5736 5749	una fanciulla
+T91	PER 5775 5788	un gentiluomo
+T92	FAC 5885 5891	camera
+T93	PER 5902 5909	Estella
+T94	PER 6098 6110	signora Anna
+T95	PER 6113 6125	La fanciulla
+T96	PER 6181 6193	signora Anna
+T97	PER 6253 6273	sua figlia Francesca
+T98	GPE 6305 6312	Brescia
+T99	GPE 6318 6324	Milano
+T100	PER 6413 6419	Tullio
+T101	FAC 6446 6450	casa
+T102	FAC 6458 6464	studio
+T103	PER 6481 6494	gli impiegati
+T104	PER 6540 6547	Estella
+T105	PER 6668 6677	Francesca
+T106	PER 6755 6765	mia figlia
+T107	PER 6808 6821	Tullio Sciara
+T108	PER 6845 6852	Estella
+T109	PER 6873 6882	guardiano
+T110	PER 6885 6918	una fanciulla di diciassette anni
+T111	PER 6968 6978	un demonio
+T112	PER 7004 7007	zia
+T113	FAC 7020 7024	casa
+T114	PER 7027 7034	Estella
+T115	VEH 7100 7108	carrozza
+T116	PER 7113 7125	la fanciulla
+T117	PER 7268 7280	il cocchiere
+T118	PER 7305 7311	Tullio
+T119	FAC 7498 7504	teatro
+T120	FAC 7514 7522	stazione
+T121	PER 7545 7551	Tullio
+T122	PER 7555 7564	cocchiere
+T123	PER 7588 7595	Estella
+T124	PER 7747 7755	un amico
+T125	PER 7849 7857	un amico
+T126	PER 7875 7890	qualche cliente
+T127	PER 7896 7918	quei burberi moralisti
+T128	PER 7993 7998	donne
+T129	PER 8011 8017	Tullio
+T130	PER 8028 8040	signora Anna
+T131	PER 8300 8309	una madre
+T132	PER 8368 8378	sua figlia
+T133	PER 8426 8438	signora Anna
+T134	PER 8479 8488	Francesca
+T135	PER 8551 8558	Estella
+T136	VEH 8561 8572	La carrozza
+T137	VEH 8618 8622	tram
+T138	PER 8692 8704	la fanciulla
+T139	PER 8761 8770	cocchiere
+T140	PER 8787 8806	l ' uno o l ' altro
+T141	FAC 8823 8830	istrada
+T142	PER 8868 8874	Sciara
+T143	PER 8950 8960	sua cugina
+T144	PER 8963 8971	ammalata
+T145	PER 9028 9035	Estella
+T146	PER 9106 9115	Francesca
+T147	PER 9223 9229	Tullio
+T148	PER 9241 9248	mia zia
+T149	PER 9372 9378	la zia
+T150	PER 9493 9500	sua zia
+T151	PER 9514 9520	Tullio
+T152	VEH 9535 9546	La carrozza
+T153	PER 9574 9601	Il cocchiere , il cocchiere
+T154	PER 9612 9619	Estella
+T155	PER 9643 9655	il cocchiere
+T156	PER 9679 9685	Tullio
+T157	PER 9842 9849	Estella
+T158	PER 9967 9979	la fanciulla
+T159	PER 10068 10074	Sciara
+T160	PER 10790 10806	signora Arrigoni
+T161	PER 10825 10832	Estella
+T162	PER 10857 10863	Tullio
+T163	FAC 11040 11053	casa Arrigoni
+T164	PER 11045 11053	Arrigoni
+T165	PER 11058 11072	una giovinetta
+T166	PER 11077 11097	una giovinetta bella
+T167	PER 11153 11168	il suo compagno
+T168	PER 11212 11218	Tullio
+T169	PER 11319 11326	Estella
+T170	PER 11381 11387	Sciara
+T171	FAC 11464 11472	stazione
+T172	PER 11494 11500	Tullio
+T173	PER 11546 11553	Estella
+T174	FAC 11565 11583	banco dei giornali
+T175	PER 11616 11622	Sciara
+T176	PER 11644 11652	un amico
+T177	PER 11658 11682	quell ' Ernesto Giuliani
+T178	PER 11689 11694	tutti
+T179	PER 11711 11735	uomo maligno e incredulo
+T180	PER 11741 11749	Giuliani
+T181	PER 11813 11826	Tullio Sciara
+T182	PER 11951 11959	Giuliani
+T183	VEH 11993 12001	carrozza
+T184	PER 12006 12018	la fanciulla
+T185	FAC 12057 12080	sportello dei biglietti
+T186	PER 12126 12142	Ernesto Giuliani
+T187	PER 12183 12189	Tullio
+T188	PER 12231 12252	una ragazza magnifica
+T189	PER 12257 12267	Mia nipote
+T190	PER 12278 12284	Tullio
+T191	PER 12324 12348	una bellissima fanciulla
+T192	PER 12367 12375	Giuliani
+T193	PER 12438 12450	suoi parenti
+T194	GPE 12455 12463	Bellagio
+T195	GPE 12479 12487	Bellagio
+T196	GPE 12518 12522	Como
+T197	LOC 12570 12578	Gottardo
+T198	GPE 12589 12598	Isvizzera
+T199	PER 12612 12618	Tullio
+T200	PER 12695 12702	Estella
+T201	PER 12925 12931	Tullio
+T202	PER 13027 13034	Estella
+T203	PER 13091 13098	Estella
+T204	PER 13124 13130	Tullio

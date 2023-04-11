@@ -1,0 +1,176 @@
+T0	GPE 4 10	Ellade
+T1	LOC 28 33	mondo
+T2	PER 68 78	gli uomini
+T3	LOC 113 121	il mondo
+T4	PER 135 164	una piccola schiera di uomini
+T5	LOC 223 227	mari
+T6	LOC 297 304	il mare
+T7	PER 345 358	Quegli uomini
+T8	LOC 428 443	le vie del mare
+T9	PER 551 568	gli Dei immortali
+T10	GPE 716 722	Ellade
+T11	PER 725 744	quel piccolo popolo
+T12	PER 748 766	il popolo ellenico
+T13	PER 973 983	gli uomini
+T14	PER 1144 1159	un povero morto
+T15	PER 1178 1184	Cristo
+T16	PER 1297 1307	gli uomini
+T17	GPE 1409 1431	il regno delle tenebre
+T18	PER 1458 1464	Cristo
+T19	FAC 1506 1520	la loro strada
+T20	PER 1880 1884	uomo
+T21	VEH 1887 1910	le macchine per correre
+T22	VEH 1938 1960	le macchine per volare
+T23	ORG 2089 2103	il positivismo
+T24	ORG 2106 2119	il socialismo
+T25	ORG 2122 2135	la burocrazia
+T26	PER 2204 2233	Un cittadino nord - americano
+T27	GPE 2327 2341	suo Mississipì
+T28	LOC 2345 2369	fiumicelli dell ' Attica
+T29	GPE 2363 2369	Attica
+T30	LOC 2429 2433	mare
+T31	LOC 2454 2461	Illisso
+T32	LOC 2467 2473	Cefiso
+T33	LOC 2476 2497	I monti dell ' Attica
+T34	GPE 2491 2497	Attica
+T35	PER 2559 2581	un alpinista teutonico
+T36	LOC 2687 2694	Cervino
+T37	LOC 2706 2716	quei monti
+T38	LOC 2770 2777	Parnaso
+T39	PER 2788 2821	le Muse : Muse titaniche e severe
+T40	PER 2833 2848	le odierne Muse
+T41	PER 2862 2897	una troupe di malsane dame viennesi
+T42	PER 2907 2943	figlie della memoria e del vaticinio
+T43	LOC 3078 3092	Un altro monte
+T44	LOC 3109 3115	Imetto
+T45	LOC 3457 3471	Un altro monte
+T46	LOC 3487 3496	Pentelico
+T47	PER 3587 3591	uomo
+T48	FAC 3665 3689	qualche cimitero o museo
+T49	PER 3803 3815	Arrigo Heine
+T50	PER 3829 3843	Venere di Milo
+T51	PER 3846 3870	Arrigo Heine , poveretto
+T52	LOC 4090 4128	Qualche monte abbastanza alto e gelido
+T53	PER 4150 4160	gli Elleni
+T54	PER 4181 4188	gli Dei
+T55	GPE 4208 4241	povero e sterile paese l ' Ellade
+T56	PER 4257 4270	suoi abitanti
+T57	LOC 4463 4470	Il mare
+T58	PER 4681 4689	un poeta
+T59	GPE 4737 4771	Atene , splendida , gloriosa città
+T60	GPE 4823 4841	Grecia , demoniaca
+T61	PER 4844 4866	Questo popolo ellenico
+T62	PER 5030 5042	altri popoli
+T63	PER 5169 5177	filosofo
+T64	PER 5188 5201	Questo popolo
+T65	PER 5417 5435	cortigiana Diotima
+T66	PER 5478 5494	creature mortali
+T67	PER 5566 5579	questo popolo
+T68	ORG 5618 5624	scuola
+T69	PER 5683 5690	i greci
+T70	FAC 5785 5791	scuola
+T71	PER 5817 5847	questo piccolo popolo ellenico
+T72	PER 5915 5928	popoli grandi
+T73	PER 6157 6166	un popolo
+T74	PER 6292 6297	preti
+T75	PER 6300 6309	un popolo
+T76	ORG 6324 6379	quel magnifico parlamento di Dei e di Dee sull ' Olimpo
+T77	LOC 6373 6379	Olimpo
+T78	PER 6452 6455	Ebe
+T79	PER 6458 6466	Ganimede
+T80	PER 6472 6489	meccanico Vulcano
+T81	PER 6492 6500	Mercurio
+T82	PER 6641 6648	crudeli
+T83	PER 6655 6662	buffoni
+T84	LOC 6703 6716	Olimpo gelido
+T85	PER 6746 6755	un popolo
+T86	PER 6811 6831	tutte le altre genti
+T87	PER 6950 6962	un individuo
+T88	PER 6989 6994	plebe
+T89	PER 7055 7064	un popolo
+T90	GPE 7075 7112	la sua minuscola città , la sua polis
+T91	LOC 7134 7142	il mondo
+T92	PER 7177 7198	il genio della stirpe
+T93	PER 7242 7252	infingardo
+T94	PER 7333 7339	Ulisse
+T95	PER 7343 7361	compagni , stanchi
+T96	PER 7509 7522	questo popolo
+T97	PER 7648 7661	questo popolo
+T98	PER 7741 7762	sua Minerva guerriera
+T99	PER 7772 7795	il barbaro disturbatore
+T100	PER 8022 8052	Tànatos , il melanconico iddio
+T101	PER 8060 8069	un popolo
+T102	GPE 8146 8203	una di quelle nazioni che oggi diciamo una grande nazione
+T103	PER 8294 8335	quei virtuosissimi ma pesantissimi Romani
+T104	PER 8499 8502	Dei
+T105	GPE 8505 8538	Questa meravigliosa Ellade antica
+T106	GPE 8565 8627	una necropoli bianca , una città morta piena di statue bianche
+T107	VEH 8708 8716	macchine
+T108	GPE 8900 8949	questa necropoli bianca dei grandi morti ellenici
+T109	PER 8989 8998	il medico
+T110	PER 9038 9043	tutti
+T111	GPE 9132 9157	questa necropoli di morti
+T112	PER 9256 9294	Socrate , personaggio molto conosciuto
+T113	PER 9345 9350	tutti
+T114	PER 9359 9371	il fondatore
+T115	PER 9462 9494	una corona di splendenti giovani
+T116	PER 9615 9622	Socrate
+T117	PER 9770 9798	uno dei discepoli di Socrate
+T118	PER 9791 9798	Socrate
+T119	PER 9819 9876	i suoi discepoli , i bei giovani splendenti di giovinezza
+T120	PER 10043 10069	Santippe , la mala femmina
+T121	PER 10088 10139	la tormentatrice dell ' eroe , la moglie di Socrate
+T122	PER 10132 10139	Socrate
+T123	PER 10142 10150	Santippe
+T124	PER 10197 10215	il popolo ellenico
+T125	PER 10260 10270	gli Elleni
+T126	PER 10353 10358	Elena
+T127	PER 10392 10402	tanti eroi
+T128	PER 10428 10457	Aspasia , donna intellettuale
+T129	FAC 10472 10479	salotto
+T130	GPE 10505 10514	suo paese
+T131	PER 10519 10543	Penelope , straordinaria
+T132	PER 10570 10580	gli amanti
+T133	PER 10603 10609	marito
+T134	GPE 10717 10723	Grecia
+T135	PER 10773 10815	Clitennestra lorda di sangue e di lussuria
+T136	PER 10819 10872	Antigone , la santa della terra , più bella di Ofelia
+T137	PER 10866 10872	Ofelia
+T138	PER 10949 10957	Santippe
+T139	PER 11018 11025	i Greci
+T140	PER 11067 11074	umanità
+T141	PER 11160 11168	Santippe
+T142	PER 11292 11307	infame Santippe
+T143	PER 11329 11340	gli eruditi
+T144	PER 11426 11438	uomo modesto
+T145	PER 11537 11545	Santippe
+T146	PER 11564 11572	Santippe
+T147	PER 11623 11664	progenitrice di tutte le mogli fastidiose
+T148	PER 11639 11664	tutte le mogli fastidiose
+T149	PER 11667 11681	rossa Santippe
+T150	PER 11735 11773	quel povero e santo uomo di tuo marito
+T151	PER 11788 11807	tutti i mariti vivi
+T152	PER 11817 11837	tutti i mariti morti
+T153	PER 11945 11953	Santippe
+T154	PER 11989 12009	la moglie di Socrate
+T155	PER 12002 12009	Socrate
+T156	PER 12012 12055	I discepoli e gli amici del grande filosofo
+T157	PER 12040 12055	grande filosofo
+T158	PER 12183 12209	quell ' uomo straordinario
+T159	PER 12237 12245	Santippe
+T160	PER 12249 12269	la moglie di Socrate
+T161	PER 12262 12269	Socrate
+T162	PER 12302 12337	Socrate , il più savio degli uomini
+T163	PER 12346 12352	moglie
+T164	PER 12357 12370	questa moglie
+T165	PER 12383 12391	Santippe
+T166	PER 12422 12442	gli amici di Socrate
+T167	PER 12435 12442	Socrate
+T168	PER 12475 12484	Senofonte
+T169	PER 12522 12530	Santippe
+T170	PER 12534 12568	la moglie più bisbetica e riottosa
+T171	PER 12619 12626	Socrate
+T172	PER 12644 12664	bellissimo Alcibiade
+T173	PER 12682 12719	una donna così importuna e maldicente
+T174	PER 12758 12765	Socrate
+T175	FAC 12824 12829	pozzo

@@ -1,0 +1,201 @@
+T0	PER 49 56	Gustavo
+T1	PER 69 93	signora Valeria Inverigo
+T2	PER 150 170	un uomo di mezza età
+T3	PER 275 282	Valeria
+T4	PER 301 309	fratello
+T5	PER 312 319	sorella
+T6	PER 327 333	vedova
+T7	PER 341 348	scapolo
+T8	PER 376 400	ingegnere Gustavo Aldini
+T9	PER 451 457	Nocera
+T10	PER 517 525	Adelaide
+T11	PER 622 637	signora Valeria
+T12	PER 696 710	il consigliere
+T13	GPE 743 750	Venezia
+T14	GPE 800 807	Venezia
+T15	PER 859 879	Tutti gl ' impiegati
+T16	GPE 903 913	loro paese
+T17	PER 936 944	i Nocera
+T18	PER 1003 1010	Valeria
+T19	PER 1052 1060	Adelaide
+T20	PER 1104 1122	una sorella minore
+T21	PER 1160 1173	L ' ingegnere
+T22	PER 1250 1255	Diana
+T23	FAC 1273 1287	liceo Marcello
+T24	PER 1320 1337	professore Varedo
+T25	PER 1775 1781	Varedo
+T26	PER 1786 1808	un giovine d ' ingegno
+T27	PER 1946 1951	Diana
+T28	PER 1961 1966	Diana
+T29	PER 2019 2034	signora Valeria
+T30	PER 2151 2164	l ' ingegnere
+T31	PER 2220 2226	nipote
+T32	PER 2301 2310	figliuola
+T33	PER 2383 2395	quel signore
+T34	GPE 2398 2405	Venezia
+T35	PER 2709 2714	Diana
+T36	PER 2762 2771	miss Jane
+T37	PER 2778 2788	le Duranti
+T38	PER 2832 2837	Diana
+T39	FAC 2850 2857	salotto
+T40	PER 3193 3227	persona svelta e ben proporzionata
+T41	PER 3370 3385	signora Valeria
+T42	PER 3391 3400	Miss Jane
+T43	PER 3457 3467	Le Duranti
+T44	PER 3491 3496	mamma
+T45	FAC 3576 3583	istrada
+T46	PER 3586 3597	bambina mia
+T47	FAC 3619 3623	sala
+T48	PER 3633 3638	folla
+T49	PER 3653 3668	signora Valeria
+T50	FAC 3705 3712	La sala
+T51	FAC 3757 3769	pianerottolo
+T52	FAC 3785 3793	galleria
+T53	PER 3808 3816	la gente
+T54	PER 3850 3853	zio
+T55	PER 3866 3876	la ragazza
+T56	LOC 3901 3906	mondo
+T57	PER 4002 4008	Varedo
+T58	PER 4058 4067	miss Jane
+T59	PER 4070 4079	Miss Jane
+T60	PER 4170 4182	un ' inglese
+T61	PER 4217 4274	una tedesca , piccola , rosea , grassottella , flemmatica
+T62	PER 4344 4353	Miss Jane
+T63	PER 4524 4537	la governante
+T64	FAC 4584 4591	salotto
+T65	PER 4598 4603	Diana
+T66	PER 4756 4762	lo zio
+T67	PER 4799 4808	Demostene
+T68	PER 4826 4841	signora Valeria
+T69	PER 4881 4889	fratello
+T70	PER 4899 4904	Diana
+T71	PER 4945 4958	tante persone
+T72	PER 4980 4996	tanti professori
+T73	PER 4999 5012	tante signore
+T74	ORG 5058 5083	questo sinedrio femminino
+T75	PER 5145 5152	Rigaldi
+T76	PER 5157 5169	le figliuole
+T77	PER 5242 5254	una famiglia
+T78	PER 5314 5330	contessa Bisenti
+T79	PER 5336 5353	marchesa Terriani
+T80	PER 5358 5366	la nuora
+T81	PER 5372 5427	signora Astolfi , la moglie del provveditore agli studi
+T82	PER 5404 5427	provveditore agli studi
+T83	PER 5435 5447	Povera donna
+T84	PER 5524 5534	Suo marito
+T85	PER 5642 5649	nessuno
+T86	PER 5701 5715	Gustavo Aldini
+T87	PER 5785 5800	signora Valeria
+T88	PER 5813 5818	Diana
+T89	PER 5918 5928	Giuseppina
+T90	FAC 5969 5975	camera
+T91	PER 6012 6022	quello zio
+T92	PER 6055 6068	L ' ingegnere
+T93	PER 6111 6120	la nipote
+T94	PER 6255 6262	Gustavo
+T95	PER 6275 6285	la sorella
+T96	PER 6319 6325	Aldini
+T97	PER 6383 6393	la ragazza
+T98	PER 6651 6666	signora Valeria
+T99	PER 6774 6779	Diana
+T100	PER 6782 6788	Aldini
+T101	PER 6875 6890	signora Valeria
+T102	PER 6899 6916	professore Varedo
+T103	PER 6956 6969	la giovinetta
+T104	PER 7051 7056	Diana
+T105	PER 7100 7105	Diana
+T106	PER 7115 7123	la madre
+T107	FAC 7155 7165	tua camera
+T108	PER 7249 7255	lo zio
+T109	PER 7341 7354	L ' ingegnere
+T110	PER 7374 7379	Diana
+T111	PER 7397 7412	signora Valeria
+T112	PER 7472 7479	Alberto
+T113	PER 7487 7504	professore Varedo
+T114	PER 7616 7621	amici
+T115	PER 7712 7719	signore
+T116	FAC 7763 7777	la nostra casa
+T117	PER 7798 7808	giovinetta
+T118	PER 7848 7856	La madre
+T119	PER 7966 7971	Diana
+T120	PER 8000 8007	Mammina
+T121	PER 8089 8096	servitù
+T122	PER 8149 8156	nessuno
+T123	PER 8175 8192	professore Varedo
+T124	PER 8201 8206	Diana
+T125	PER 8209 8214	Diana
+T126	PER 8268 8278	la ragazza
+T127	PER 8347 8362	signora Valeria
+T128	PER 8373 8385	la figliuola
+T129	PER 8416 8421	Diana
+T130	PER 8599 8602	zio
+T131	PER 8756 8763	nessuno
+T132	FAC 8836 8842	stanza
+T133	PER 8845 8854	Miss Jane
+T134	PER 8901 8916	signora Valeria
+T135	PER 9002 9019	professore Varedo
+T136	PER 9022 9034	la signorina
+T137	PER 9037 9050	La governante
+T138	PER 9204 9214	Miss Diana
+T139	PER 9235 9246	l ' oratore
+T140	PER 9252 9257	tutti
+T141	PER 9279 9292	Il professore
+T142	PER 9377 9408	Molte altre signore e gentlemen
+T143	PER 9475 9485	Miss Diana
+T144	PER 9503 9516	il professore
+T145	PER 9577 9586	Signorina
+T146	FAC 9665 9674	la strada
+T147	PER 9675 9688	il professore
+T148	PER 9752 9759	signora
+T149	PER 9762 9779	signorina Duranti
+T150	PER 9784 9793	Signorina
+T151	PER 9814 9824	Miss Diana
+T152	PER 9838 9846	la madre
+T153	PER 9905 9914	Miss Jane
+T154	PER 9983 9989	Aldini
+T155	PER 10073 10082	Miss Jane
+T156	PER 10224 10229	Diana
+T157	GPE 10258 10264	Londra
+T158	PER 10324 10338	le sue allieve
+T159	PER 10518 10531	L ' ingegnere
+T160	PER 10592 10603	santo Iddio
+T161	PER 10632 10646	Alberto Varedo
+T162	PER 10664 10680	signora Inverigo
+T163	PER 10696 10703	Valeria
+T164	PER 10731 10745	Gustavo Aldini
+T165	PER 10846 10851	Diana
+T166	PER 10879 10891	quell ' uomo
+T167	PER 10948 10955	nessuno
+T168	PER 11034 11049	signora Valeria
+T169	PER 11103 11115	suo fratello
+T170	PER 11154 11168	Alberto Varedo
+T171	PER 11171 11184	un galantuomo
+T172	PER 11196 11224	una famiglia di galantuomini
+T173	PER 11229 11240	Il suo papà
+T174	PER 11243 11255	la sua mamma
+T175	PER 11266 11275	poveretti
+T176	PER 11306 11319	fior di gente
+T177	PER 11361 11368	Gustavo
+T178	PER 11410 11417	Alberto
+T179	PER 11433 11441	Inverigo
+T180	PER 11447 11463	un bravo giovine
+T181	FAC 11549 11569	Università di Torino
+T182	GPE 11563 11569	Torino
+T183	PER 11593 11617	professore straordinario
+T184	PER 11767 11793	que ' tuoi amici di Torino
+T185	GPE 11787 11793	Torino
+T186	PER 12020 12026	Varedo
+T187	PER 12116 12122	Aldini
+T188	PER 12150 12164	Alberto Varedo
+T189	PER 12361 12368	Valeria
+T190	PER 12484 12490	Varedo
+T191	PER 12765 12772	Alberto
+T192	PER 12775 12780	Diana
+T193	PER 13204 13222	pastore evangelico
+T194	PER 13258 13262	uomo
+T195	PER 13276 13286	professore
+T196	PER 13344 13354	un pedante
+T197	PER 13413 13424	un puritano
+T198	PER 13551 13561	la sorella
+T199	PER 13649 13655	ognuno
+T200	PER 13761 13776	signora Valeria

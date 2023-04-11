@@ -1,0 +1,152 @@
+T0	PER 0 7	Pierina
+T1	PER 12 68	la figlia , del guardiano della casa cantoniera numero 6
+T2	PER 28 68	guardiano della casa cantoniera numero 6
+T3	FAC 44 68	casa cantoniera numero 6
+T4	GPE 87 107	un modesto villaggio
+T5	LOC 116 132	via del Gottardo
+T6	PER 280 289	suo padre
+T7	FAC 473 488	la piccola casa
+T8	PER 603 611	il padre
+T9	PER 678 686	il babbo
+T10	PER 730 738	la mamma
+T11	FAC 799 805	strada
+T12	PER 1158 1163	mamma
+T13	PER 1205 1213	La mamma
+T14	PER 1358 1365	Pierina
+T15	VEH 1451 1456	treno
+T16	PER 1493 1501	la madre
+T17	FAC 1520 1524	casa
+T18	VEH 1634 1642	macchina
+T19	VEH 1786 1796	locomotiva
+T20	FAC 2040 2075	strada ferrata in mezzo alle rotaie
+T21	FAC 2069 2075	rotaie
+T22	PER 2121 2133	la sua mamma
+T23	FAC 2253 2259	strada
+T24	VEH 2273 2281	il treno
+T25	PER 2315 2322	Pierina
+T26	FAC 2382 2388	strada
+T27	VEH 2540 2548	il treno
+T28	FAC 2593 2597	casa
+T29	FAC 2651 2674	la scuola del villaggio
+T30	GPE 2665 2674	villaggio
+T31	PER 2755 2760	mamma
+T32	LOC 2817 2825	montagna
+T33	FAC 2846 2855	le rotaie
+T34	PER 2864 2869	mamma
+T35	PER 2885 2894	una bimba
+T36	VEH 2955 2960	treno
+T37	FAC 3009 3025	l ' altra strada
+T38	PER 3059 3065	amiche
+T39	VEH 3174 3179	treno
+T40	PER 3240 3247	Pierina
+T41	PER 3294 3309	i suoi genitori
+T42	VEH 3369 3377	il treno
+T43	PER 3399 3407	Il padre
+T44	PER 3495 3503	la mamma
+T45	PER 3525 3539	un altro bimbo
+T46	FAC 3581 3585	casa
+T47	PER 3588 3601	Il cantoniere
+T48	VEH 3623 3630	i treni
+T49	FAC 3644 3653	la strada
+T50	FAC 3709 3745	un ponte sospeso sopra un precipizio
+T51	LOC 3732 3745	un precipizio
+T52	VEH 3951 3956	treno
+T53	LOC 3984 3990	la via
+T54	PER 4062 4069	Pierina
+T55	PER 4221 4226	babbo
+T56	VEH 4287 4292	treni
+T57	PER 4393 4401	la mamma
+T58	PER 4424 4431	Pierina
+T59	VEH 4571 4576	treno
+T60	PER 4687 4699	I conduttori
+T61	PER 4702 4725	i macchinisti dei treni
+T62	VEH 4720 4725	treni
+T63	LOC 4743 4753	quella via
+T64	PER 4775 4782	Pierina
+T65	FAC 4816 4840	casa cantoniera numero 6
+T66	PER 4880 4891	la biondina
+T67	PER 5110 5121	la biondina
+T68	FAC 5217 5223	strada
+T69	PER 5275 5284	suo padre
+T70	VEH 5321 5329	il treno
+T71	PER 5431 5439	la mamma
+T72	PER 5501 5510	il medico
+T73	PER 5552 5559	Pierina
+T74	VEH 5672 5677	treni
+T75	PER 5691 5706	i suoi genitori
+T76	PER 5778 5786	il babbo
+T77	PER 5796 5808	la sua mamma
+T78	PER 5883 5891	Il babbo
+T79	PER 6081 6093	la sua mamma
+T80	PER 6144 6151	Pierina
+T81	PER 6221 6228	Luigino
+T82	FAC 6327 6334	casetta
+T83	FAC 6363 6374	questa casa
+T84	PER 6396 6404	mio uomo
+T85	FAC 6465 6476	mia casetta
+T86	LOC 6500 6508	montagne
+T87	PER 6542 6549	Pierina
+T88	PER 6649 6657	il babbo
+T89	FAC 6731 6737	strada
+T90	PER 6840 6852	un ispettore
+T91	VEH 6885 6893	ferrovia
+T92	PER 6927 6938	la famiglia
+T93	PER 6941 6956	la povera donna
+T94	FAC 6999 7017	la casa cantoniera
+T95	PER 7131 7141	mio figlio
+T96	PER 7243 7256	l ' ispettore
+T97	PER 7299 7308	due donne
+T98	PER 7314 7342	una di queste ancora bambina
+T99	PER 7355 7362	Pierina
+T100	PER 7370 7377	un uomo
+T101	PER 7492 7505	L ' ispettore
+T102	PER 7536 7548	quella donna
+T103	PER 7672 7679	un uomo
+T104	PER 7775 7805	tutti gl ' impiegati dei treni
+T105	VEH 7800 7805	treni
+T106	PER 7842 7849	bambina
+T107	PER 7876 7889	vostro figlio
+T108	PER 7892 7900	un bimbo
+T109	PER 8043 8058	La povera donna
+T110	FAC 8203 8217	la sua casetta
+T111	PER 8240 8245	figli
+T112	PER 8270 8277	Pierina
+T113	VEH 8300 8308	un treno
+T114	FAC 8353 8359	scuola
+T115	VEH 8372 8380	il treno
+T116	LOC 8555 8560	monti
+T117	LOC 8591 8596	terra
+T118	FAC 8631 8640	la strada
+T119	PER 8793 8801	un amico
+T120	PER 9006 9016	la maestra
+T121	VEH 9063 9093	tutto quell ' ammasso di carri
+T122	VEH 9096 9104	carrozze
+T123	PER 9110 9115	gente
+T124	VEH 9380 9392	una macchina
+T125	FAC 9422 9430	sua casa
+T126	PER 9526 9536	un operaio
+T127	LOC 10066 10074	montagna
+T128	LOC 10156 10161	monti
+T129	PER 10164 10171	Luigino
+T130	PER 10189 10197	la mamma
+T131	PER 10233 10240	Pierina
+T132	FAC 10284 10290	strada
+T133	VEH 10330 10335	treni
+T134	PER 10488 10493	mamma
+T135	PER 10497 10510	il fratellino
+T136	FAC 10630 10637	la casa
+T137	PER 10665 10668	Dio
+T138	LOC 10704 10709	mondo
+T139	PER 10721 10729	la donna
+T140	PER 10760 10767	Pierina
+T141	VEH 10893 10914	il treno delle cinque
+T142	VEH 11016 11024	il treno
+T143	PER 11060 11068	la madre
+T144	PER 11439 11447	la madre
+T145	FAC 11483 11491	il ponte
+T146	VEH 11556 11564	il treno
+T147	PER 11806 11811	mamma
+T148	PER 12018 12025	Pierina
+T149	PER 12097 12113	quelli del treno
+T150	VEH 12108 12113	treno
+T151	VEH 12248 12264	il treno diretto

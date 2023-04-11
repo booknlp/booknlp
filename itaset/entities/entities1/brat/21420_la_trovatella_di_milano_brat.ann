@@ -1,0 +1,128 @@
+T0	GPE 96 101	città
+T1	PER 111 154	Maria , la bella guantaia di Porta Vittoria
+T2	FAC 176 190	il suo negozio
+T3	PER 262 275	gli avventori
+T4	PER 296 301	Maria
+T5	PER 899 904	Maria
+T6	PER 934 957	un individuo mascherato
+T7	FAC 1022 1029	negozio
+T8	PER 1065 1075	la giovine
+T9	PER 1179 1184	Maria
+T10	PER 1213 1226	l ' individuo
+T11	PER 1368 1378	la giovine
+T12	PER 1647 1652	Maria
+T13	PER 1697 1711	lo sconosciuto
+T14	PER 1973 1985	un fanciullo
+T15	PER 2028 2038	la giovine
+T16	PER 2100 2108	un ladro
+T17	PER 2111 2140	qualche malfattore travestito
+T18	PER 2158 2165	guardie
+T19	PER 2185 2198	un mio nemico
+T20	FAC 2477 2489	retrobottega
+T21	FAC 2508 2512	casa
+T22	PER 2544 2552	la mamma
+T23	PER 2565 2579	povera vecchia
+T24	PER 2663 2669	alcuno
+T25	FAC 2686 2693	negozio
+T26	PER 2696 2701	Maria
+T27	PER 2779 2786	giovane
+T28	PER 2904 2911	I ladri
+T29	PER 2961 2969	qualcuno
+T30	PER 3080 3094	lo sconosciuto
+T31	PER 3250 3261	la guantaia
+T32	PER 3492 3497	Maria
+T33	PER 3550 3556	alcuno
+T34	PER 3631 3636	Maria
+T35	PER 3726 3735	mia madre
+T36	PER 3816 3823	signore
+T37	PER 3841 3883	la persona , dalla quale eravate inseguito
+T38	FAC 4006 4015	la strada
+T39	FAC 4317 4329	retrobottega
+T40	PER 4347 4361	lo sconosciuto
+T41	PER 4455 4465	un vecchio
+T42	PER 4712 4719	Adriana
+T43	PER 4762 4767	Maria
+T44	PER 4783 4790	Signore
+T45	PER 5075 5080	Maria
+T46	PER 5103 5139	avventori giovani , belli , eleganti
+T47	PER 5142 5147	molti
+T48	PER 5282 5293	La guantaia
+T49	PER 5367 5373	alcuno
+T50	PER 5539 5550	sconosciuto
+T51	PER 6067 6088	una leggiadra ragazza
+T52	PER 6288 6295	nessuno
+T53	PER 6455 6460	Maria
+T54	PER 6565 6579	lo sconosciuto
+T55	PER 6706 6711	Maria
+T56	PER 6851 6861	il giovane
+T57	PER 6911 6918	signore
+T58	PER 6921 6935	Lo sconosciuto
+T59	PER 7023 7031	guantaia
+T60	FAC 7102 7109	istrada
+T61	PER 7126 7131	Maria
+T62	FAC 7493 7505	retrobottega
+T63	PER 7547 7554	giovane
+T64	FAC 7626 7641	camera da letto
+T65	FAC 7644 7678	l ' unica stanza di quel magazzino
+T66	FAC 7664 7678	quel magazzino
+T67	FAC 7884 7902	un armadio di noce
+T68	FAC 8065 8071	camera
+T69	PER 8074 8079	Maria
+T70	PER 8265 8274	una donna
+T71	PER 8398 8403	Maria
+T72	PER 8568 8585	la bella guantaia
+T73	PER 8588 8597	Sua madre
+T74	PER 8796 8804	popolana
+T75	PER 8872 8890	il popolo milanese
+T76	PER 8982 8990	le donne
+T77	PER 9084 9096	i più deboli
+T78	PER 9123 9151	quelle che più si distinsero
+T79	PER 9163 9196	Luigia Battistotti maritata Sassi
+T80	PER 9191 9196	Sassi
+T81	PER 9258 9267	fuciliere
+T82	LOC 9282 9285	vie
+T83	PER 9374 9417	Giuseppina Lazzeroni , una bella giovinetta
+T84	LOC 9430 9442	Ponte Vetero
+T85	PER 9443 9454	il fratello
+T86	PER 9528 9533	altri
+T87	PER 9571 9585	Annetta Durini
+T88	PER 9607 9613	marito
+T89	LOC 9633 9643	porta Tosa
+T90	LOC 9650 9658	Vittoria
+T91	PER 9666 9688	il coraggioso popolano
+T92	PER 9706 9715	La moglie
+T93	PER 9897 9902	morto
+T94	PER 10030 10040	quel prode
+T95	PER 10135 10149	Annetta Durini
+T96	PER 10688 10700	una famiglia
+T97	PER 10735 10741	Croati
+T98	PER 10774 10786	un moribondo
+T99	PER 10960 10967	Annetta
+T100	PER 11006 11019	gli Austriaci
+T101	GPE 11070 11078	la città
+T102	PER 11204 11218	prodi milanesi
+T103	PER 11269 11291	la coraggiosa popolana
+T104	FAC 11364 11378	sua abitazione
+T105	FAC 11384 11422	una di quelle poche case di Porta Tosa
+T106	PER 11564 11571	Annetta
+T107	FAC 11590 11601	quella casa
+T108	FAC 11704 11714	sue stanze
+T109	PER 11736 11742	marito
+T110	PER 11870 11879	un figlio
+T111	PER 11922 11931	un figlio
+T112	PER 11991 12005	eroico defunto
+T113	LOC 12025 12030	mondo
+T114	PER 12242 12271	una bambina di forse due anni
+T115	PER 12502 12509	Annetta
+T116	PER 12518 12532	la fanciullina
+T117	PER 12700 12711	la popolana
+T118	PER 12834 12841	Annetta
+T119	PER 12848 12862	la fanciullina
+T120	PER 13240 13251	La popolana
+T121	PER 13422 13432	la bambina
+T122	PER 13513 13518	Mamma
+T123	PER 13521 13526	mamma
+T124	PER 13529 13536	Annetta
+T125	PER 13637 13647	la bambina
+T126	PER 13677 13682	Mamma
+T127	PER 13700 13712	la tua mamma

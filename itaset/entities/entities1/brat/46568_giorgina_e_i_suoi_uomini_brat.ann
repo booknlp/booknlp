@@ -1,0 +1,162 @@
+T0	LOC 70 86	spiaggia di Lido
+T1	GPE 82 86	Lido
+T2	PER 100 109	due amici
+T3	PER 144 205	donne in gran parte , vestite elegantemente con abiti leggeri
+T4	PER 309 330	quei gruppi femminili
+T5	LOC 652 659	Il mare
+T6	VEH 765 773	una nave
+T7	PER 784 801	Aurelio Sangiorgi
+T8	LOC 912 916	mare
+T9	PER 963 976	una fanciulla
+T10	PER 1017 1027	spettatori
+T11	PER 1089 1105	Ladislao Bariola
+T12	PER 1108 1125	Aurelio Sangiorgi
+T13	LOC 1202 1206	mare
+T14	VEH 1215 1238	sua nave impercettibile
+T15	PER 1326 1335	le coppie
+T16	PER 1456 1474	Giorgina Sangiorgi
+T17	PER 1531 1559	alcuni giovanotti forestieri
+T18	PER 1571 1578	Aurelio
+T19	PER 1581 1589	Ladislao
+T20	PER 1620 1641	la moglie d ' Aurelio
+T21	PER 1634 1641	Aurelio
+T22	PER 1773 1805	molti fra i gruppi di commensali
+T23	PER 1884 1891	Aurelio
+T24	PER 1910 1918	Giorgina
+T25	PER 1944 1952	Giorgina
+T26	PER 1972 1978	alcuno
+T27	PER 2039 2046	Aurelio
+T28	PER 2114 2128	le donne caute
+T29	PER 2150 2160	i gaudenti
+T30	PER 2177 2196	la femmina graziosa
+T31	LOC 2215 2225	mare ampio
+T32	PER 2471 2479	Giorgina
+T33	PER 2753 2760	Aurelio
+T34	PER 2796 2805	gli amici
+T35	PER 2937 2944	Aurelio
+T36	PER 2989 3001	i maldicenti
+T37	PER 3319 3327	Ladislao
+T38	PER 3330 3337	Aurelio
+T39	PER 3350 3361	I due amici
+T40	PER 3416 3424	Giorgina
+T41	PER 3441 3456	i suoi compagni
+T42	PER 3504 3511	Aurelio
+T43	PER 3535 3540	tutti
+T44	PER 3590 3597	Aurelio
+T45	PER 3839 3847	Giorgina
+T46	PER 3897 3929	Tutù , fannullone incorreggibile
+T47	PER 3936 3940	Tutù
+T48	PER 4012 4019	Aurelio
+T49	LOC 4068 4073	viale
+T50	PER 4089 4097	Ladislao
+T51	LOC 4137 4142	viale
+T52	FAC 4186 4204	terrazza dei bagni
+T53	FAC 4199 4204	bagni
+T54	PER 4284 4322	Qualche brigata di maschi e di femmine
+T55	LOC 4340 4348	spiaggia
+T56	PER 4465 4472	Aurelio
+T57	PER 4508 4530	un branco di libertini
+T58	PER 4544 4552	pubblico
+T59	PER 4680 4702	quei quattro farabutti
+T60	PER 4760 4769	L ' altro
+T61	PER 4786 4797	i due amici
+T62	PER 4842 4850	Ladislao
+T63	PER 4874 4886	suo compagno
+T64	PER 4998 5005	Aurelio
+T65	LOC 5164 5171	il mare
+T66	PER 5216 5226	tua moglie
+T67	PER 5315 5322	Aurelio
+T68	PER 5380 5402	quei quattro imbecilli
+T69	PER 5423 5431	Giorgina
+T70	PER 5466 5474	Ladislao
+T71	FAC 5541 5545	casa
+T72	PER 5559 5568	un amante
+T73	PER 5588 5598	l ' amante
+T74	PER 5718 5735	Aurelio Sangiorgi
+T75	PER 5763 5771	Ladislao
+T76	PER 5834 5842	Ladislao
+T77	PER 5951 5958	Aurelio
+T78	PER 6135 6147	questa donna
+T79	GPE 6224 6231	Venezia
+T80	PER 6298 6305	Aurelio
+T81	PER 6332 6341	L ' altro
+T82	PER 6494 6501	Aurelio
+T83	GPE 6526 6533	Venezia
+T84	PER 6751 6805	un pugno di malfattori fortunati o di sciocchi paurosi
+T85	PER 6902 6910	Ladislao
+T86	PER 6954 6971	Aurelio Sangiorgi
+T87	PER 7303 7327	una schiera d ' avvocati
+T88	PER 7858 7867	affarista
+T89	PER 7898 7924	una dinastia di plutocrati
+T90	FAC 7984 7991	carcere
+T91	PER 8154 8162	Ladislao
+T92	PER 8172 8179	Aurelio
+T93	FAC 8268 8274	teatro
+T94	LOC 8303 8313	gran viale
+T95	FAC 8332 8338	teatro
+T96	PER 8368 8375	Nessuno
+T97	PER 8398 8406	Ladislao
+T98	PER 8431 8473	il suo compagno , tozzo , biondo , rubizzo
+T99	PER 8497 8522	un campagnuolo credenzone
+T100	PER 8541 8564	un affarista pericoloso
+T101	FAC 8581 8587	teatro
+T102	PER 8600 8607	Aurelio
+T103	PER 8638 8668	quattro o cinque canzonettiste
+T104	PER 8787 8798	il pubblico
+T105	PER 8829 8836	ragazze
+T106	PER 8888 8896	Ladislao
+T107	PER 8913 8920	Aurelio
+T108	FAC 8986 8992	teatro
+T109	PER 9070 9078	Giorgina
+T110	PER 9143 9151	Ladislao
+T111	PER 9208 9226	la moglie impudica
+T112	PER 9249 9278	pubblico numeroso e pettegolo
+T113	PER 9297 9304	Aurelio
+T114	PER 9325 9333	Ladislao
+T115	PER 9372 9382	le signore
+T116	PER 9444 9451	Aurelio
+T117	PER 9466 9474	Giorgina
+T118	PER 9587 9594	Aurelio
+T119	FAC 9607 9613	teatro
+T120	LOC 9702 9707	viale
+T121	FAC 9740 9761	la terrazza dei bagni
+T122	FAC 9756 9761	bagni
+T123	PER 9769 9777	Giorgina
+T124	PER 9824 9832	Ladislao
+T125	FAC 9968 9984	l ' appartamento
+T126	PER 10002 10010	la donna
+T127	PER 10153 10163	il giovane
+T128	PER 10242 10247	Ladis
+T129	PER 10453 10458	Ladis
+T130	PER 10698 10705	Aurelio
+T131	PER 10764 10770	uomini
+T132	PER 10806 10814	Ladislao
+T133	PER 10839 10849	tuo marito
+T134	PER 10972 10982	Mio marito
+T135	PER 10998 11009	un briccone
+T136	PER 11035 11043	Giorgina
+T137	PER 11163 11175	un affarista
+T138	PER 11188 11198	il giovane
+T139	PER 11284 11291	maschio
+T140	PER 11338 11347	una donna
+T141	PER 11402 11407	altri
+T142	PER 11476 11484	Giorgina
+T143	PER 11577 11585	Ladislao
+T144	PER 11622 11631	gli altri
+T145	LOC 11684 11699	il mondo intero
+T146	ORG 11716 11738	una società per azioni
+T147	ORG 11788 11795	società
+T148	PER 11820 11828	Giorgina
+T149	PER 11863 11872	imbecille
+T150	FAC 12083 12089	camera
+T151	PER 12138 12153	Alberto Martini
+T152	PER 12210 12228	la bella veneziana
+T153	PER 12294 12304	l ' amante
+T154	PER 12369 12387	Giorgina Sangiorgi
+T155	PER 12434 12441	femmina
+T156	PER 12480 12487	artista
+T157	PER 12582 12606	quel tenente di vascello
+T158	VEH 12598 12606	vascello
+T159	GPE 12820 12827	Venezia
+T160	PER 12988 12993	Ladis
+T161	PER 13075 13088	quegli uomini

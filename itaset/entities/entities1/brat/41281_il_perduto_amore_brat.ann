@@ -1,0 +1,126 @@
+T0	LOC 460 465	bosco
+T1	FAC 565 572	i campi
+T2	FAC 582 607	isolata casa del mulinaio
+T3	PER 599 607	mulinaio
+T4	PER 858 867	un orfano
+T5	PER 955 993	una comitiva di gente allegra e felice
+T6	LOC 1125 1130	mondo
+T7	PER 1364 1375	prigioniero
+T8	LOC 1502 1510	il bosco
+T9	LOC 1530 1538	il fiume
+T10	LOC 1550 1566	le più alte rupi
+T11	FAC 1869 1880	sotterraneo
+T12	FAC 1886 1891	tomba
+T13	LOC 1946 1964	correnti d ' acqua
+T14	LOC 1979 1997	notturne boscaglie
+T15	LOC 2038 2055	le desolate lande
+T16	PER 2126 2133	un uomo
+T17	LOC 2214 2237	questo viottolo angusto
+T18	PER 2372 2399	Quest ' uomo , Carlo Clauss
+T19	FAC 2430 2441	casa nostra
+T20	PER 2560 2579	gli uomini timorati
+T21	PER 2725 2751	un parente morto o lontano
+T22	PER 2756 2765	mia madre
+T23	PER 2894 2920	un giovane vestito di nero
+T24	PER 3122 3133	un ammalato
+T25	PER 3139 3155	un convalescente
+T26	PER 3170 3225	un uomo bruciato dalla fiamma di una logorante passione
+T27	PER 3321 3333	Carlo Clauss
+T28	PER 3504 3511	nessuno
+T29	PER 3717 3726	mio padre
+T30	GPE 3730 3739	una città
+T31	PER 3766 3775	tutti noi
+T32	GPE 3850 3858	il paese
+T33	LOC 3951 3955	mare
+T34	PER 4000 4009	mia madre
+T35	PER 4065 4070	Minni
+T36	PER 4133 4138	tutti
+T37	PER 4157 4166	Mia madre
+T38	PER 4271 4283	Carlo Clauss
+T39	PER 4288 4302	nostro parente
+T40	FAC 4357 4361	casa
+T41	VEH 4493 4504	la ferrovia
+T42	LOC 4528 4540	queste valli
+T43	LOC 4549 4556	il mare
+T44	PER 4696 4728	un servo creolo , bruno e canuto
+T45	PER 5094 5099	bello
+T46	PER 5284 5306	uomini non più giovani
+T47	PER 5400 5409	mio padre
+T48	PER 5412 5421	mia madre
+T49	PER 5424 5436	Carlo Clauss
+T50	FAC 5673 5682	un teatro
+T51	ORG 5759 5786	eserciti di bruni guerrieri
+T52	PER 6251 6260	Mia madre
+T53	PER 6460 6466	Clauss
+T54	PER 6522 6531	mio padre
+T55	PER 6607 6616	mio padre
+T56	PER 6714 6721	ragazzi
+T57	PER 6758 6774	un figlio grande
+T58	PER 6825 6831	Clauss
+T59	PER 6924 6933	mia madre
+T60	PER 7084 7103	mia sorella Silvina
+T61	PER 7182 7187	tutti
+T62	PER 7251 7260	noi altri
+T63	FAC 7426 7432	stanza
+T64	PER 7520 7526	Clauss
+T65	PER 7586 7595	mia madre
+T66	FAC 7618 7626	terrazza
+T67	FAC 7678 7686	terrazza
+T68	LOC 7760 7768	il monte
+T69	LOC 7789 7796	pianura
+T70	PER 7822 7828	Clauss
+T71	LOC 7904 7912	montagne
+T72	LOC 7923 7941	cascatelle candide
+T73	PER 7999 8006	ragazzo
+T74	PER 8353 8418	uno che stacca le labbra da una tazza dopo aver bevuto abbastanza
+T75	PER 8589 8592	uno
+T76	PER 8641 8649	La gente
+T77	PER 8660 8674	Questo ragazzo
+T78	PER 8704 8714	Un ragazzo
+T79	PER 8727 8737	un ragazzo
+T80	PER 8748 8758	un ragazzo
+T81	PER 8829 8836	vecchio
+T82	PER 8977 8986	una donna
+T83	PER 9196 9202	Clauss
+T84	LOC 9275 9286	le montagne
+T85	PER 9441 9447	Clauss
+T86	PER 9630 9638	qualcuno
+T87	FAC 9716 9725	ringhiera
+T88	GPE 10013 10019	Karsan
+T89	PER 10022 10038	un servo giovane
+T90	PER 10045 10117	un meticcio , un essere semplice e sano , una creatura riccamente dotata
+T91	PER 10138 10147	fanciullo
+T92	FAC 10151 10161	una strada
+T93	FAC 10247 10254	cortile
+T94	PER 10326 10333	schiavi
+T95	PER 10339 10345	Sarkis
+T96	PER 10394 10399	pazzo
+T97	PER 10475 10481	Behela
+T98	PER 10486 10492	Behela
+T99	PER 10497 10532	una fanciulla della fattoria vicina
+T100	FAC 10517 10532	fattoria vicina
+T101	PER 10629 10635	Sarkis
+T102	PER 10866 10880	Un altro servo
+T103	PER 10971 10977	Sarkis
+T104	FAC 11061 11079	capanna di giunchi
+T105	PER 11093 11099	Behela
+T106	LOC 11143 11151	sorgente
+T107	LOC 11195 11212	tutto il sentiero
+T108	PER 11269 11275	Behela
+T109	PER 11367 11373	Behela
+T110	PER 11386 11403	lo sposo nascosto
+T111	PER 11533 11542	l ' altro
+T112	PER 11682 11692	il padrone
+T113	PER 11713 11726	un forsennato
+T114	PER 11732 11738	Sarkis
+T115	PER 11810 11822	la tua sposa
+T116	PER 11987 11993	Clauss
+T117	PER 12277 12285	qualcuno
+T118	PER 12312 12318	Behela
+T119	PER 12427 12439	quell ' uomo
+T120	FAC 12532 12537	corte
+T121	PER 12995 13000	tutti
+T122	PER 13036 13042	Clauss
+T123	PER 13073 13078	tutti
+T124	PER 13105 13111	Clauss
+T125	FAC 13141 13152	casa nostra

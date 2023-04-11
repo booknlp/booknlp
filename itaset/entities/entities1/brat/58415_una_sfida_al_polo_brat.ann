@@ -1,0 +1,184 @@
+T0	PER 13 25	I due rivali
+T1	PER 41 51	miss Ellen
+T2	PER 71 79	Montcalm
+T3	PER 99 105	Torpon
+T4	LOC 237 249	lago Ontario
+T5	GPE 343 388	piccola e graziosa città canadese di Kingston
+T6	PER 489 563	quelle diecimila persone composte di americani , di canadesi e d ' inglesi
+T7	PER 810 824	la bionda miss
+T8	VEH 866 899	suo automobile di ottanta cavalli
+T9	PER 918 933	i due aspiranti
+T10	PER 972 984	miss Perkins
+T11	PER 1022 1030	Montcalm
+T12	PER 1033 1039	Torpon
+T13	PER 1048 1089	Cinquecento che sono dei noiosi policemen
+T14	PER 1312 1321	policemen
+T15	PER 1330 1337	Stupidi
+T16	VEH 1346 1374	l ' automobile di miss Ellen
+T17	PER 1364 1374	miss Ellen
+T18	PER 1397 1403	ciechi
+T19	PER 1505 1515	miss Ellen
+T20	FAC 1529 1555	una immensa strada diritta
+T21	VEH 1781 1794	un automobile
+T22	PER 1881 1903	I diecimila spettatori
+T23	PER 2048 2093	tutti i cosacchi della Russia e della Siberia
+T24	GPE 2071 2077	Russia
+T25	GPE 2086 2093	Siberia
+T26	VEH 2330 2371	automobile della bellissima Ellen Perkins
+T27	PER 2347 2371	bellissima Ellen Perkins
+T28	PER 2374 2444	la più indiavolata sportman di tutti gli stati dell ' Unione Americana
+T29	GPE 2405 2444	tutti gli stati dell ' Unione Americana
+T30	GPE 2481 2487	Canadà
+T31	PER 2535 2563	una mezza dozzina di persone
+T32	LOC 2625 2676	Quel magnifico viale , tutto bianco , tutto diritto
+T33	PER 2734 2787	quella massa di scommettitori furibondi e di sportmen
+T34	GPE 2799 2822	tutte le città canadesi
+T35	GPE 2831 2857	vicina frontiera americana
+T36	VEH 2860 2874	L ' automobile
+T37	VEH 2913 2939	un treno diretto americano
+T38	PER 3088 3098	spettatori
+T39	LOC 3374 3382	Il fiume
+T40	PER 3414 3424	miss Ellen
+T41	PER 3455 3463	Montcalm
+T42	PER 3481 3487	Torpon
+T43	LOC 3627 3643	oceano Atlantico
+T44	VEH 3765 3779	L ' automobile
+T45	VEH 3805 3842	una magnifica macchina tutta scoperta
+T46	PER 3892 3911	sole cinque persone
+T47	PER 3931 3953	una bellissima giovane
+T48	PER 4099 4108	una donna
+T49	PER 4292 4303	due giovani
+T50	PER 4335 4342	l ' uno
+T51	PER 4350 4355	altro
+T52	PER 4396 4442	l ' uno bruno e baffuto , d ' aspetto distinto
+T53	PER 4447 4494	l ' altro biondastro , un po ' tozzo e sbarbato
+T54	PER 4500 4518	un prete anglicano
+T55	PER 4547 4556	altri due
+T56	PER 4704 4762	uomini più muscolosi degli Stati Uniti ed anche del Canadà
+T57	GPE 4731 4742	Stati Uniti
+T58	GPE 4756 4762	Canadà
+T59	VEH 4765 4779	L ' automobile
+T60	PER 4797 4811	intrepida miss
+T61	PER 4973 4983	spettatori
+T62	PER 5039 5049	Miss Ellen
+T63	PER 5143 5159	diecimila uomini
+T64	FAC 5210 5227	bars improvvisati
+T65	PER 5262 5272	Signor mio
+T66	PER 5384 5477	un grosso americano tutto chiuso in una monumentale pelliccia e con tanto di cilindro in capo
+T67	PER 5620 5645	Quella splendida creatura
+T68	VEH 5655 5672	il suo automobile
+T69	PER 5684 5728	più famoso chaffeur d ' America e d ' Europa
+T70	GPE 5708 5715	America
+T71	GPE 5722 5728	Europa
+T72	PER 5733 5746	L ' americano
+T73	PER 5813 5823	il giovane
+T74	GPE 5989 6000	Inghilterra
+T75	GPE 6022 6028	Quebec
+T76	GPE 6034 6042	Montreal
+T77	PER 6143 6162	il grosso americano
+T78	PER 6266 6275	gentleman
+T79	PER 6287 6305	il giovane inglese
+T80	PER 6401 6424	quella superba creatura
+T81	VEH 6458 6500	quel superbo automobile di ottanta cavalli
+T82	PER 6515 6525	signor mio
+T83	PER 6549 6562	l ' americano
+T84	PER 6650 6668	Miss Ellen Perkins
+T85	PER 6713 6790	la fanciulla più indiavolata di tutti gli Stati della grande Unione Americana
+T86	GPE 6745 6790	tutti gli Stati della grande Unione Americana
+T87	PER 6820 6838	Amazzone intrepida
+T88	PER 6865 6907	i famosi cow - boys del lontano Far - West
+T89	GPE 6897 6907	Far - West
+T90	PER 6910 6933	canottiera insuperabile
+T91	PER 6936 6949	automobilista
+T92	PER 6952 6962	spadaccina
+T93	PER 6965 6975	lottatrice
+T94	PER 6996 7017	la regina dello sport
+T95	PER 7052 7061	gentleman
+T96	PER 7100 7110	giovanotto
+T97	PER 7113 7126	La bella miss
+T98	PER 7160 7186	una fanciulla meravigliosa
+T99	PER 7232 7241	gentleman
+T100	PER 7301 7350	tutti gli studenti dell ' Università di Cambridge
+T101	FAC 7327 7350	Università di Cambridge
+T102	GPE 7341 7350	Cambridge
+T103	PER 7445 7457	uno sportman
+T104	PER 7494 7507	l ' americano
+T105	PER 7588 7598	due uomini
+T106	PER 7623 7649	quella bellissima creatura
+T107	PER 7659 7710	i due più celebri sportmans dell ' America del nord
+T108	GPE 7694 7710	America del nord
+T109	PER 7818 7846	quella indiavolata fanciulla
+T110	PER 7887 7896	gli altri
+T111	PER 8072 8082	giovanotto
+T112	PER 8093 8106	l ' americano
+T113	PER 8163 8174	L ' inglese
+T114	PER 8192 8225	proprietario del bar improvvisato
+T115	FAC 8209 8225	bar improvvisato
+T116	PER 8469 8485	un garzone negro
+T117	PER 8695 8705	Un europeo
+T118	PER 9167 9176	un yankee
+T119	PER 9190 9203	l ' americano
+T120	PER 9354 9372	il giovane inglese
+T121	PER 9522 9531	il yankee
+T122	PER 9623 9638	folla delirante
+T123	PER 9643 9678	due uomini , veramente straordinarî
+T124	PER 9707 9725	miss Ellen Perkins
+T125	PER 9728 9731	Uno
+T126	PER 9734 9752	un nobile canadese
+T127	PER 9815 9850	discendente di quei famosi Montcalm
+T128	GPE 9881 9893	questo paese
+T129	PER 9907 9922	signori inglesi
+T130	PER 9925 9934	L ' altro
+T131	PER 9937 9956	un mio compatriotta
+T132	PER 9962 10036	signor Torpon , figlio d ' un grande fabbricante d ' automobili di Buffalo
+T133	PER 9989 10036	un grande fabbricante d ' automobili di Buffalo
+T134	VEH 10015 10036	automobili di Buffalo
+T135	GPE 10029 10036	Buffalo
+T136	PER 10039 10046	padrone
+T137	PER 10092 10110	il giovane inglese
+T138	PER 10197 10215	signor di Montcalm
+T139	PER 10239 10273	il più celebre sportman del Canadà
+T140	GPE 10267 10273	Canadà
+T141	PER 10283 10302	il mio compatriotta
+T142	GPE 10315 10355	il più celebre degli Stati dell ' Unione
+T143	GPE 10336 10355	Stati dell ' Unione
+T144	PER 10437 10444	Nessuno
+T145	PER 10482 10500	miss Ellen Perkins
+T146	PER 10563 10573	giovanotto
+T147	PER 10584 10597	l ' americano
+T148	PER 10625 10653	Una ragazza del nostro paese
+T149	GPE 10648 10653	paese
+T150	PER 10726 10735	gentleman
+T151	PER 10814 10843	il più forte dei due campioni
+T152	PER 10887 10899	il più forte
+T153	PER 10984 10998	i due campioni
+T154	VEH 11172 11182	automobile
+T155	PER 11327 11336	gentleman
+T156	PER 11442 11452	miss Ellen
+T157	PER 11527 11541	Giovanotto mio
+T158	PER 11603 11610	Lorenzo
+T159	ORG 11613 11623	la polizia
+T160	PER 11661 11678	quei due valorosi
+T161	PER 11789 11796	inglesi
+T162	GPE 11872 11884	vostro paese
+T163	PER 11924 11937	L ' americano
+T164	PER 11996 12015	i policemen inglesi
+T165	PER 12141 12160	vostro compatriotta
+T166	PER 12174 12182	canadese
+T167	PER 12223 12233	giovanotto
+T168	PER 12261 12279	signor di Montcalm
+T169	PER 12287 12298	Will Torpon
+T170	PER 12345 12364	il mio compatriotta
+T171	PER 12395 12403	canadese
+T172	PER 12448 12466	miss Ellen Perkins
+T173	PER 12471 12488	Questi due rivali
+T174	PER 12494 12500	ricchi
+T175	PER 12503 12512	gentleman
+T176	PER 12530 12545	Pierpont Morgan
+T177	PER 12555 12563	Carnegie
+T178	PER 12573 12583	Wanderbild
+T179	PER 12720 12739	Il mio compatriotta
+T180	PER 12756 12765	suo padre
+T181	PER 12860 12875	signor Montcalm
+T182	PER 12885 12946	uno dei più grossi proprietarî di terreni del dominio inglese
+T183	LOC 12919 12946	terreni del dominio inglese

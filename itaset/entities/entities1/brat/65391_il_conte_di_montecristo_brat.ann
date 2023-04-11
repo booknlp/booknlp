@@ -1,0 +1,229 @@
+T0	PER 54 89	vedetta della Madonna della guardia
+T1	VEH 113 141	nave a tre alberi il Faraone
+T2	GPE 156 162	Smirne
+T3	GPE 165 172	Trieste
+T4	GPE 175 181	Napoli
+T5	PER 201 219	un pilota costiere
+T6	FAC 268 283	castello d ' If
+T7	VEH 306 314	naviglio
+T8	LOC 322 337	capo di Morgiou
+T9	LOC 346 359	isola di Rion
+T10	FAC 413 431	forte San Giovanni
+T11	GPE 510 519	Marsiglia
+T12	VEH 534 547	un bastimento
+T13	VEH 595 605	il Faraone
+T14	FAC 645 674	cantieri della vecchia Phocée
+T15	PER 694 717	un armatore della città
+T16	GPE 712 717	città
+T17	VEH 730 741	il naviglio
+T18	LOC 780 828	lo stretto formatosi da qualche scossa vulcanica
+T19	LOC 837 858	isola di Calasareigne
+T20	LOC 861 876	quella di Jaros
+T21	LOC 895 902	Pomègue
+T22	PER 1174 1202	gli esperti alla navigazione
+T23	VEH 1302 1312	bastimento
+T24	VEH 1392 1429	un naviglio eccellentemente governato
+T25	PER 1507 1513	pilota
+T26	VEH 1541 1551	il Faraone
+T27	GPE 1587 1596	Marsiglia
+T28	PER 1605 1618	un giovinotto
+T29	VEH 1692 1700	naviglio
+T30	PER 1730 1736	pilota
+T31	PER 1773 1781	la folla
+T32	PER 1812 1859	uno degli accorsi alla spianata di San Giovanni
+T33	FAC 1835 1859	spianata di San Giovanni
+T34	VEH 1911 1921	bastimento
+T35	VEH 1943 1956	una barchetta
+T36	VEH 1989 1996	Faraone
+T37	PER 2046 2065	Il giovine marinaio
+T38	PER 2083 2095	quest ' uomo
+T39	PER 2129 2135	pilota
+T40	FAC 2187 2211	parapetto del bastimento
+T41	VEH 2201 2211	bastimento
+T42	PER 2225 2272	un giovine di vent ' anni circa , alto , snello
+T43	PER 2341 2357	tutta la persona
+T44	PER 2406 2420	uomini avvezzi
+T45	PER 2488 2494	Dantès
+T46	PER 2503 2523	l ' uomo dalla barca
+T47	VEH 2518 2523	barca
+T48	PER 2632 2645	signor Morrel
+T49	PER 2656 2669	il giovinotto
+T50	GPE 2733 2746	Civitavecchia
+T51	PER 2766 2788	bravo Capitano Leclerc
+T52	PER 2826 2838	l ' armatore
+T53	PER 2867 2872	sig .
+T54	PER 2873 2879	Morrel
+T55	PER 2952 2975	povero Capitano Leclerc
+T56	PER 3019 3031	l ' armatore
+T57	LOC 3097 3101	mare
+T58	PER 3111 3118	signore
+T59	PER 3207 3221	l ' equipaggio
+T60	PER 3248 3256	ciascuno
+T61	PER 3291 3305	L ' equipaggio
+T62	PER 3336 3361	gli otto o dieci marinari
+T63	PER 3496 3515	Il giovine marinaio
+T64	PER 3634 3651	suo interlocutore
+T65	PER 3707 3719	l ' armatore
+T66	PER 3765 3784	il giovine marinaio
+T67	PER 3872 3892	comandante del porto
+T68	PER 3898 3914	Capitano Leclerc
+T69	GPE 3925 3931	Napoli
+T70	LOC 4196 4212	Isola del Giglio
+T71	PER 4234 4240	vedova
+T72	PER 4307 4320	il giovinotto
+T73	PER 4389 4396	Inglesi
+T74	PER 4428 4444	tutti gli uomini
+T75	PER 4486 4493	Edmondo
+T76	PER 4504 4516	l ' armatore
+T77	PER 4560 4573	tutti mortali
+T78	PER 4595 4603	i vecchi
+T79	PER 4623 4630	giovani
+T80	PER 4752 4757	sig .
+T81	PER 4758 4764	Morrel
+T82	FAC 4896 4909	Torre Rotonda
+T83	PER 4991 5010	il giovine marinaio
+T84	VEH 5195 5206	il naviglio
+T85	PER 5327 5332	sig .
+T86	PER 5333 5339	Morrel
+T87	PER 5348 5354	Dantès
+T88	PER 5387 5395	armatore
+T89	PER 5410 5434	vostro scrivano Danglars
+T90	FAC 5448 5460	suo camerino
+T91	VEH 5578 5585	la nave
+T92	PER 5598 5610	L ' armatore
+T93	PER 5680 5686	Dantès
+T94	PER 5736 5751	un uomo di mare
+T95	LOC 5747 5751	mare
+T96	VEH 5807 5817	bastimento
+T97	PER 5950 5958	Danglars
+T98	FAC 5982 5995	suo gabinetto
+T99	PER 6023 6035	l ' armatore
+T100	PER 6038 6053	Il sopraggiunto
+T101	PER 6058 6102	un uomo di 25 a 26 anni di figura molto cupa
+T102	PER 6122 6138	i suoi superiori
+T103	PER 6155 6165	sottoposti
+T104	FAC 6183 6211	il suo ufficio di computista
+T105	PER 6201 6211	computista
+T106	PER 6265 6273	marinari
+T107	PER 6308 6318	equipaggio
+T108	PER 6341 6347	Dantès
+T109	PER 6375 6380	sig .
+T110	PER 6381 6387	Morrel
+T111	PER 6396 6404	Danglars
+T112	PER 6460 6483	povero capitano Leclerc
+T113	PER 6490 6514	un bravo ed onest ' uomo
+T114	PER 6533 6559	un eccellente uomo di mare
+T115	LOC 6555 6559	mare
+T116	PER 6621 6628	un uomo
+T117	FAC 6656 6664	una casa
+T118	ORG 6691 6711	casa Morrel e Figlio
+T119	PER 6727 6739	l ' armatore
+T120	PER 6768 6774	Dantès
+T121	PER 6861 6883	tanto vecchio marinaio
+T122	PER 6902 6910	Danglars
+T123	PER 6962 6982	nostro amico Edmondo
+T124	PER 7062 7068	alcuno
+T125	PER 7084 7092	Danglars
+T126	PER 7105 7111	Dantès
+T127	PER 7180 7187	giovane
+T128	PER 7232 7243	il capitano
+T129	PER 7287 7293	alcuno
+T130	LOC 7342 7356	Isola d ' Elba
+T131	GPE 7392 7401	Marsiglia
+T132	PER 7457 7469	l ' armatore
+T133	LOC 7544 7558	Isola d ' Elba
+T134	VEH 7593 7604	il naviglio
+T135	VEH 7653 7664	Il naviglio
+T136	PER 7730 7743	signor Morrel
+T137	PER 7841 7847	Dantès
+T138	PER 7856 7868	l ' armatore
+T139	PER 7886 7899	il giovinotto
+T140	PER 7927 7934	signore
+T141	PER 7943 7949	Dantès
+T142	PER 8011 8021	equipaggio
+T143	PER 8104 8110	Dantès
+T144	PER 8157 8163	pilota
+T145	PER 8335 8343	Danglars
+T146	PER 8388 8396	Capitano
+T147	PER 8424 8436	l ' armatore
+T148	PER 8446 8451	sig .
+T149	PER 8452 8458	Morrel
+T150	PER 8505 8517	vostro socio
+T151	PER 8579 8591	l ' armatore
+T152	PER 8601 8608	giovine
+T153	PER 8729 8737	Danglars
+T154	PER 8752 8757	sig .
+T155	PER 8758 8764	Morrel
+T156	PER 8773 8779	Dantès
+T157	VEH 8804 8817	il bastimento
+T158	PER 8895 8903	Danglars
+T159	LOC 8985 8999	Isola d ' Elba
+T160	PER 9064 9080	Capitano Leclerc
+T161	PER 9127 9152	gran Maresciallo Bertrand
+T162	PER 9181 9200	il gran maresciallo
+T163	PER 9203 9210	Edmondo
+T164	PER 9222 9228	Morrel
+T165	PER 9266 9272	Dantès
+T166	PER 9288 9302	l ' Imperatore
+T167	PER 9426 9440	l ' Imperatore
+T168	PER 9460 9471	Maresciallo
+T169	PER 9555 9561	Dantès
+T170	VEH 9608 9618	bastimento
+T171	GPE 9649 9658	Marsiglia
+T172	PER 9784 9794	il padrone
+T173	VEH 9916 9929	il bastimento
+T174	ORG 9947 9967	casa Morrel e figlio
+T175	PER 10005 10013	I Morrel
+T176	PER 10019 10027	armatori
+T177	PER 10031 10036	padre
+T178	PER 10040 10046	figlio
+T179	PER 10064 10073	un Morrel
+T180	GPE 10147 10154	Valenza
+T181	PER 10174 10186	l ' armatore
+T182	PER 10208 10232	Policar Morrel , mio zio
+T183	PER 10247 10255	capitano
+T184	PER 10258 10264	Dantès
+T185	PER 10276 10283	mio zio
+T186	PER 10288 10302	l ' Imperatore
+T187	PER 10348 10369	il vecchio brontolone
+T188	PER 10401 10420	l ' antico armatore
+T189	PER 10470 10480	giovinotto
+T190	PER 10534 10550	capitano Leclerc
+T191	LOC 10573 10587	Isola d ' Elba
+T192	PER 10650 10661	Maresciallo
+T193	PER 10679 10689	imperatore
+T194	PER 10769 10775	Dantès
+T195	PER 10819 10833	l ' Imperatore
+T196	PER 10898 10906	chiunque
+T197	PER 10930 10936	Dantès
+T198	ORG 10947 10953	Sanità
+T199	ORG 10959 10965	Dogana
+T200	PER 11025 11040	mio caro Dantès
+T201	PER 11043 11056	Il giovinotto
+T202	PER 11111 11119	Danglars
+T203	GPE 11208 11221	Porto Ferrajo
+T204	PER 11239 11256	mio caro Danglars
+T205	PER 11340 11351	un camerata
+T206	PER 11385 11391	Dantès
+T207	PER 11418 11430	l ' armatore
+T208	PER 11468 11484	capitano Leclerc
+T209	PER 11535 11551	capitano Leclerc
+T210	PER 11668 11684	capitano Leclerc
+T211	PER 11779 11785	Dantès
+T212	GPE 11814 11827	Porto Ferrajo
+T213	PER 11851 11859	Danglars
+T214	PER 11904 11912	capitano
+T215	PER 11950 11956	Dantès
+T216	PER 12017 12029	l ' armatore
+T217	PER 12075 12083	Danglars
+T218	PER 12117 12122	sig .
+T219	PER 12123 12129	Morrel
+T220	PER 12167 12173	Dantès
+T221	PER 12214 12227	il giovinotto
+T222	PER 12243 12251	Danglars
+T223	PER 12278 12293	mio caro Dantès
+T224	PER 12317 12329	l ' armatore
+T225	PER 12341 12348	signore
+T226	ORG 12364 12370	Dogana
+T227	PER 12452 12475	pilota costiere un uomo
+T228	PER 12556 12562	Dantès

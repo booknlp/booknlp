@@ -1,0 +1,142 @@
+T0	FAC 30 48	Paradiso terrestre
+T1	PER 52 59	Goldoni
+T2	FAC 108 114	teatro
+T3	ORG 151 157	stampa
+T4	FAC 200 214	Caffè Francese
+T5	PER 227 247	donna Maria di Varga
+T6	GPE 242 247	Varga
+T7	PER 333 339	alcuni
+T8	PER 355 373	Guglielmo Baglioni
+T9	PER 376 381	altri
+T10	PER 411 421	gli uomini
+T11	PER 451 461	le signore
+T12	PER 469 487	Ferdinando Anselmi
+T13	PER 521 559	gl ' interlocutori e le interlocutrici
+T14	PER 624 649	il giudice più autorevole
+T15	PER 652 663	donna Maria
+T16	PER 818 827	un autore
+T17	PER 904 917	un professore
+T18	PER 920 934	un predicatore
+T19	PER 937 953	un propagandista
+T20	PER 1085 1093	Baglioni
+T21	PER 1365 1381	signora Graziani
+T22	PER 1384 1402	il mio amico Mauri
+T23	PER 1549 1559	i credenti
+T24	PER 1725 1730	donna
+T25	PER 1748 1753	Adamo
+T26	PER 1948 1953	Adamo
+T27	PER 1978 1981	Eva
+T28	PER 2051 2061	la femmina
+T29	PER 2085 2096	istigatrice
+T30	PER 2154 2162	i maschi
+T31	PER 2231 2241	la femmina
+T32	PER 2652 2660	Baglioni
+T33	PER 2742 2769	il seduttore disinteressato
+T34	PER 2878 2894	una persona viva
+T35	PER 2943 2951	Baglioni
+T36	PER 3154 3157	Eva
+T37	PER 3180 3185	Adamo
+T38	PER 3269 3277	qualcuno
+T39	PER 3358 3366	un altro
+T40	PER 3491 3499	Baglioni
+T41	PER 3502 3514	i suoi amici
+T42	PER 3603 3612	avversarî
+T43	PER 3807 3831	la baronessa di Sclàfani
+T44	GPE 3823 3831	Sclàfani
+T45	PER 3852 3871	povera donna Emilia
+T46	PER 3875 3891	un amico di casa
+T47	FAC 3887 3891	casa
+T48	PER 4082 4091	il marito
+T49	PER 4153 4164	donna Maria
+T50	PER 4214 4228	mia cara amica
+T51	PER 4418 4424	maschi
+T52	PER 4435 4442	femmine
+T53	PER 4620 4629	voi donne
+T54	PER 4634 4647	secondo Dumas
+T55	PER 4780 4787	astanti
+T56	PER 4815 4826	donna Maria
+T57	PER 4835 4851	signora Graziani
+T58	PER 4861 4882	qualcuno degli uomini
+T59	PER 4936 4943	Anselmi
+T60	PER 5192 5202	noi uomini
+T61	PER 5360 5365	tutte
+T62	PER 5414 5437	quella signorina laggiù
+T63	PER 5463 5494	una vistosa e solitaria cliente
+T64	FAC 5531 5545	elegante Caffè
+T65	PER 5877 5888	Emilio Zola
+T66	PER 6121 6129	Baglioni
+T67	PER 6191 6196	amico
+T68	FAC 6219 6227	scuderie
+T69	PER 6611 6618	oratore
+T70	PER 6624 6640	signora Graziani
+T71	PER 6803 6822	queste povere donne
+T72	PER 6883 6899	quelle signorine
+T73	PER 7339 7358	l ' amante respinto
+T74	PER 7510 7534	una creatura insensibile
+T75	PER 7572 7582	Maupassant
+T76	PER 8413 8422	una donna
+T77	PER 8430 8439	una donna
+T78	PER 8446 8460	una mercenaria
+T79	PER 8464 8477	un ' ammalata
+T80	PER 8995 9010	facondo oratore
+T81	PER 9013 9024	gli astanti
+T82	PER 9099 9112	Alberto Mauri
+T83	PER 9348 9358	le signore
+T84	PER 9364 9371	Anselmi
+T85	PER 9383 9388	Mauri
+T86	PER 9399 9410	donna Maria
+T87	PER 9454 9475	baronessa di Sclàfani
+T88	GPE 9467 9475	Sclàfani
+T89	FAC 9641 9645	casa
+T90	FAC 9650 9654	casa
+T91	PER 9721 9732	La comitiva
+T92	PER 9746 9752	alcuni
+T93	PER 9774 9779	altri
+T94	FAC 9813 9834	il centro della città
+T95	GPE 9829 9834	città
+T96	PER 9837 9848	donna Maria
+T97	PER 9854 9870	signora Graziani
+T98	PER 9873 9885	suo fratello
+T99	PER 9888 9895	Anselmi
+T100	PER 9898 9903	Mauri
+T101	FAC 9934 9950	i quartieri alti
+T102	PER 10009 10025	signora di Varga
+T103	GPE 10020 10025	Varga
+T104	PER 10031 10038	Susanna
+T105	PER 10125 10130	Mauri
+T106	PER 10144 10159	l ' interrogata
+T107	PER 10174 10181	giovane
+T108	LOC 10215 10229	le vie deserte
+T109	PER 10348 10353	Mauri
+T110	PER 10370 10378	due dame
+T111	PER 10383 10402	gli altri cavalieri
+T112	PER 10884 10889	tutti
+T113	GPE 10970 10993	più bel paese del mondo
+T114	LOC 10988 10993	mondo
+T115	LOC 10996 11033	una spiaggia tutta frondosa e fiorita
+T116	LOC 11046 11088	un mare azzurro aleggiato da tepide brezze
+T117	FAC 11119 11137	Un tempio marmoreo
+T118	LOC 11157 11161	mare
+T119	PER 11185 11192	Fortuna
+T120	PER 11210 11218	la gente
+T121	PER 11273 11288	la mutevole Dea
+T122	PER 11330 11351	quelli che osteggiava
+T123	LOC 11417 11431	altissime rupi
+T124	LOC 11438 11452	irte scogliere
+T125	FAC 11530 11536	tempio
+T126	PER 11615 11623	La donna
+T127	PER 11666 11683	la più desiderata
+T128	PER 11686 11691	altre
+T129	PER 11711 11732	codazzi di spasimanti
+T130	PER 11874 11888	un gioielliere
+T131	PER 11953 11961	qualcuno
+T132	PER 11964 11993	un amico straricco e generoso
+T133	PER 11998 12016	lo stesso mercante
+T134	PER 12481 12488	persona
+T135	PER 12955 12996	straniera , principessa , ricca a milioni
+T136	PER 13046 13051	gente
+T137	PER 13158 13165	nessuna
+T138	PER 13319 13355	Suo marito , gigantesco , soldatesco
+T139	PER 13373 13378	padre
+T140	FAC 13684 13702	giardini incantati
+T141	LOC 13711 13726	il placido mare

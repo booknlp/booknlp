@@ -1,0 +1,150 @@
+T0	PER 91 119	signor Dionigi Van - Spengel
+T1	PER 240 256	dottor Croissart
+T2	PER 318 336	illustre scrittore
+T3	PER 367 386	le dottor Croissart
+T4	GPE 389 398	Bruxelles
+T5	PER 604 620	dottor Croissart
+T6	GPE 642 660	città di Brusselle
+T7	LOC 690 693	vie
+T8	PER 736 764	signor Dionigi Van - Spengel
+T9	PER 967 972	Levys
+T10	PER 1243 1263	signor Van - Spengel
+T11	ORG 1292 1335	Direzione Generale della polizia del Belgio
+T12	GPE 1329 1335	Belgio
+T13	PER 1443 1476	l ' allievo prediletto del Vidocq
+T14	PER 1615 1644	L ' uomo più onesto del mondo
+T15	LOC 1639 1644	mondo
+T16	PER 1739 1759	signor Van - Spengel
+T17	PER 1770 1786	dottor Groissart
+T18	PER 1884 1917	i medici di Brusselle e di Parigi
+T19	GPE 1896 1905	Brusselle
+T20	GPE 1911 1917	Parigi
+T21	PER 2210 2230	signor Van - Spengel
+T22	PER 2729 2741	quell ' uomo
+T23	PER 2895 2911	guardie daziarie
+T24	GPE 2929 2934	città
+T25	PER 3010 3030	signor Van - Spengel
+T26	PER 3398 3418	signor Van - Spengel
+T27	PER 3585 3605	signor Van - Spengel
+T28	PER 3624 3631	parenti
+T29	PER 3643 3683	una vecchia che lo serve da trent ' anni
+T30	FAC 3695 3766	un quartierino nello stesso ufficio della Direzione Generale di Polizia
+T31	FAC 3723 3766	ufficio della Direzione Generale di Polizia
+T32	ORG 3737 3766	Direzione Generale di Polizia
+T33	PER 3967 3987	signor Van - Spengel
+T34	FAC 4002 4012	sue stanze
+T35	PER 4133 4141	la serva
+T36	PER 4255 4264	la Trosse
+T37	PER 4269 4283	il suo padrone
+T38	PER 4305 4314	La Trosse
+T39	PER 4344 4364	signor Van - Spengel
+T40	PER 4503 4513	Il padrone
+T41	PER 4529 4539	la vecchia
+T42	PER 4836 4845	la Trosse
+T43	FAC 4879 4888	la stanza
+T44	PER 5025 5039	Il suo padrone
+T45	PER 5153 5173	signor Van - Spengel
+T46	PER 5305 5310	serva
+T47	PER 5391 5399	La serva
+T48	PER 5615 5635	signor Van - Spengel
+T49	FAC 5722 5731	la stanza
+T50	PER 5938 5943	serva
+T51	PER 5953 5960	signore
+T52	PER 5968 5977	La Trosse
+T53	PER 6002 6016	il suo padrone
+T54	PER 6127 6135	la serva
+T55	PER 6159 6170	suo padrone
+T56	PER 6195 6202	nessuno
+T57	PER 6237 6257	signor Van - Spengel
+T58	PER 6361 6366	serva
+T59	PER 6432 6457	signor Procuratore del Re
+T60	PER 6455 6457	Re
+T61	LOC 6520 6539	157 Via Roi Lèopold
+T62	GPE 6543 6551	Bruselle
+T63	PER 6669 6689	signor Van - Spengel
+T64	PER 6765 6775	il diavolo
+T65	PER 7010 7020	il padrone
+T66	PER 7045 7054	la Trosse
+T67	PER 7119 7139	signor Van - Spengel
+T68	PER 7537 7557	signor Van - Spengel
+T69	PER 7677 7684	mio Dio
+T70	PER 7694 7702	la serva
+T71	FAC 7745 7754	le stanze
+T72	PER 7767 7779	mamma Trosse
+T73	PER 8162 8169	dottore
+T74	PER 8208 8228	signor Van - Spengel
+T75	PER 8296 8303	Signore
+T76	PER 8503 8523	signor Van - Spengel
+T77	PER 8609 8616	Signore
+T78	FAC 8688 8699	mio ufficio
+T79	ORG 8703 8727	Ministero dell ' interno
+T80	PER 8780 8791	il Ministro
+T81	LOC 8814 8827	via Grisolles
+T82	LOC 8834 8849	via Roi Lèopold
+T83	FAC 8893 8900	la casa
+T84	FAC 8934 8941	palazzo
+T85	PER 8946 8977	signor visconte De - Moulmenant
+T86	PER 9030 9040	il pastaio
+T87	FAC 9048 9058	la bottega
+T88	PER 9127 9159	le due guardie Lerouge e Poisson
+T89	LOC 9208 9218	via Bissot
+T90	PER 9248 9260	Il cocchiere
+T91	PER 9263 9271	il cuoco
+T92	PER 9274 9333	due camerieri della signora marchesa di Rostentein - Gourny
+T93	PER 9294 9333	signora marchesa di Rostentein - Gourny
+T94	FAC 9367 9383	casa a due piani
+T95	PER 9405 9421	signora marchesa
+T96	PER 9514 9523	portinaio
+T97	PER 9535 9544	cameriera
+T98	FAC 9556 9560	casa
+T99	PER 9572 9580	marchesa
+T100	PER 9592 9602	marchesina
+T101	PER 9605 9631	Quelle persone di servizio
+T102	PER 9664 9672	marchesa
+T103	PER 9715 9731	figlia del cuoco
+T104	PER 9726 9731	cuoco
+T105	PER 9844 9856	Il cocchiere
+T106	FAC 9867 9913	il terrazzino di mezzo a cavaliere del portone
+T107	FAC 10053 10064	quella casa
+T108	PER 10128 10149	sergente Jean - Roche
+T109	PER 10156 10173	altre sei guardie
+T110	PER 10226 10245	uno dei suoi uomini
+T111	PER 10250 10273	giudice del Circondario
+T112	PER 10333 10343	Il giudice
+T113	PER 10386 10397	Cancelliere
+T114	PER 10409 10419	un magnano
+T115	PER 10535 10546	sei guardie
+T116	PER 10561 10569	la folla
+T117	PER 10579 10592	due testimoni
+T118	PER 10616 10632	questi domestici
+T119	PER 10671 10682	I domestici
+T120	PER 10827 10839	Il portinaio
+T121	PER 11080 11108	Luison , una delle cameriere
+T122	PER 11155 11163	Nichette
+T123	PER 11237 11254	la sua padroncina
+T124	PER 11257 11278	Gli uomini , allibiti
+T125	PER 11312 11328	guardia Maresque
+T126	PER 11350 11360	un dottore
+T127	PER 11401 11409	Nichette
+T128	FAC 11443 11452	ringhiera
+T129	FAC 11492 11499	La casa
+T130	FAC 11670 11691	salone di ricevimento
+T131	PER 11763 11775	una duchesse
+T132	PER 11796 11829	marchesina di Rostentein - Gourny
+T133	FAC 12069 12099	stanza da letto della marchesa
+T134	PER 12091 12099	marchesa
+T135	PER 12227 12243	signora Marchesa
+T136	PER 12246 12257	Due guardie
+T137	PER 12391 12403	La cameriera
+T138	FAC 12448 12462	camera accanto
+T139	PER 12468 12480	dottor Marol
+T140	PER 12547 12565	le quattro vittime
+T141	PER 12725 12737	i malfattori
+T142	FAC 12822 12830	una casa
+T143	PER 12842 12849	persone
+T144	PER 13038 13050	Il portinaio
+T145	FAC 13156 13169	sua cameretta
+T146	PER 13234 13244	assalitori
+T147	PER 13264 13269	gente
+T148	PER 13287 13310	qualcuno dei malfattori
+T149	PER 13354 13363	gli altri

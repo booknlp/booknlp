@@ -1,0 +1,84 @@
+T0	GPE 73 80	Bologna
+T1	LOC 216 248	la nuova via della vecchia città
+T2	GPE 235 248	vecchia città
+T3	LOC 618 640	un altro mondo lontano
+T4	PER 1298 1311	quei minatori
+T5	LOC 1325 1333	un monte
+T6	VEH 1341 1354	le locomotive
+T7	PER 1735 1765	un gran signore di altri tempi
+T8	FAC 1783 1800	la propria strada
+T9	PER 2067 2075	famiglia
+T10	FAC 2419 2428	tribunali
+T11	FAC 2435 2441	comizi
+T12	PER 2457 2473	il nuovo signore
+T13	PER 2740 2745	altri
+T14	PER 2846 2854	avvocato
+T15	PER 3165 3205	pochi altri amici della prima giovinezza
+T16	PER 3244 3257	alcuni di noi
+T17	PER 3859 3890	stranieri e superbi su la folla
+T18	PER 4034 4043	noi tutti
+T19	PER 4667 4683	tutti gli eletti
+T20	PER 4815 4821	uomini
+T21	PER 5006 5013	oratore
+T22	PER 5017 5026	scrittore
+T23	PER 5269 5275	atleta
+T24	PER 5414 5420	popolo
+T25	PER 5499 5524	gli elettori e gli eletti
+T26	ORG 5541 5567	circoli mondani o politici
+T27	ORG 5619 5626	finanza
+T28	ORG 5633 5640	governo
+T29	ORG 5694 5722	moderno patriziato femminile
+T30	PER 5843 5866	il gran signore moderno
+T31	ORG 5915 5926	ogni classe
+T32	PER 6238 6243	folla
+T33	PER 6244 6255	i candidati
+T34	PER 6295 6303	le guide
+T35	PER 6324 6335	condottieri
+T36	PER 6338 6379	uomini di arte , di scienza e di politica
+T37	PER 6977 6993	tutti gli inetti
+T38	PER 7329 7337	la folla
+T39	PER 7345 7358	il dominatore
+T40	PER 7416 7422	coloro
+T41	PER 7444 7449	folla
+T42	LOC 7483 7487	mare
+T43	LOC 7575 7587	sue correnti
+T44	VEH 7800 7809	due treni
+T45	GPE 7860 7864	Roma
+T46	FAC 7877 7892	Castel Giubileo
+T47	PER 8028 8046	una folla sorpresa
+T48	PER 8142 8179	Umberto I , il re assassinato a Monza
+T49	GPE 8174 8179	Monza
+T50	PER 8183 8192	un anarca
+T51	PER 8210 8216	popolo
+T52	FAC 8251 8259	Pantheon
+T53	PER 8265 8305	un vincitore benedetto dal clero di Roma
+T54	ORG 8292 8305	clero di Roma
+T55	GPE 8301 8305	Roma
+T56	PER 8308 8328	il popolo d ' Italia
+T57	GPE 8322 8328	Italia
+T58	GPE 8344 8360	l ' antica città
+T59	PER 8634 8641	vittime
+T60	PER 8683 8691	Un amico
+T61	PER 8751 8757	medici
+T62	PER 8888 8899	un cadavere
+T63	PER 8909 8920	il cadavere
+T64	PER 8930 8938	l ' uomo
+T65	FAC 9112 9129	gli ultimi vagoni
+T66	VEH 9142 9190	l ' enorme macchina nera , sbuffante , sibilante
+T67	PER 9352 9359	morenti
+T68	PER 9633 9638	padre
+T69	PER 9891 9902	Altri morti
+T70	FAC 9954 9965	il sepolcro
+T71	PER 10067 10075	la gente
+T72	PER 10339 10352	soldato morto
+T73	FAC 10439 10449	parlamento
+T74	PER 10486 10494	ministro
+T75	PER 11060 11089	morto , amico mio , scomparso
+T76	PER 11103 11108	tutti
+T77	PER 11188 11215	il fratello della mia anima
+T78	PER 11305 11317	I tuoi figli
+T79	PER 11412 11428	il padre sparito
+T80	PER 11791 11799	tuo Aldo
+T81	PER 11828 11835	maestro
+T82	PER 11884 11893	fanciullo
+T83	PER 12194 12203	Tuo padre

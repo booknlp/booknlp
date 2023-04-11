@@ -1,0 +1,125 @@
+T0	LOC 17 37	sponde della Garonna
+T1	GPE 46 66	provincia di Guienna
+T2	FAC 95 123	il castello di Sant ' Aubert
+T3	PER 110 123	Sant ' Aubert
+T4	GPE 157 195	i ricchi e fertili paesi della Guienna
+T5	LOC 223 231	il fiume
+T6	LOC 246 271	boschi , vigne ed oliveti
+T7	LOC 344 351	Pirenei
+T8	LOC 544 559	le loro pendici
+T9	LOC 629 649	Spaventosi precipizi
+T10	LOC 670 696	ridente verzura de ' prati
+T11	LOC 705 710	selve
+T12	LOC 767 782	quelle voragini
+T13	FAC 830 849	capanne dei pastori
+T14	PER 842 849	pastori
+T15	LOC 852 879	Le pianure della Linguadoca
+T16	GPE 869 879	Linguadoca
+T17	LOC 914 924	tramontana
+T18	LOC 930 937	levante
+T19	LOC 971 978	ponente
+T20	LOC 995 1013	golfo di Guascogna
+T21	GPE 1004 1013	Guascogna
+T22	PER 1016 1029	Sant ' Aubert
+T23	PER 1051 1056	sposa
+T24	PER 1065 1071	figlia
+T25	LOC 1108 1128	sponde della Garonna
+T26	LOC 1346 1356	gran mondo
+T27	ORG 1630 1640	la società
+T28	PER 1859 1876	illustre famiglia
+T29	PER 1882 1897	i suoi genitori
+T30	PER 2096 2109	Sant ' Aubert
+T31	PER 2302 2307	padre
+T32	PER 2314 2335	una fanciulla amabile
+T33	PER 2428 2437	suo padre
+T34	PER 2590 2622	Quesnel , fratello di sua moglie
+T35	PER 2612 2622	sua moglie
+T36	LOC 2640 2670	una piccola terra di Guascogna
+T37	GPE 2661 2670	Guascogna
+T38	PER 2960 2980	il vecchio contadino
+T39	LOC 3095 3106	verdi prati
+T40	LOC 3200 3208	i boschi
+T41	LOC 3401 3406	monti
+T42	LOC 3409 3416	i fiumi
+T43	LOC 3440 3466	le pianure vaste e immense
+T44	PER 3507 3520	Sant ' Aubert
+T45	LOC 3656 3661	mondo
+T46	FAC 3747 3758	Il castello
+T47	PER 3808 3821	un forestiero
+T48	FAC 3956 3987	l ' abitazione d ' una famiglia
+T49	PER 3975 3987	una famiglia
+T50	PER 3990 4003	Sant ' Aubert
+T51	FAC 4055 4063	edificio
+T52	FAC 4163 4183	la nuova costruzione
+T53	FAC 4237 4272	una dimora più comoda che ricercata
+T54	PER 4317 4338	signora Sant ' Aubert
+T55	FAC 4505 4518	La biblioteca
+T56	FAC 4553 4561	castello
+T57	FAC 4618 4637	Questo appartamento
+T58	LOC 4653 4665	un boschetto
+T59	LOC 4687 4701	un dolce clivo
+T60	LOC 4717 4722	fiume
+T61	GPE 4853 4867	il ricco paese
+T62	LOC 4890 4899	occidente
+T63	LOC 4929 4963	gli orribili precipizi dei Pirenei
+T64	FAC 4978 4988	biblioteca
+T65	FAC 4995 5006	un terrazzo
+T66	PER 5095 5108	Sant ' Aubert
+T67	LOC 5114 5128	i monti vicini
+T68	PER 5159 5170	naturalisti
+T69	PER 5269 5279	sua moglie
+T70	PER 5299 5305	figlia
+T71	FAC 5432 5451	capanne dei pastori
+T72	PER 5444 5451	pastori
+T73	LOC 5754 5758	rupi
+T74	LOC 5980 5988	montagne
+T75	LOC 6093 6112	una sorgente vicina
+T76	LOC 6235 6239	rupi
+T77	FAC 6257 6265	terrazzo
+T78	LOC 6276 6303	le pianure della Linguadoca
+T79	GPE 6293 6303	Linguadoca
+T80	PER 6328 6334	Emilia
+T81	PER 6667 6675	genitori
+T82	FAC 6738 6751	questa stanza
+T83	FAC 6782 6790	giardino
+T84	FAC 6806 6813	la casa
+T85	LOC 6818 6875	viali di mandorli di fichi , di acacie e di mirti fioriti
+T86	LOC 6948 6955	Garonna
+T87	PER 6958 6969	I contadini
+T88	LOC 7053 7069	sponde del fiume
+T89	PER 7202 7212	villanelle
+T90	FAC 7290 7298	castello
+T91	LOC 7357 7365	montagne
+T92	FAC 7390 7403	una gran sala
+T93	FAC 7406 7424	due comodi salotti
+T94	FAC 7488 7503	camere da letto
+T95	FAC 7511 7526	una sola stanza
+T96	FAC 7540 7555	un largo verone
+T97	PER 7650 7663	Sant ' Aubert
+T98	FAC 7668 7696	il teatro della sua infanzia
+T99	FAC 7783 7794	il castello
+T100	PER 7836 7849	Sant ' Aubert
+T101	FAC 8034 8050	un alto terrazzo
+T102	LOC 8068 8073	fiume
+T103	LOC 8317 8322	fiume
+T104	PER 8366 8377	la consorte
+T105	PER 8381 8392	i figliuoli
+T106	PER 8648 8654	moglie
+T107	PER 8672 8686	i figliuoletti
+T108	LOC 8928 8933	mondo
+T109	PER 9633 9646	Sant ' Aubert
+T110	PER 10039 10049	due maschi
+T111	PER 10177 10185	la sposa
+T112	PER 10364 10374	Una figlia
+T113	PER 10964 10971	persone
+T114	PER 10998 11011	Sant ' Aubert
+T115	PER 11822 11828	Emilia
+T116	PER 11831 11860	Questa interessante fanciulla
+T117	PER 11877 11882	madre
+T118	PER 12203 12216	Sant ' Aubert
+T119	PER 12616 12629	Sant ' Aubert
+T120	LOC 12958 12963	mondo
+T121	LOC 13100 13108	campagna
+T122	GPE 13119 13124	città
+T123	LOC 13130 13138	campagna
+T124	GPE 13277 13282	città

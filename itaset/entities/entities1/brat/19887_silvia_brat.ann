@@ -1,0 +1,122 @@
+T0	GPE 4 17	La cittaduzza
+T1	FAC 89 122	sue strade grigie e ben allineate
+T2	PER 136 148	un viandante
+T3	FAC 151 175	i balconi delle sue case
+T4	FAC 167 175	sue case
+T5	PER 617 636	i buoni provinciali
+T6	PER 842 848	Silvia
+T7	FAC 884 895	suo balcone
+T8	PER 1235 1241	Silvia
+T9	FAC 1261 1267	strada
+T10	FAC 1686 1693	balcone
+T11	PER 1804 1811	bambina
+T12	PER 1814 1825	adolescente
+T13	PER 1828 1838	giovinetta
+T14	PER 2016 2023	Piccina
+T15	PER 2078 2083	nonni
+T16	PER 2152 2155	zii
+T17	PER 2219 2235	un padre egoista
+T18	FAC 2261 2268	La casa
+T19	PER 2454 2469	primo Napoleone
+T20	PER 2543 2558	altri fanciulli
+T21	PER 2612 2620	qualcuno
+T22	PER 2643 2648	madre
+T23	PER 2673 2683	La bambina
+T24	FAC 2693 2699	scuola
+T25	PER 2703 2724	due zitellone barbute
+T26	FAC 2838 2842	casa
+T27	PER 2894 2914	una serva brontolona
+T28	PER 2976 2993	le stesse persone
+T29	PER 3053 3059	Silvia
+T30	FAC 3435 3444	la scuola
+T31	FAC 3486 3490	casa
+T32	PER 3493 3499	Silvia
+T33	FAC 3590 3598	terrazzo
+T34	FAC 3602 3609	granaio
+T35	FAC 3616 3623	granaio
+T36	FAC 3627 3633	cucina
+T37	FAC 3642 3648	cucina
+T38	FAC 3655 3670	camere da letto
+T39	PER 4443 4449	Silvia
+T40	PER 5051 5059	le serve
+T41	FAC 5148 5158	gli armadi
+T42	PER 5481 5487	poveri
+T43	PER 5677 5683	coloni
+T44	PER 5697 5731	quelli che non si erano presentati
+T45	PER 5827 5832	padre
+T46	PER 6123 6129	Silvia
+T47	PER 6149 6164	parenti lontani
+T48	PER 6304 6328	una sarta della capitale
+T49	GPE 6320 6328	capitale
+T50	FAC 6468 6475	armadio
+T51	PER 6516 6522	Silvia
+T52	FAC 6575 6581	chiesa
+T53	PER 6590 6602	poche devote
+T54	FAC 6749 6753	casa
+T55	PER 6955 6964	una donna
+T56	PER 7088 7107	sua vecchia matrina
+T57	PER 7264 7288	le fanciulle provinciali
+T58	PER 7474 7477	zii
+T59	PER 7576 7579	zio
+T60	PER 7607 7613	Silvia
+T61	PER 7698 7708	una cugina
+T62	PER 7721 7727	Silvia
+T63	PER 7807 7815	Il padre
+T64	PER 7856 7868	la figliuola
+T65	PER 7996 8008	l ' ammalato
+T66	PER 8228 8234	Silvia
+T67	PER 8293 8299	Silvia
+T68	PER 8438 8444	Silvia
+T69	GPE 8508 8513	paese
+T70	FAC 8681 8691	camera sua
+T71	FAC 8834 8862	quella stanza oscura e calda
+T72	FAC 8998 9009	suo balcone
+T73	PER 9180 9186	medico
+T74	PER 9209 9219	confessore
+T75	PER 9358 9366	qualcuno
+T76	FAC 9950 9956	strade
+T77	FAC 9987 9991	case
+T78	PER 10024 10030	Silvia
+T79	VEH 10211 10219	un treno
+T80	GPE 10236 10240	Roma
+T81	FAC 10308 10316	stazione
+T82	LOC 10368 10376	campagna
+T83	FAC 10424 10432	stazione
+T84	VEH 10595 10603	il treno
+T85	VEH 10699 10707	macchina
+T86	PER 10727 10746	qualche passeggiero
+T87	VEH 10840 10848	il treno
+T88	VEH 10991 10999	il treno
+T89	VEH 11205 11212	i treni
+T90	PER 11273 11292	qualche viaggiatore
+T91	PER 11309 11315	Silvia
+T92	PER 11450 11464	i suoi parenti
+T93	PER 11467 11475	il padre
+T94	PER 11478 11488	la matrina
+T95	PER 11510 11516	Silvia
+T96	PER 11778 11790	alcun marito
+T97	PER 11817 11829	una famiglia
+T98	PER 11979 11988	fanciulla
+T99	PER 12049 12070	gli amici di famiglia
+T100	PER 12077 12083	notaio
+T101	PER 12090 12115	cancelliere del tribunale
+T102	PER 12122 12129	parroco
+T103	PER 12179 12188	i parenti
+T104	PER 12210 12229	qualche pinzocchera
+T105	PER 12299 12331	un galantuomo sui quarantacinque
+T106	PER 12334 12355	giudice del tribunale
+T107	PER 12447 12483	una fanciulla saggia e senza pretese
+T108	FAC 12520 12537	casa della moglie
+T109	PER 12531 12537	moglie
+T110	PER 12547 12555	il padre
+T111	PER 12601 12612	altre donne
+T112	FAC 12688 12698	Due stanze
+T113	PER 12724 12729	sposi
+T114	FAC 12732 12744	una da letto
+T115	FAC 12748 12761	una da studio
+T116	FAC 12771 12780	il salone
+T117	FAC 12783 12802	la stanza da pranzo
+T118	PER 12817 12823	Silvia
+T119	PER 12880 12885	padre
+T120	PER 12907 12917	il giudice
+T121	PER 13043 13052	fanciulla

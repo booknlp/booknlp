@@ -1,0 +1,202 @@
+T0	FAC 56 77	questo scompartimento
+T1	VEH 98 106	il treno
+T2	PER 150 158	Loredana
+T3	GPE 252 259	Venezia
+T4	PER 288 299	il facchino
+T5	PER 329 336	Filippo
+T6	PER 354 362	Loredana
+T7	PER 399 407	facchino
+T8	PER 477 484	giovane
+T9	VEH 554 562	il treno
+T10	PER 586 593	Filippo
+T11	PER 649 654	amica
+T12	FAC 893 912	stazione di Venezia
+T13	GPE 905 912	Venezia
+T14	PER 940 963	un signore alto e calvo
+T15	PER 971 985	conte Lombardi
+T16	LOC 1237 1255	La campagna triste
+T17	GPE 1260 1266	Verona
+T18	GPE 1269 1278	Peschiera
+T19	PER 1383 1391	Loredana
+T20	PER 1443 1450	Filippo
+T21	LOC 1525 1530	mondo
+T22	PER 1553 1558	tutti
+T23	PER 1588 1603	una delinquente
+T24	PER 1639 1646	Filippo
+T25	PER 1669 1674	mamma
+T26	PER 1717 1729	La fanciulla
+T27	FAC 1809 1851	sua casetta bianca nel campiello solitario
+T28	FAC 1832 1851	campiello solitario
+T29	PER 1856 1864	la mamma
+T30	PER 1943 1951	la mamma
+T31	PER 2024 2036	la figliuola
+T32	PER 2323 2331	Loredana
+T33	PER 2469 2476	Filippo
+T34	PER 2567 2579	un mio amico
+T35	GPE 2582 2586	Roma
+T36	PER 2630 2638	la mamma
+T37	PER 2670 2678	Loredana
+T38	PER 2776 2788	La fanciulla
+T39	PER 2848 2856	la mamma
+T40	PER 2859 2868	la figlia
+T41	FAC 2934 2946	il campiello
+T42	PER 2954 2976	i bambini del vicinato
+T43	PER 3024 3032	la mamma
+T44	PER 3121 3129	Loredana
+T45	PER 3148 3155	Filippo
+T46	GPE 3629 3638	Peschiera
+T47	FAC 3647 3661	scompartimento
+T48	PER 3667 3674	un uomo
+T49	GPE 3686 3693	Brescia
+T50	PER 3748 3755	Filippo
+T51	PER 3758 3777	la signora col velo
+T52	LOC 4081 4094	lago di Garda
+T53	GPE 4089 4094	Garda
+T54	PER 4107 4115	Loredana
+T55	PER 4152 4172	il nuovo viaggiatore
+T56	PER 4258 4265	nessuno
+T57	PER 4330 4342	la fanciulla
+T58	PER 4418 4425	Filippo
+T59	PER 4495 4502	ragazza
+T60	FAC 4640 4644	casa
+T61	PER 4670 4680	un ' amica
+T62	PER 4804 4811	Filippo
+T63	PER 4843 4855	La fanciulla
+T64	FAC 4899 4906	negozii
+T65	GPE 4909 4918	Desenzano
+T66	PER 4921 4928	Filippo
+T67	PER 4986 4994	Loredana
+T68	PER 5153 5161	la mamma
+T69	VEH 5491 5499	Il treno
+T70	GPE 5534 5545	San Martino
+T71	GPE 5575 5602	San Martino della Battaglia
+T72	PER 5609 5616	Filippo
+T73	PER 5641 5650	sua amica
+T74	FAC 5651 5667	la torre storica
+T75	PER 5704 5724	un signore attempato
+T76	FAC 5736 5750	scompartimento
+T77	PER 5757 5811	un uomo sui sessant ' anni , robusto , acceso in volto
+T78	PER 5906 5913	Filippo
+T79	PER 5935 5950	la sua compagna
+T80	PER 6028 6035	Filippo
+T81	GPE 6058 6064	Fasano
+T82	PER 6090 6100	il signore
+T83	PER 6129 6136	Filippo
+T84	FAC 6187 6192	villa
+T85	PER 6235 6243	Loredana
+T86	PER 6402 6409	Filippo
+T87	GPE 6448 6452	Riva
+T88	PER 6497 6507	il signore
+T89	VEH 6566 6574	il treno
+T90	PER 6680 6684	uomo
+T91	FAC 6715 6729	scompartimento
+T92	PER 6768 6775	Filippo
+T93	PER 6783 6791	Loredana
+T94	PER 6867 6879	La fanciulla
+T95	PER 6899 6909	il signore
+T96	GPE 6943 6950	Venezia
+T97	PER 6953 6992	Zio di Filippo , il conte Roberto Vagli
+T98	PER 6960 6967	Filippo
+T99	PER 7093 7102	il nipote
+T100	PER 7301 7308	Filippo
+T101	FAC 7329 7342	Albergo Reale
+T102	VEH 7420 7428	battello
+T103	PER 7509 7518	la coppia
+T104	FAC 7589 7605	un altro albergo
+T105	PER 7636 7649	conte Roberto
+T106	PER 7699 7707	Loredana
+T107	PER 7800 7807	Filippo
+T108	PER 7827 7835	l ' uomo
+T109	PER 7840 7847	Filippo
+T110	PER 7916 7923	signore
+T111	LOC 8032 8037	mondo
+T112	PER 8042 8055	una fanciulla
+T113	GPE 8185 8204	molti paesi lontani
+T114	PER 8224 8235	molta gente
+T115	GPE 8280 8289	Desenzano
+T116	FAC 8327 8335	stazione
+T117	PER 8376 8383	Filippo
+T118	PER 8406 8419	conte Roberto
+T119	VEH 8442 8464	omnibus dell ' albergo
+T120	FAC 8457 8464	albergo
+T121	PER 8467 8475	Loredana
+T122	PER 8536 8543	Filippo
+T123	PER 8580 8592	la fanciulla
+T124	PER 8619 8632	conte Roberto
+T125	PER 8715 8724	Santo Dio
+T126	VEH 8759 8771	una carrozza
+T127	VEH 8794 8815	questo sporco omnibus
+T128	PER 8837 8844	Filippo
+T129	PER 8881 8884	zio
+T130	PER 8932 8938	lo zio
+T131	FAC 8974 8980	cucina
+T132	PER 9007 9016	il nipote
+T133	VEH 9211 9220	imperiale
+T134	VEH 9350 9361	l ' omnibus
+T135	PER 9402 9410	Loredana
+T136	GPE 9481 9489	la città
+T137	VEH 9568 9575	veicolo
+T138	PER 9684 9692	la mamma
+T139	PER 9747 9759	la fanciulla
+T140	PER 9785 9792	Filippo
+T141	LOC 9839 9844	mondo
+T142	PER 9849 9856	Filippo
+T143	VEH 9893 9904	l ' omnibus
+T144	FAC 9921 9945	l ' atrio dell ' albergo
+T145	FAC 9938 9945	albergo
+T146	PER 9962 9972	gli amanti
+T147	PER 9982 9995	conte Roberto
+T148	PER 10015 10020	Flopi
+T149	PER 10032 10042	il vecchio
+T150	PER 10046 10052	nipote
+T151	PER 10071 10095	direttore dell ' albergo
+T152	FAC 10088 10095	albergo
+T153	VEH 10140 10161	Questo vostro omnibus
+T154	PER 10210 10222	signor conte
+T155	PER 10236 10248	il direttore
+T156	VEH 10265 10276	L ' omnibus
+T157	PER 10305 10308	zio
+T158	PER 10320 10327	Filippo
+T159	PER 10350 10357	vecchio
+T160	PER 10360 10368	Il conte
+T161	PER 10393 10407	la sconosciuta
+T162	PER 10438 10445	Filippo
+T163	FAC 10452 10474	due camere comunicanti
+T164	FAC 10507 10527	quella della signora
+T165	PER 10520 10527	signora
+T166	FAC 10542 10545	sua
+T167	PER 10563 10571	facchino
+T168	FAC 10574 10595	La camera di Loredana
+T169	PER 10587 10595	Loredana
+T170	FAC 10745 10765	La camera di Filippo
+T171	PER 10758 10765	Filippo
+T172	PER 10835 10843	Loredana
+T173	FAC 10853 10860	balcone
+T174	LOC 10872 10879	il lago
+T175	FAC 10976 10980	faro
+T176	FAC 10987 10991	diga
+T177	GPE 11053 11073	il paese sconosciuto
+T178	PER 11127 11134	Filippo
+T179	FAC 11206 11213	negozii
+T180	GPE 11216 11225	Desenzano
+T181	PER 11246 11255	l ' amica
+T182	PER 11386 11398	La fanciulla
+T183	PER 11426 11433	Filippo
+T184	PER 11604 11612	Loredana
+T185	PER 11795 11800	tutti
+T186	PER 11886 11896	la giovane
+T187	PER 12047 12054	Filippo
+T188	PER 12074 12104	la persona snella e pieghevole
+T189	PER 12264 12272	Loredana
+T190	PER 12304 12313	l ' amico
+T191	PER 12451 12458	Filippo
+T192	PER 12461 12469	Loredana
+T193	PER 12915 12922	Filippo
+T194	PER 13022 13031	l ' amica
+T195	PER 13059 13068	fanciulla
+T196	PER 13178 13187	Una mamma
+T197	PER 13488 13495	Nessuno
+T198	PER 13515 13522	Filippo
+T199	PER 13556 13563	nessuno
+T200	PER 13583 13591	Loredana
+T201	PER 13594 13601	Filippo

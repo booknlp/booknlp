@@ -1,0 +1,125 @@
+T0	PER 10 18	Contessa
+T1	PER 140 152	Schopenhauer
+T2	PER 186 214	il celebre filosofo misogino
+T3	ORG 321 334	la cavalleria
+T4	PER 365 373	le donne
+T5	PER 426 436	gli uomini
+T6	PER 537 552	uomini da amare
+T7	PER 734 771	quelle che si fanno pagare per vivere
+T8	PER 774 831	le altre che esigono il prezzo come segno del loro valore
+T9	PER 1108 1122	uomini e donne
+T10	PER 1323 1329	uomini
+T11	PER 1421 1429	contessa
+T12	PER 1551 1563	i confessori
+T13	PER 1566 1579	i cantastorie
+T14	PER 1746 1756	confessori
+T15	PER 1809 1821	i novellieri
+T16	PER 1927 1943	Padri spirituali
+T17	PER 2010 2022	il narratore
+T18	PER 2096 2106	spettatore
+T19	PER 2121 2128	dolenti
+T20	PER 2179 2185	simili
+T21	PER 2342 2348	uomini
+T22	PER 2353 2361	le donne
+T23	GPE 2491 2497	Napoli
+T24	GPE 2549 2574	quel caratteristico paese
+T25	PER 2676 2685	jettatori
+T26	PER 2779 2796	quegli sciagurati
+T27	PER 2894 2902	un amico
+T28	PER 3141 3151	Spettatore
+T29	PER 3260 3266	uomini
+T30	PER 3379 3385	quelli
+T31	PER 3417 3420	uno
+T32	PER 3670 3675	tutti
+T33	PER 3700 3710	le persone
+T34	PER 3771 3776	tutti
+T35	LOC 4083 4102	mondo della materia
+T36	PER 4356 4367	i jettatori
+T37	GPE 4505 4511	Napoli
+T38	PER 4530 4541	molti amici
+T39	PER 4547 4562	Vittorio Alfeni
+T40	PER 4569 4574	tanti
+T41	PER 4625 4666	Alfeni , uomo per ogni rispetto superiore
+T42	FAC 4754 4763	le strade
+T43	FAC 4769 4777	un caffè
+T44	FAC 4783 4789	teatro
+T45	FAC 4957 4966	Sannazaro
+T46	FAC 5004 5011	la sala
+T47	PER 5014 5022	una dama
+T48	FAC 5032 5060	un palchetto di seconda fila
+T49	PER 5071 5077	Alfeni
+T50	PER 5153 5173	Monsignor della Casa
+T51	FAC 5169 5173	Casa
+T52	PER 5283 5304	qualche altra persona
+T53	PER 5315 5331	donne jettatrici
+T54	PER 5375 5381	uomini
+T55	PER 5389 5418	uomini più brutti e sgraziati
+T56	PER 5543 5571	I più spaventevoli jettatori
+T57	PER 5581 5586	preti
+T58	PER 5589 5618	gente tetra , vestita di nero
+T59	PER 5693 5702	una donna
+T60	PER 5709 5747	una dama giovine , piacente , elegante
+T61	PER 5803 5814	quella dama
+T62	PER 5852 5857	tutti
+T63	PER 5899 5914	i superstiziosi
+T64	PER 6175 6189	quella signora
+T65	PER 6238 6244	Alfeni
+T66	PER 6247 6260	l ' amico mio
+T67	FAC 6493 6515	terrazza del Gambrinus
+T68	FAC 6506 6515	Gambrinus
+T69	VEH 6534 6556	la carrozza della dama
+T70	PER 6552 6556	dama
+T71	PER 6559 6565	Alfeni
+T72	PER 6713 6722	amico mio
+T73	PER 7040 7054	quella signora
+T74	PER 7065 7071	Alfeni
+T75	GPE 7107 7113	Toledo
+T76	FAC 7145 7155	un negozio
+T77	PER 7225 7231	Alfeni
+T78	PER 7298 7305	diavolo
+T79	PER 7362 7369	la dama
+T80	PER 7482 7492	jettatrice
+T81	PER 8055 8061	Alfeni
+T82	LOC 8185 8190	mondo
+T83	FAC 8401 8410	la strada
+T84	PER 8758 8768	jettatrice
+T85	LOC 8972 8977	mondo
+T86	PER 8978 8987	sua madre
+T87	PER 9076 9083	sua zia
+T88	PER 9093 9101	il padre
+T89	PER 9208 9218	un giovane
+T90	PER 9538 9544	Alfeni
+T91	PER 9674 9689	quella creatura
+T92	PER 9698 9711	povera orfana
+T93	PER 9729 9734	madre
+T94	PER 9753 9758	padre
+T95	PER 9881 9888	giovane
+T96	PER 10067 10076	un marito
+T97	PER 10127 10134	un uomo
+T98	PER 10241 10247	Alfeni
+T99	PER 10332 10355	un uomo , un galantuomo
+T100	PER 10475 10487	Quest ' uomo
+T101	FAC 10622 10633	la sua casa
+T102	PER 10738 10760	L ' altro , l ' amante
+T103	PER 10815 10830	una bella donna
+T104	PER 10835 10857	l ' eroe d ' un dramma
+T105	GPE 11098 11110	il suo paese
+T106	PER 11121 11131	una figlia
+T107	PER 11134 11143	il marito
+T108	PER 11182 11190	la madre
+T109	PER 11263 11273	la bambina
+T110	PER 11311 11321	sua figlia
+T111	PER 11332 11342	la bambina
+T112	PER 11459 11465	Alfeni
+T113	PER 11691 11704	quest ' altro
+T114	GPE 12085 12091	Napoli
+T115	GPE 12104 12110	Torino
+T116	VEH 12143 12155	il convoglio
+T117	FAC 12178 12184	rotaie
+T118	PER 12199 12215	più begli uomini
+T119	PER 12471 12477	Carmen
+T120	PER 12769 12778	gli altri
+T121	PER 12791 12801	jettatrice
+T122	PER 12887 12894	vecchio
+T123	PER 12913 12925	Questa donna
+T124	PER 13047 13055	ciascuno

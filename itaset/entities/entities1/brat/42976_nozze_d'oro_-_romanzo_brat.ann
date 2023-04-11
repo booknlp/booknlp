@@ -1,0 +1,190 @@
+T0	PER 64 79	Angela Torralba
+T1	PER 83 97	dottor Vignoni
+T2	FAC 117 125	cancello
+T3	VEH 144 161	la sua bicicletta
+T4	PER 179 189	il dottore
+T5	PER 261 270	suo babbo
+T6	PER 278 287	sua mamma
+T7	PER 401 407	Angela
+T8	PER 577 587	Il dottore
+T9	PER 600 615	Angela Torralba
+T10	PER 683 693	Noi medici
+T11	PER 704 718	gran minchioni
+T12	PER 986 992	Angela
+T13	GPE 1024 1035	San Martino
+T14	PER 1056 1063	Vignoni
+T15	PER 1325 1335	il dottore
+T16	PER 1439 1445	Angela
+T17	PER 1450 1469	Mia sorella Letizia
+T18	PER 1474 1487	due figliuoli
+T19	PER 1493 1500	Marialì
+T20	PER 1505 1511	marito
+T21	PER 1518 1528	la ragazza
+T22	PER 1531 1538	Luciano
+T23	PER 1543 1549	Tullio
+T24	PER 1552 1560	Girolamo
+T25	PER 1575 1584	la moglie
+T26	PER 1589 1595	Cesare
+T27	PER 1609 1615	Cesare
+T28	GPE 1643 1653	Nuova York
+T29	GPE 1724 1730	Genova
+T30	PER 1738 1756	comandante Alvarez
+T31	PER 1794 1805	la Francese
+T32	PER 1810 1830	La moglie di Luciano
+T33	PER 1823 1830	Luciano
+T34	PER 1884 1891	i bimbi
+T35	PER 1940 1947	Vignoni
+T36	PER 1960 1980	Questa nuova cognata
+T37	PER 2022 2028	Angela
+T38	PER 2086 2117	la prima moglie di mio fratello
+T39	PER 2105 2117	mio fratello
+T40	PER 2154 2172	la madre di Tullio
+T41	PER 2166 2172	Tullio
+T42	PER 2246 2256	il dottore
+T43	VEH 2290 2300	bicicletta
+T44	PER 2354 2362	Torralba
+T45	PER 2561 2572	miei vecchi
+T46	PER 2575 2582	Vignoni
+T47	PER 2698 2705	giovani
+T48	PER 2738 2753	Il commendatore
+T49	PER 2846 2852	Angela
+T50	PER 2945 2958	signora Laura
+T51	PER 3226 3235	signorina
+T52	PER 3293 3300	Vignoni
+T53	PER 3473 3479	Angela
+T54	PER 3589 3596	dottore
+T55	PER 3608 3618	sua moglie
+T56	PER 3644 3651	i bimbi
+T57	PER 3758 3764	Angela
+T58	FAC 3876 3887	la fattoria
+T59	PER 3937 3947	il padrone
+T60	FAC 3967 3975	giardino
+T61	FAC 4086 4105	vecchia casa grigia
+T62	PER 4189 4197	La mamma
+T63	PER 4229 4244	Angela Torralba
+T64	PER 4374 4430	Battista , il procaccia telegrafico di San Vito al piano
+T65	GPE 4413 4430	San Vito al piano
+T66	PER 4455 4463	Battista
+T67	PER 4505 4511	Angela
+T68	PER 4566 4578	pover ' uomo
+T69	PER 4755 4783	commendatore Ercole Torralba
+T70	PER 4795 4801	Angela
+T71	GPE 4885 4891	Genova
+T72	GPE 4903 4911	San Vito
+T73	PER 4941 4946	tutti
+T74	PER 4949 4955	CESARE
+T75	PER 4962 4977	Angela Torralba
+T76	PER 5034 5040	Cesare
+T77	PER 5168 5183	Angela Torralba
+T78	PER 5288 5307	l ' intera famiglia
+T79	PER 5496 5504	fratelli
+T80	PER 5512 5519	sorelle
+T81	PER 5527 5534	cognate
+T82	PER 5540 5546	nipoti
+T83	GPE 5560 5566	Napoli
+T84	GPE 5571 5575	Roma
+T85	GPE 5580 5587	Firenze
+T86	GPE 5592 5598	Parigi
+T87	GPE 5603 5613	Nuova York
+T88	PER 5675 5688	nostri vecchi
+T89	PER 5820 5825	tutti
+T90	PER 5864 5871	gli uni
+T91	PER 5880 5889	gli altri
+T92	PER 6076 6089	tutti insieme
+T93	GPE 6092 6101	Villarosa
+T94	PER 6104 6121	tutti i figliuoli
+T95	PER 6138 6152	tutti i nipoti
+T96	GPE 6157 6166	Villarosa
+T97	PER 6259 6275	povero zio Luigi
+T98	FAC 6283 6293	due stanze
+T99	PER 6316 6338	nostro fratello Manlio
+T100	PER 6351 6369	Mademoiselle Lucie
+T101	PER 6403 6413	gli ospiti
+T102	PER 6549 6557	famiglia
+T103	PER 6646 6651	babbo
+T104	PER 6659 6664	mamma
+T105	PER 6675 6681	Angela
+T106	PER 6738 6746	Il babbo
+T107	FAC 6822 6830	giardino
+T108	PER 6833 6841	la mamma
+T109	PER 6984 6991	Vignoni
+T110	PER 7190 7196	Angela
+T111	PER 7288 7298	le persone
+T112	PER 7343 7410	fratello Luciano , ammogliato in seconde nozze e stabilito a Parigi
+T113	GPE 7404 7410	Parigi
+T114	ORG 7505 7525	la Banca del suocero
+T115	PER 7518 7525	suocero
+T116	PER 7542 7549	gerente
+T117	PER 7739 7751	tuoi parenti
+T118	GPE 7803 7809	Londra
+T119	GPE 7818 7824	Vienna
+T120	GPE 7833 7840	Berlino
+T121	GPE 7860 7866	Italia
+T122	GPE 7901 7910	Villarosa
+T123	GPE 8078 8084	Italia
+T124	PER 8088 8097	tua Julie
+T125	PER 8144 8156	le due bimbe
+T126	PER 8188 8194	Tullio
+T127	PER 8300 8307	i nonni
+T128	PER 8310 8316	la zia
+T129	PER 8321 8366	Girolamo , l ' uomo politico residente a Roma
+T130	GPE 8362 8366	Roma
+T131	PER 8463 8476	suoi elettori
+T132	PER 8548 8554	Angela
+T133	PER 8594 8606	gli elettori
+T134	PER 8705 8711	Cesare
+T135	PER 8790 8806	sorella maggiore
+T136	PER 8830 8835	altri
+T137	PER 8895 8900	babbo
+T138	PER 8908 8913	mamma
+T139	GPE 8931 8937	Italia
+T140	GPE 8944 8950	Europa
+T141	FAC 8977 8990	la tua dimora
+T142	GPE 8994 9001	America
+T143	LOC 9112 9118	Oceano
+T144	LOC 9267 9271	mari
+T145	PER 9475 9504	I nostri genitori , poveretti
+T146	PER 9606 9613	nessuno
+T147	PER 9772 9781	gli altri
+T148	LOC 9897 9903	Oceano
+T149	PER 9985 9991	Angela
+T150	PER 9997 10004	sorelle
+T151	PER 10288 10296	fratelli
+T152	PER 10328 10336	famiglia
+T153	FAC 10344 10348	casa
+T154	PER 10362 10372	tuo marito
+T155	PER 10413 10431	tuoi due figliuoli
+T156	PER 10491 10506	Letizia Alvarez
+T157	FAC 10517 10531	il quartierino
+T158	PER 10555 10564	zio Luigi
+T159	PER 10669 10679	tuo marito
+T160	FAC 10687 10696	la camera
+T161	PER 10715 10718	Max
+T162	PER 10721 10726	Fritz
+T163	FAC 10750 10760	biblioteca
+T164	PER 10794 10805	due ragazzi
+T165	FAC 10833 10859	cabine dei loro bastimenti
+T166	FAC 10844 10859	loro bastimenti
+T167	PER 10919 10935	la tua cameriera
+T168	FAC 11042 11066	vostra villa di Posilipo
+T169	GPE 11058 11066	Posilipo
+T170	GPE 11069 11078	Villarosa
+T171	PER 11299 11315	povero zio Luigi
+T172	PER 11523 11538	famiglie ricche
+T173	PER 11607 11613	Angela
+T174	PER 11628 11635	Marialì
+T175	PER 11765 11772	Marialì
+T176	PER 11803 11809	Giulio
+T177	GPE 11996 12003	Cremona
+T178	GPE 12009 12015	Aquila
+T179	PER 12021 12029	il babbo
+T180	PER 12034 12042	Prefetto
+T181	GPE 12051 12060	Villarosa
+T182	PER 12167 12170	zio
+T183	PER 12243 12257	tuoi figliuoli
+T184	PER 12332 12349	ospite di Luciano
+T185	PER 12342 12349	Luciano
+T186	PER 12355 12369	tua Antonietta
+T187	PER 12414 12435	gli altri miei nipoti
+T188	GPE 12495 12502	Firenze
+T189	PER 12538 12553	Angela Torralba

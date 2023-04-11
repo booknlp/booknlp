@@ -1,0 +1,122 @@
+T0	PER 330 335	tutti
+T1	ORG 582 588	Chiesa
+T2	PER 631 645	i commercianti
+T3	PER 668 677	i privati
+T4	PER 777 791	gl ' impiegati
+T5	PER 794 845	chiunque ha l ' incarico d ' una gestione qualsiasi
+T6	ORG 870 880	I giornali
+T7	PER 893 906	collaboratori
+T8	PER 926 931	nuovi
+T9	PER 951 958	i nuovi
+T10	PER 964 968	genî
+T11	PER 971 985	quelli perduti
+T12	PER 1341 1349	ciascuno
+T13	LOC 1418 1426	il mondo
+T14	PER 1779 1786	piccina
+T15	PER 1921 1940	una serie di cugini
+T16	PER 1958 1971	tutti insieme
+T17	PER 2142 2155	zia Catterina
+T18	PER 2350 2355	tutti
+T19	PER 2619 2624	altri
+T20	PER 2836 2841	Mamma
+T21	PER 2844 2849	babbo
+T22	PER 2852 2875	nonni materni e paterni
+T23	PER 2878 2881	zii
+T24	PER 2884 2890	prozii
+T25	PER 2918 2950	tutti i parenti , noti ed ignoti
+T26	PER 3039 3044	tutti
+T27	PER 3155 3216	gran dama che arriva tra le nevi di gennaio in abito scollato
+T28	PER 3288 3375	contadinetta di legno col vestitino corto di tela color di rosa incollato sulla persona
+T29	GPE 3572 3588	tutte le nazioni
+T30	PER 3593 3598	tutti
+T31	PER 3811 3817	i Fabi
+T32	PER 3821 3831	i Maccabei
+T33	PER 4073 4092	noi altre fanciulle
+T34	PER 4135 4143	i maschi
+T35	PER 4608 4617	tutte noi
+T36	PER 4660 4668	un sarto
+T37	PER 4704 4716	ogni ragazza
+T38	PER 4825 4837	la signorina
+T39	FAC 5050 5054	casa
+T40	PER 5101 5114	prima persona
+T41	PER 5145 5153	un prete
+T42	PER 5188 5201	un giovinotto
+T43	PER 5214 5220	marito
+T44	PER 5230 5243	una fanciulla
+T45	PER 5260 5267	zitella
+T46	PER 5277 5287	un soldato
+T47	PER 5296 5304	famiglia
+T48	PER 5314 5325	una vecchia
+T49	PER 5499 5506	bambini
+T50	PER 5531 5543	Ogni parente
+T51	FAC 5599 5618	le nostre camerette
+T52	PER 5732 5737	tutti
+T53	PER 5748 5772	Angela Maria del Carcano
+T54	GPE 5765 5772	Carcano
+T55	PER 5782 5801	Corinne della Staël
+T56	FAC 5864 5893	Bibliothèque Rose della Ségur
+T57	PER 6011 6016	tutti
+T58	PER 6097 6114	figli di famiglia
+T59	PER 6145 6157	capi di casa
+T60	FAC 6153 6157	casa
+T61	PER 6163 6168	nonni
+T62	PER 6174 6182	bisnonni
+T63	PER 6188 6196	antenati
+T64	PER 6505 6521	un poeta moderno
+T65	FAC 6552 6563	suo salotto
+T66	PER 6650 6655	poeti
+T67	PER 6973 6996	miei nipoti e pronipoti
+T68	PER 7102 7109	bambini
+T69	PER 7148 7158	giovinette
+T70	PER 7319 7324	tutti
+T71	PER 7379 7387	famiglia
+T72	PER 7436 7458	Grandi e piccini tutti
+T73	PER 7554 7562	bisnonna
+T74	PER 7700 7710	un editore
+T75	PER 7718 7729	l ' editore
+T76	PER 7782 7787	tutti
+T77	PER 7802 7807	tutti
+T78	PER 7848 7856	famiglie
+T79	PER 7958 7987	ogni individuo della famiglia
+T80	PER 8139 8153	vecchi parenti
+T81	FAC 8379 8386	la casa
+T82	PER 8541 8556	signori lettori
+T83	PER 8606 8626	una vecchia bisnonna
+T84	PER 9056 9081	una bimba di quattro anni
+T85	VEH 9092 9125	Una carrozzella con un asino vivo
+T86	FAC 9144 9151	salotto
+T87	PER 9154 9170	La sua sorellina
+T88	PER 9280 9290	Un bambino
+T89	PER 9685 9700	il loro editore
+T90	PER 9983 9996	gli scrittori
+T91	PER 10159 10164	tutti
+T92	PER 10211 10218	editore
+T93	PER 10223 10234	gli editori
+T94	PER 10359 10370	l ' editore
+T95	PER 10426 10450	mie nipotine capricciose
+T96	PER 10484 10493	più buone
+T97	PER 10511 10518	bambini
+T98	FAC 10602 10609	balcone
+T99	FAC 10676 10690	la casa triste
+T100	PER 10947 10958	l ' editore
+T101	PER 10999 11010	l ' editore
+T102	PER 11113 11120	bambini
+T103	PER 11132 11156	signor Gargano di Cesena
+T104	GPE 11150 11156	Cesena
+T105	VEH 11360 11374	le carrozzelle
+T106	PER 11454 11466	i miei bimbi
+T107	FAC 11492 11501	le casine
+T108	FAC 11504 11516	le cucinette
+T109	PER 11556 11563	bambine
+T110	PER 11677 11690	le giovinette
+T111	PER 11706 11723	mio nuovo editore
+T112	PER 11765 11781	parenti ed amici
+T113	PER 11822 11849	giovani delle loro famiglie
+T114	PER 11938 11957	LA MARCHESA COLOMBI
+T115	PER 12039 12055	una giovinettina
+T116	PER 12096 12138	una famiglia numerosa e ristretta di mezzi
+T117	PER 12181 12193	telegrafista
+T118	PER 12222 12236	quella ragazza
+T119	PER 12373 12396	un ' artista drammatica
+T120	PER 12556 12568	telegrafista
+T121	FAC 12658 12667	il teatro

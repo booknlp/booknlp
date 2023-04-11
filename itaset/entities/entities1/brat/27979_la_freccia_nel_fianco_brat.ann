@@ -1,0 +1,205 @@
+T0	GPE 134 170	un piccolo paese sulle rive del lago
+T1	LOC 157 170	rive del lago
+T2	PER 208 216	Brunello
+T3	PER 246 278	conte Bruno Traldi di San Pietro
+T4	PER 375 382	Fabiano
+T5	PER 383 405	suo padre , giuocatore
+T6	PER 467 484	Nicoletta Dossena
+T7	PER 501 518	famiglia borghese
+T8	PER 636 649	piccolo Bruno
+T9	LOC 667 675	il mondo
+T10	PER 978 1002	La madre , Clara Dolores
+T11	PER 1016 1029	conte Fabiano
+T12	PER 1039 1048	il figlio
+T13	PER 1051 1059	il padre
+T14	PER 1077 1082	madre
+T15	PER 1085 1090	Bruno
+T16	PER 1105 1112	l ' una
+T17	PER 1123 1132	l ' altro
+T18	PER 1150 1155	padre
+T19	PER 1177 1185	la madre
+T20	PER 1217 1225	avvocati
+T21	PER 1327 1356	la famiglia del conte Fabiano
+T22	PER 1343 1356	conte Fabiano
+T23	PER 1359 1375	madre e fratelli
+T24	PER 1395 1416	due coniugi in guerra
+T25	FAC 1431 1439	collegio
+T26	PER 1458 1465	Fabiano
+T27	PER 1508 1516	la madre
+T28	PER 1588 1597	i parenti
+T29	PER 1638 1657	gli uomini di legge
+T30	PER 1714 1729	quella famiglia
+T31	PER 1825 1851	avvocati delle varie parti
+T32	PER 1893 1898	Bruno
+T33	LOC 1911 1919	il mondo
+T34	PER 1930 1938	la mamma
+T35	PER 1949 1953	papà
+T36	GPE 2007 2015	le città
+T37	LOC 2018 2029	le campagne
+T38	LOC 2032 2039	i monti
+T39	VEH 2045 2050	treno
+T40	VEH 2056 2064	carrozza
+T41	VEH 2093 2100	muletto
+T42	PER 2208 2221	piccoli amici
+T43	FAC 2259 2286	un albergo di prim ' ordine
+T44	FAC 2292 2317	una casupola di contadini
+T45	PER 2308 2317	contadini
+T46	PER 2320 2329	Suo padre
+T47	PER 2395 2404	sua madre
+T48	PER 2461 2484	qualche maestro privato
+T49	PER 2487 2518	una istitutrice giovane e bruna
+T50	PER 2536 2545	suo padre
+T51	PER 2584 2593	sua madre
+T52	PER 2726 2739	Clara Dolores
+T53	PER 2787 2794	Fabiano
+T54	PER 2857 2870	conte Fabiano
+T55	FAC 2918 2933	la sua scuderia
+T56	VEH 2964 2972	carrozza
+T57	PER 3038 3048	il bambino
+T58	FAC 3178 3202	albergo di prim ' ordine
+T59	FAC 3205 3251	qualche albergo pieno di poesia e d ' incomodi
+T60	GPE 3257 3278	un paesetto qualsiasi
+T61	VEH 3281 3292	la carrozza
+T62	PER 3325 3332	Fabiano
+T63	PER 3333 3368	certi uomini melliflui e diffidenti
+T64	PER 3406 3413	Fabiano
+T65	PER 3416 3424	Brunello
+T66	PER 3477 3485	la mamma
+T67	PER 3522 3529	Fabiano
+T68	PER 3547 3555	Brunello
+T69	PER 3568 3578	il bambino
+T70	PER 3587 3594	bambino
+T71	PER 3730 3741	i domestici
+T72	PER 3744 3755	i cocchieri
+T73	PER 3761 3782	altri piccoli ragazzi
+T74	GPE 3920 3929	Terranova
+T75	PER 3960 3979	il barbone del papà
+T76	PER 4048 4053	conte
+T77	PER 4176 4183	il papà
+T78	PER 4251 4261	il bambino
+T79	PER 4264 4272	la mamma
+T80	PER 4288 4296	avvocato
+T81	PER 4315 4325	il bambino
+T82	PER 4369 4374	padre
+T83	PER 4377 4385	Brunello
+T84	PER 4504 4511	persona
+T85	PER 4560 4568	la madre
+T86	PER 4571 4579	il padre
+T87	PER 4582 4591	i parenti
+T88	PER 4594 4606	i conoscenti
+T89	PER 4902 4926	inconsapevole spettatore
+T90	PER 5013 5025	i personaggi
+T91	PER 5106 5114	il padre
+T92	PER 5244 5251	Fabiano
+T93	PER 5336 5341	Bruno
+T94	PER 5391 5399	la mamma
+T95	PER 5413 5417	papà
+T96	PER 5429 5436	il papà
+T97	PER 5450 5458	la mamma
+T98	PER 5461 5469	Quei due
+T99	GPE 5571 5579	un paese
+T100	FAC 5602 5608	camera
+T101	PER 5643 5648	Bruno
+T102	GPE 5841 5853	alcune città
+T103	LOC 5930 5935	mondo
+T104	VEH 5969 5985	qualche carrozza
+T105	PER 6039 6044	Bruno
+T106	LOC 6142 6145	via
+T107	FAC 6332 6338	teatro
+T108	PER 6431 6439	il babbo
+T109	PER 6515 6520	Bruno
+T110	PER 6661 6668	Fabiano
+T111	PER 6715 6721	figlio
+T112	GPE 6726 6735	una città
+T113	LOC 6760 6767	pianure
+T114	LOC 6776 6784	montagne
+T115	LOC 6793 6811	i fiumi mormoranti
+T116	GPE 6849 6857	la città
+T117	PER 6860 6865	Bruno
+T118	VEH 6944 6952	carrozze
+T119	VEH 6958 6979	omnibus a tre cavalli
+T120	VEH 6985 6990	carri
+T121	VEH 6996 7004	carrette
+T122	PER 7009 7044	gente che galoppava tutto il giorno
+T123	LOC 7193 7201	un fiume
+T124	FAC 7218 7224	piazze
+T125	FAC 7242 7249	le case
+T126	FAC 7333 7351	La casa di Fabiano
+T127	PER 7344 7351	Fabiano
+T128	PER 7377 7433	ufficiali che vestivano chiassosamente coi calzoni rossi
+T129	PER 7509 7537	damine gentili molto odorose
+T130	PER 7540 7545	Tutti
+T131	FAC 7625 7635	il salotto
+T132	PER 7709 7714	babbo
+T133	PER 7768 7776	Brunello
+T134	PER 7797 7806	suo padre
+T135	PER 7813 7826	uno straniero
+T136	FAC 7840 7847	salotto
+T137	PER 7900 7912	un ufficiale
+T138	PER 7975 7986	una giovane
+T139	PER 7992 8006	tutte le donne
+T140	FAC 8024 8028	casa
+T141	PER 8085 8090	Bruno
+T142	FAC 8111 8118	salotto
+T143	PER 8138 8147	Le damine
+T144	PER 8368 8373	tutti
+T145	PER 8404 8414	il bambino
+T146	PER 8437 8444	Il papà
+T147	PER 8555 8568	gli ufficiali
+T148	PER 8683 8691	Le donne
+T149	PER 8737 8742	Bruno
+T150	PER 9279 9289	le giovani
+T151	PER 9310 9316	uomini
+T152	PER 9319 9333	ogni ufficiale
+T153	PER 9592 9606	quelle ragazze
+T154	PER 9689 9702	altri bambini
+T155	PER 9789 9798	un figlio
+T156	PER 9825 9832	Fabiano
+T157	PER 9913 9918	Bruno
+T158	PER 9919 9945	i maestri e le istitutrici
+T159	PER 10024 10031	Fabiano
+T160	PER 10050 10057	piccolo
+T161	PER 10168 10178	il bambino
+T162	LOC 10251 10256	mondo
+T163	PER 10265 10272	diavolo
+T164	PER 10325 10332	il papà
+T165	PER 10343 10348	Bruno
+T166	VEH 10353 10378	la carrozza a due cavalli
+T167	FAC 10382 10398	un immenso parco
+T168	LOC 10405 10414	le andàne
+T169	PER 10442 10456	amazzoni belle
+T170	PER 10492 10499	bambino
+T171	PER 10504 10513	cavalieri
+T172	PER 10549 10554	babbo
+T173	FAC 10560 10580	una grande trattoria
+T174	PER 10657 10664	Fabiano
+T175	PER 10667 10675	Brunello
+T176	FAC 10746 10755	il teatro
+T177	ORG 10772 10786	Circo equestre
+T178	PER 10832 10837	Bruno
+T179	PER 10863 10871	il babbo
+T180	LOC 10952 10957	mondo
+T181	PER 10979 10991	un fanciullo
+T182	PER 10994 11002	il babbo
+T183	FAC 11038 11042	casa
+T184	PER 11131 11136	Bruno
+T185	PER 11230 11235	Bruno
+T186	PER 11271 11281	l ' autore
+T187	FAC 11549 11555	camera
+T188	PER 11778 11783	Bruno
+T189	PER 11875 11883	il babbo
+T190	PER 11941 11946	Bruno
+T191	FAC 11964 11974	suo studio
+T192	FAC 11990 11997	salotto
+T193	PER 12018 12027	gli amici
+T194	PER 12123 12128	Bruno
+T195	PER 12151 12155	Papà
+T196	PER 12177 12181	Papà
+T197	PER 12301 12306	Bruno
+T198	PER 12347 12356	domestici
+T199	PER 12367 12377	un maestro
+T200	PER 12431 12451	le donnine del babbo
+T201	PER 12446 12451	babbo
+T202	PER 12557 12566	suo padre
+T203	PER 12583 12594	una ragazza
+T204	FAC 12717 12721	casa

@@ -1,0 +1,120 @@
+T0	VEH 83 90	tranvai
+T1	LOC 95 124	corso Vinzaglio , in via Roma
+T2	LOC 159 172	via Garibaldi
+T3	PER 211 218	signore
+T4	PER 224 231	signori
+T5	VEH 274 284	carrozzone
+T6	FAC 441 460	sala di ricevimento
+T7	LOC 473 486	via Garibaldi
+T8	PER 545 568	una contadina tarchiata
+T9	PER 657 679	una ragazza del popolo
+T10	PER 673 679	popolo
+T11	PER 787 848	signore e signorine elegantissime , indorate e impennacchiate
+T12	VEH 1094 1109	quei carrozzoni
+T13	ORG 1162 1168	classi
+T14	PER 1188 1211	gente del popolo infimo
+T15	PER 1254 1274	gente della signoria
+T16	PER 1422 1438	quella contadina
+T17	PER 1441 1455	quella ragazza
+T18	PER 1468 1482	le loro vicine
+T19	PER 1872 1906	creature piovute da un altro mondo
+T20	VEH 2209 2246	quella specie di carrozza democratica
+T21	ORG 2254 2269	tutte le classi
+T22	PER 2330 2359	una processione di personaggi
+T23	PER 2518 2570	una famiglia a parte di compagni abituali di viaggio
+T24	VEH 2692 2712	la carrozza di tutti
+T25	PER 2707 2712	tutti
+T26	PER 2806 2816	personaggi
+T27	PER 2935 2945	un giovine
+T28	PER 2948 2959	una ragazza
+T29	VEH 3028 3062	tranvai della linea del Martinetto
+T30	FAC 3129 3149	piazza dello Statuto
+T31	FAC 3166 3185	il centro di Torino
+T32	GPE 3179 3185	Torino
+T33	PER 3188 3198	Il giovane
+T34	VEH 3219 3229	carrozzone
+T35	LOC 3260 3272	via Siccardi
+T36	PER 3275 3285	La ragazza
+T37	PER 3347 3356	cocchiere
+T38	PER 3436 3455	tutti e due piccoli
+T39	PER 3541 3622	quei poveretti la cui gioventù non consiste in altro che nella data della nascita
+T40	PER 3731 3741	Il giovine
+T41	PER 3916 3923	ragazza
+T42	PER 3966 3983	orfana da bambina
+T43	PER 4027 4039	una matrigna
+T44	LOC 4309 4314	mondo
+T45	PER 4402 4453	uno scrivano , un piccolo impiegato senz ' avvenire
+T46	PER 4461 4468	maestra
+T47	FAC 4472 4480	un asilo
+T48	PER 4483 4505	governante o cucitrice
+T49	FAC 4509 4525	qualche istituto
+T50	PER 4630 4640	La ragazza
+T51	FAC 4660 4675	piazza Castello
+T52	PER 4678 4688	il giovine
+T53	LOC 4704 4713	via di Po
+T54	PER 5003 5010	nessuno
+T55	PER 5013 5032	ufficiali brillanti
+T56	PER 5035 5048	belle signore
+T57	PER 5051 5059	chiunque
+T58	VEH 5417 5424	tranvai
+T59	PER 5453 5521	quei due poveri esseri così maltrattati dalla natura e dalla fortuna
+T60	PER 5675 5689	povero giovane
+T61	PER 5694 5708	povera ragazza
+T62	LOC 5734 5739	mondo
+T63	PER 6207 6278	un amore di bambino , un fiore maraviglioso di bellezza e di robustezza
+T64	PER 6323 6375	altre creature somiglianti , una nidiata d ' angioli
+T65	PER 6441 6446	tutti
+T66	PER 6449 6487	una famiglia di grandi ingegni precoci
+T67	PER 6493 6500	artisti
+T68	PER 6691 6726	quei due poveri giovani sconosciuti
+T69	FAC 7251 7271	piazza dello Statuto
+T70	VEH 7295 7323	i carrozzoni delle tre linee
+T71	FAC 7409 7438	quelle piccole case ambulanti
+T72	FAC 7592 7640	un gruppo di baracche variopinte di saltimbanchi
+T73	PER 7628 7640	saltimbanchi
+T74	PER 7790 7802	un vagabondo
+T75	PER 7842 7855	I passeggieri
+T76	FAC 8009 8016	le case
+T77	PER 8019 8027	la gente
+T78	GPE 8108 8114	Torino
+T79	PER 8241 8250	cocchieri
+T80	FAC 8434 8454	vaste piazze candide
+T81	VEH 8491 8501	carrozzoni
+T82	VEH 8708 8730	le file dei carrozzoni
+T83	PER 8753 8773	passeggieri immobili
+T84	PER 8820 8829	cocchieri
+T85	PER 8836 8845	fattorini
+T86	LOC 9086 9106	vie vicine e lontane
+T87	PER 9235 9246	i romantici
+T88	VEH 9360 9380	la carrozza di tutti
+T89	PER 9375 9380	tutti
+T90	PER 9453 9495	Giors , un cocchiere della linea Vinzaglio
+T91	LOC 9480 9495	linea Vinzaglio
+T92	PER 9568 9573	tutti
+T93	PER 9641 9650	cocchieri
+T94	PER 10064 10087	i cocchieri dei tranvai
+T95	VEH 10080 10087	tranvai
+T96	PER 10156 10162	Carmen
+T97	PER 10208 10224	Invidiabile uomo
+T98	PER 10500 10510	i colleghi
+T99	PER 10556 10564	camerata
+T100	GPE 10812 10819	Bologna
+T101	GPE 10835 10846	Alessandria
+T102	PER 11133 11145	buon ragazzo
+T103	PER 11237 11242	tutti
+T104	PER 11304 11371	vecchi , bambini , donne , malati , di qualunque condizione fossero
+T105	FAC 11452 11471	piazza Carlo Felice
+T106	PER 11472 11498	un quidsimile d ' ortolano
+T107	PER 11606 11611	Giors
+T108	PER 11810 11826	quel passeggiere
+T109	ORG 11969 11981	Il municipio
+T110	PER 12432 12460	un signore di sua conoscenza
+T111	PER 12505 12510	Giors
+T112	PER 12551 12556	Giors
+T113	FAC 12618 12655	Grand Hôtel della Barriera di Francia
+T114	GPE 12648 12655	Francia
+T115	PER 12692 12697	Giors
+T116	PER 12704 12715	la famiglia
+T117	GPE 12733 12740	Francia
+T118	PER 12781 12790	la moglie
+T119	VEH 12883 12893	carrozzone

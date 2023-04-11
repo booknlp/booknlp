@@ -1,0 +1,62 @@
+T0	LOC 34 46	lago di Como
+T1	GPE 42 46	Como
+T2	LOC 487 491	lago
+T3	LOC 497 502	monti
+T4	PER 677 705	il direttore d ' un giornale
+T5	ORG 694 705	un giornale
+T6	FAC 962 978	ufficio di posta
+T7	ORG 973 978	posta
+T8	FAC 988 1008	ufficio del giornale
+T9	ORG 1000 1008	giornale
+T10	LOC 1103 1118	sponda del lago
+T11	FAC 1289 1296	salotto
+T12	PER 1349 1358	Marchetti
+T13	LOC 1519 1523	lago
+T14	FAC 1657 1662	tomba
+T15	PER 1740 1749	le ondine
+T16	LOC 1782 1786	lago
+T17	PER 1812 1832	buongustai di Milano
+T18	GPE 1826 1832	Milano
+T19	GPE 1958 1963	città
+T20	PER 2019 2028	una sposa
+T21	PER 2073 2085	uno studente
+T22	PER 2185 2194	direttore
+T23	PER 2462 2484	Direttore del giornale
+T24	ORG 2476 2484	giornale
+T25	PER 2757 2762	bimbi
+T26	LOC 2835 2847	questo mondo
+T27	PER 3090 3095	bimbi
+T28	PER 3115 3120	bimbi
+T29	PER 3136 3146	giovinette
+T30	PER 4561 4569	Hoffmann
+T31	PER 4662 4678	voi altri uomini
+T32	PER 4764 4774	Cagliostro
+T33	PER 4782 4805	il conte di San Germano
+T34	GPE 4794 4805	San Germano
+T35	PER 4957 4973	un uomo di Stato
+T36	ORG 4968 4973	Stato
+T37	GPE 5040 5065	cittadelle di Alessandria
+T38	GPE 5054 5065	Alessandria
+T39	GPE 5071 5082	Fenestrelle
+T40	GPE 5091 5100	Spielberg
+T41	FAC 5107 5113	Piombi
+T42	FAC 5183 5198	quelle prigioni
+T43	PER 5213 5234	i discepoli di Cristo
+T44	PER 5228 5234	Cristo
+T45	PER 5250 5260	paralitico
+T46	PER 5295 5305	miei padri
+T47	PER 5501 5514	uomo di Stato
+T48	ORG 5509 5514	Stato
+T49	FAC 5735 5755	muraglia della China
+T50	GPE 5750 5755	China
+T51	FAC 5885 5900	quella prigione
+T52	FAC 6468 6482	questa carcere
+T53	PER 6588 6598	gli uomini
+T54	GPE 7162 7168	Olanda
+T55	PER 7173 7214	un ladro francese fuggito dalla Bastiglia
+T56	FAC 7205 7214	Bastiglia
+T57	PER 7317 7341	tuoi compagni di viaggio
+T58	PER 10025 10032	nessuno
+T59	PER 10478 10488	Gli uomini
+T60	PER 11333 11350	una bella signora
+T61	PER 11455 11476	il mio amico generoso

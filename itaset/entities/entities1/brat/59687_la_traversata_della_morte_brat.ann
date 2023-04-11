@@ -1,0 +1,141 @@
+T0	LOC 61 75	capo Linguetta
+T1	LOC 116 127	questa rada
+T2	LOC 230 242	immenso lago
+T3	LOC 270 277	Ponente
+T4	LOC 325 339	cime dei monti
+T5	LOC 368 383	vetta di Kanina
+T6	LOC 404 421	vallata di Valona
+T7	GPE 415 421	Valona
+T8	LOC 449 466	distesa di paludi
+T9	LOC 511 529	foci della Voiussa
+T10	LOC 655 666	vette scure
+T11	LOC 672 685	balze incolte
+T12	GPE 904 911	Turchia
+T13	GPE 934 945	Krio - Nerò
+T14	GPE 950 956	Valona
+T15	FAC 984 1001	i timidi minareti
+T16	PER 1067 1092	poveri , spauriti muezzin
+T17	PER 1150 1155	Allah
+T18	PER 1183 1210	molte migliaia d ' italiani
+T19	LOC 1226 1231	Carso
+T20	GPE 1238 1244	Tirolo
+T21	PER 1306 1314	un pazzo
+T22	FAC 1346 1353	le case
+T23	LOC 1368 1375	il mare
+T24	FAC 1394 1407	grande strada
+T25	GPE 1422 1436	lontana Valona
+T26	LOC 1442 1452	sua marina
+T27	FAC 1525 1543	vecchie abitazioni
+T28	FAC 1624 1638	antico Kursaal
+T29	PER 1702 1721	ufficiali austriaci
+T30	PER 1751 1773	canzonettiste viennesi
+T31	FAC 1789 1805	quell ' edificio
+T32	FAC 1817 1825	ospedale
+T33	FAC 1871 1898	le piccole cataste di legna
+T34	FAC 2288 2295	le case
+T35	VEH 2656 2660	Navi
+T36	VEH 2663 2667	navi
+T37	VEH 2670 2674	navi
+T38	VEH 2824 2868	barcacce d ' ogni dimensione e d ' ogni tipo
+T39	VEH 2880 2909	vecchie generazioni di barche
+T40	LOC 2939 2950	mare libero
+T41	LOC 3082 3086	mare
+T42	VEH 3264 3291	due immense navi - ospedale
+T43	LOC 3456 3463	Ponente
+T44	FAC 3475 3480	bordo
+T45	FAC 3532 3562	tutti gli alberghi della morte
+T46	VEH 3575 3609	quattro transatlantici giganteschi
+T47	VEH 3761 3765	navi
+T48	PER 3875 3881	operai
+T49	PER 3902 3908	uomini
+T50	LOC 4146 4151	costa
+T51	LOC 4158 4163	monti
+T52	LOC 4169 4232	tutta quella sterminata distesa di terra vertebrata dai Balcani
+T53	LOC 4248 4255	Danubio
+T54	GPE 4299 4307	Germania
+T55	GPE 4328 4334	Russia
+T56	PER 4498 4508	orda umana
+T57	LOC 4567 4571	mare
+T58	PER 4626 4671	un secondo scaglione di prigionieri austriaci
+T59	PER 4682 4687	serbi
+T60	GPE 4738 4745	Austria
+T61	GPE 4759 4778	provincia germanica
+T62	GPE 4818 4826	Kumanowo
+T63	GPE 4829 4836	Leopoli
+T64	PER 4868 4891	ottantamila ; un popolo
+T65	PER 4917 4922	Pasic
+T66	GPE 4938 4944	Serbia
+T67	ORG 4965 4980	il suo esercito
+T68	GPE 4984 4991	Albania
+T69	LOC 5022 5026	mare
+T70	LOC 5141 5146	monti
+T71	FAC 5153 5159	strade
+T72	LOC 5166 5173	vallate
+T73	PER 5192 5196	uomo
+T74	GPE 5422 5429	regioni
+T75	PER 5685 5704	tutti gli scaglioni
+T76	LOC 5720 5724	mare
+T77	PER 5725 5756	circa cinquantamila ex - uomini
+T78	PER 5817 5834	secondo scaglione
+T79	PER 6002 6009	nessuno
+T80	VEH 6072 6114	i quattro giganteschi transatlantici grigi
+T81	LOC 6124 6134	il Ponente
+T82	LOC 6174 6191	i monti di Valona
+T83	GPE 6185 6191	Valona
+T84	PER 6223 6245	un gruppo di cavalieri
+T85	FAC 6261 6278	case della marina
+T86	LOC 6272 6278	marina
+T87	FAC 6295 6314	la strada di Valona
+T88	GPE 6308 6314	Valona
+T89	FAC 6379 6408	un grande pontile d ' imbarco
+T90	LOC 6881 6889	spiaggia
+T91	PER 6894 6905	i cavalieri
+T92	PER 7433 7465	una diga di soldati e di marinai
+T93	FAC 7500 7507	pontile
+T94	LOC 7639 7654	fiumana di lava
+T95	GPE 8146 8152	Europa
+T96	LOC 8213 8220	Ponente
+T97	PER 8415 8426	l ' umanità
+T98	PER 8445 8452	Nessuno
+T99	FAC 8707 8714	pontile
+T100	VEH 8799 8814	barche a vapore
+T101	LOC 9269 9282	tutta la rada
+T102	PER 9341 9345	uomo
+T103	PER 9421 9429	famiglie
+T104	PER 9436 9441	madri
+T105	PER 9486 9493	nessuno
+T106	LOC 9533 9554	nostro triste pianeta
+T107	VEH 9561 9585	i quattro transatlantici
+T108	LOC 9755 9760	monti
+T109	VEH 9787 9799	Il motoscafo
+T110	LOC 9854 9862	spiaggia
+T111	FAC 9978 9997	pontile d ' imbarco
+T112	PER 10114 10128	soldati nostri
+T113	PER 10131 10163	militi della Croce Rossa inglese
+T114	ORG 10144 10163	Croce Rossa inglese
+T115	PER 10180 10193	Altri soldati
+T116	PER 10287 10296	i soldati
+T117	VEH 10340 10349	Motoscafo
+T118	PER 10623 10640	un soldato nostro
+T119	PER 10788 10795	soldato
+T120	PER 10807 10818	un compagno
+T121	FAC 10847 10854	pontile
+T122	VEH 10855 10874	un ultimo zatterone
+T123	PER 11143 11156	i due soldati
+T124	PER 11682 11688	curaro
+T125	PER 12243 12257	alcuni soldati
+T126	VEH 12269 12278	Motoscafo
+T127	VEH 12297 12306	motoscafo
+T128	VEH 12324 12348	i quattro transatlantici
+T129	VEH 12397 12423	una nave da guerra inglese
+T130	PER 12469 12502	le varie centinaia di ritardatari
+T131	LOC 12521 12526	monti
+T132	LOC 12535 12541	paludi
+T133	GPE 12552 12558	Valona
+T134	LOC 12561 12568	il mare
+T135	VEH 12596 12604	mia nave
+T136	GPE 12631 12639	Sardegna
+T137	FAC 12645 12670	lazzaretto dell ' Asinara
+T138	VEH 12731 12743	sommergibili
+T139	VEH 12766 12802	un ' intera squadriglia di aeroplani
+T140	GPE 12820 12827	Durazzo

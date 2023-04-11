@@ -1,0 +1,223 @@
+T0	LOC 38 50	Canal Grande
+T1	PER 77 82	folla
+T2	FAC 86 101	palazzo Bollati
+T3	PER 94 101	Bollati
+T4	PER 127 132	gente
+T5	PER 233 245	Ferdinando I
+T6	PER 267 287	l ' augusta consorte
+T7	GPE 318 344	la fedele città di Venezia
+T8	PER 431 436	servi
+T9	PER 565 614	contino Leonardo , ragazzo di circa quindici anni
+T10	LOC 630 634	riva
+T11	PER 647 658	tappezzieri
+T12	VEH 699 718	bissona l ' Uscocca
+T13	PER 756 772	famiglia Bollati
+T14	PER 803 813	il contino
+T15	LOC 851 855	riva
+T16	PER 870 903	Tita , uno dei barcaiuoli di casa
+T17	FAC 899 903	casa
+T18	VEH 910 923	suo gondolino
+T19	PER 1004 1008	Tita
+T20	PER 1069 1079	padroncino
+T21	PER 1100 1117	varii competitori
+T22	PER 1196 1253	un giovine muranese , un tal Nane Sandretti detto Bisatto
+T23	PER 1263 1270	nessuno
+T24	PER 1439 1443	Tita
+T25	PER 1539 1549	i Muranesi
+T26	GPE 1569 1575	Murano
+T27	PER 1628 1638	il Bisatto
+T28	PER 1682 1689	Madonna
+T29	PER 1781 1789	compagno
+T30	PER 1813 1838	uno fra i pochi Castelani
+T31	PER 1870 1874	Tita
+T32	PER 2168 2202	conte Zaccaria , padre di Leonardo
+T33	PER 2194 2202	Leonardo
+T34	FAC 2258 2267	le stanze
+T35	PER 2288 2318	agente generale , sior Bortolo
+T36	PER 2376 2386	Sua Maestà
+T37	PER 2450 2457	Bollati
+T38	PER 2493 2500	Bollati
+T39	PER 2542 2556	conte Zaccaria
+T40	FAC 2854 2864	il palazzo
+T41	VEH 2881 2888	Uscocca
+T42	PER 2949 2957	famiglia
+T43	PER 2981 3017	sior Bortolo , uomo furbo e discreto
+T44	PER 3061 3075	conte Zaccaria
+T45	PER 3134 3178	nobildonna Chiaretta , sua illustre consorte
+T46	PER 3280 3289	cameriera
+T47	PER 3512 3537	quel grullo di suo marito
+T48	PER 3564 3569	tutti
+T49	PER 3590 3599	i Sovrani
+T50	PER 3602 3607	tutti
+T51	FAC 3626 3631	Corte
+T52	PER 3682 3696	certe donnette
+T53	FAC 3725 3733	casa sua
+T54	PER 3736 3766	certe contesse di princisbecco
+T55	PER 3940 3975	nobili dell ' Ordine dei segretarii
+T56	ORG 3954 3975	Ordine dei segretarii
+T57	PER 3986 3995	cavalieri
+T58	ORG 3986 4033	cavalieri della Corona di ferro di terza classe
+T59	PER 4044 4063	mercanti arricchiti
+T60	PER 4071 4083	loro femmine
+T61	PER 4121 4139	contessa Chiaretta
+T62	PER 4189 4221	la moglie d ' un banchiere ebreo
+T63	PER 4203 4221	un banchiere ebreo
+T64	PER 4306 4330	Sua Eccellenza Chiaretta
+T65	ORG 4396 4422	setta della Giovine Italia
+T66	GPE 4416 4422	Italia
+T67	FAC 4470 4480	il palazzo
+T68	PER 4490 4495	gente
+T69	PER 4498 4508	forestieri
+T70	PER 4552 4569	suo signor genero
+T71	PER 4578 4599	sua signora figliuola
+T72	GPE 4622 4629	Venezia
+T73	FAC 4647 4654	la casa
+T74	PER 4660 4752	contessina Maddalena Bollati , figlia primogenita delle loro Eccellenze Zaccaria e Chiaretta
+T75	PER 4716 4752	loro Eccellenze Zaccaria e Chiaretta
+T76	PER 4811 4820	Salesiane
+T77	PER 4827 4908	signor marchese Ernesto Geisenburg - Rudingen von Rudingen ufficiale degli ussari
+T78	PER 4902 4908	ussari
+T79	PER 4911 4958	possessore di molte terre e castella in Moravia
+T80	LOC 4925 4936	molte terre
+T81	FAC 4939 4947	castella
+T82	GPE 4951 4958	Moravia
+T83	PER 4993 4996	uni
+T84	PER 5026 5031	altri
+T85	PER 5134 5185	marchese Ernesto Geisenburg - Rudingen von Rudingen
+T86	GPE 5215 5220	Gotha
+T87	PER 5288 5343	una persona ch ' è registrata nell ' almanacco di Gotha
+T88	GPE 5338 5343	Gotha
+T89	PER 5369 5384	signor marchese
+T90	PER 5432 5449	grandi personaggi
+T91	PER 5465 5472	Bollati
+T92	PER 5515 5533	loro signor genero
+T93	ORG 5536 5562	L ' aristocrazia veneziana
+T94	PER 5605 5611	popolo
+T95	ORG 5633 5638	casta
+T96	ORG 5707 5731	l ' aristocrazia tedesca
+T97	PER 5773 5789	semplici mortali
+T98	PER 5848 5853	altri
+T99	PER 5908 5924	marchese Ernesto
+T100	PER 5969 5977	consorte
+T101	PER 6004 6022	nobilissima coppia
+T102	FAC 6060 6066	mulino
+T103	PER 6085 6127	coniugi Geisenburg - Rudingen von Rudingen
+T104	GPE 6139 6146	Venezia
+T105	FAC 6199 6211	casa Bollati
+T106	PER 6204 6211	Bollati
+T107	PER 6263 6281	contessa Chiaretta
+T108	PER 6311 6323	la cameriera
+T109	PER 6329 6347	marchesa Maddalena
+T110	PER 6374 6391	sua Zimmermädchen
+T111	PER 6399 6415	marchese Ernesto
+T112	PER 6434 6442	un servo
+T113	PER 6507 6518	il marchese
+T114	PER 6666 6688	capitano di cavalleria
+T115	ORG 6678 6688	cavalleria
+T116	PER 6710 6718	il servo
+T117	PER 6750 6768	il signor marchese
+T118	ORG 6898 6906	esercito
+T119	FAC 7076 7104	una stanza del secondo piano
+T120	FAC 7091 7104	secondo piano
+T121	PER 7170 7222	il padrone vecchio , l ' ottuagenario conte Leonardo
+T122	PER 7225 7245	comandante di galera
+T123	FAC 7239 7245	galera
+T124	PER 7309 7323	conte Leonardo
+T125	LOC 7388 7397	Canalazzo
+T126	PER 7421 7446	un barbiere antidiluviano
+T127	PER 7531 7545	conte Leonardo
+T128	PER 7778 7800	Imperatore Giuseppe II
+T129	PER 7807 7823	i duchi del Nord
+T130	LOC 7819 7823	Nord
+T131	PER 7830 7846	il conte di Haga
+T132	GPE 7842 7846	Haga
+T133	PER 7853 7862	Napoleone
+T134	PER 7869 7885	principe Eugenio
+T135	PER 7890 7901	il barbiere
+T136	GPE 7979 7988	San Marco
+T137	PER 8064 8092	quel minchione del Condulmer
+T138	ORG 8125 8131	flotta
+T139	ORG 8149 8169	la nostra Repubblica
+T140	PER 8216 8230	Sua Eccellenza
+T141	PER 8268 8291	Quei maledetti Francesi
+T142	PER 8326 8337	il barbiere
+T143	PER 8380 8390	gli uomini
+T144	PER 8411 8423	cavalier Emo
+T145	PER 8560 8594	quei matti del Governo democratico
+T146	ORG 8575 8594	Governo democratico
+T147	PER 8601 8612	i patatuchi
+T148	PER 8619 8629	i Francesi
+T149	PER 8636 8647	i patatuchi
+T150	PER 8662 8672	il diavolo
+T151	PER 8693 8707	conte Leonardo
+T152	PER 8758 8778	marito di mia nipote
+T153	PER 8768 8778	mia nipote
+T154	PER 8781 8790	L ' altro
+T155	PER 8863 8880	Vostra Eccellenza
+T156	PER 8985 8996	santo Iddio
+T157	PER 9027 9048	una damigella Bollati
+T158	PER 9068 9076	lo sposo
+T159	GPE 9354 9359	paese
+T160	PER 9425 9435	mio figlio
+T161	PER 9441 9450	mia nuora
+T162	PER 9517 9526	Patriarca
+T163	PER 9555 9574	nobil ' uomo Zulian
+T164	FAC 9587 9591	casa
+T165	PER 9592 9601	la moglie
+T166	PER 9648 9657	suo padre
+T167	PER 9693 9700	vecchio
+T168	PER 9718 9735	Vostra Eccellenza
+T169	PER 9783 9794	il barbiere
+T170	PER 9850 9871	signora Giuliana Polo
+T171	PER 9899 9923	Sua Eccellenza Barbarigo
+T172	PER 9982 9998	signora Giuliana
+T173	PER 10011 10020	l ' amico
+T174	PER 10058 10072	conte Leonardo
+T175	PER 10177 10189	la cameriera
+T176	PER 10195 10220	Briccone d ' un Barbarigo
+T177	PER 10277 10285	Napodano
+T178	PER 10341 10361	ragazzo Partecipazio
+T179	PER 10367 10388	nobil ' uomo Leonardo
+T180	PER 10416 10442	un ' altra grande famiglia
+T181	PER 10501 10510	i Bollati
+T182	PER 10545 10556	il barbiere
+T183	PER 10617 10636	il vecchio patrizio
+T184	FAC 10743 10770	il piano nobile del palazzo
+T185	FAC 10763 10770	palazzo
+T186	PER 10786 10790	dame
+T187	PER 10796 10805	cavalieri
+T188	PER 10813 10827	conte Zaccaria
+T189	PER 10832 10846	pomposo genero
+T190	FAC 10878 10894	l ' appartamento
+T191	PER 10895 10978	tre o quattro austriaci d ' alto affare , duri , impettiti , coperti di decorazioni
+T192	FAC 10985 10999	un bel palazzo
+T193	PER 11038 11049	suoi ospiti
+T194	FAC 11052 11094	uno di quegli edifizi maestosi e leggiadri
+T195	PER 11114 11136	gli architetti moderni
+T196	PER 11221 11229	le Guide
+T197	PER 11269 11278	Sansovino
+T198	PER 11283 11305	uno dei suoi discepoli
+T199	FAC 11344 11375	uno dei pochi palazzi veneziani
+T200	FAC 11449 11465	spazioso androne
+T201	FAC 11524 11551	due galere della Repubblica
+T202	ORG 11541 11551	Repubblica
+T203	FAC 11572 11582	lunga sala
+T204	FAC 11701 11705	sala
+T205	PER 11774 11782	famiglia
+T206	PER 11922 11946	procuratori di San Marco
+T207	GPE 11937 11946	San Marco
+T208	PER 12011 12037	alcuni realmente pregevoli
+T209	FAC 12094 12119	Il salotto di ricevimento
+T210	GPE 12161 12168	Francia
+T211	PER 12212 12220	Vittoria
+T212	GPE 12246 12252	Murano
+T213	FAC 12351 12371	Cappella del Rosario
+T214	PER 12381 12389	Giovanni
+T215	PER 12392 12397	Paolo
+T216	FAC 12659 12665	stanza
+T217	ORG 12740 12759	Consiglio dei Dieci
+T218	FAC 12766 12783	salottino attiguo
+T219	PER 12819 12828	Canaletto
+T220	PER 12835 12841	Longhi
+T221	PER 12860 12876	Rosalba Carriera
+T222	FAC 12915 12922	palazzo

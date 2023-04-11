@@ -1,0 +1,178 @@
+T0	PER 155 169	signor Foresti
+T1	PER 488 502	signor Foresti
+T2	FAC 554 612	suo ufficio di capo - stazione della piccola stazione di S
+T3	FAC 591 612	piccola stazione di S
+T4	FAC 692 706	Questa bottega
+T5	PER 731 745	meno avventori
+T6	VEH 814 822	il treno
+T7	LOC 1122 1134	questo mondo
+T8	FAC 1397 1420	il suo piccolo giardino
+T9	FAC 1456 1479	la sua piccola stazione
+T10	FAC 1493 1501	un eremo
+T11	PER 1595 1610	capo - stazione
+T12	FAC 1662 1681	il piccolo giardino
+T13	FAC 1700 1714	una capannetta
+T14	PER 1827 1831	capo
+T15	GPE 1885 1901	una grande città
+T16	PER 1970 1986	padrone assoluto
+T17	FAC 2019 2032	un reclusorio
+T18	FAC 2033 2056	quella piccola stazione
+T19	PER 2067 2074	il capo
+T20	LOC 2124 2128	nord
+T21	LOC 2143 2146	sud
+T22	PER 2212 2228	signore assoluto
+T23	PER 2246 2257	bigliettaio
+T24	PER 2260 2273	spedizioniere
+T25	PER 2276 2288	telegrafista
+T26	PER 2345 2358	uno scambista
+T27	PER 2361 2372	un facchino
+T28	PER 2810 2821	democratico
+T29	LOC 2860 2868	campagna
+T30	PER 2904 2912	le donne
+T31	PER 2937 2945	le donne
+T32	PER 2962 2967	donne
+T33	PER 3013 3024	signor capo
+T34	FAC 3064 3080	quei pozzi grigi
+T35	LOC 3090 3128	le vie , le piazze di una grande città
+T36	GPE 3112 3128	una grande città
+T37	FAC 3165 3185	un teatro illuminato
+T38	LOC 3192 3221	le vie lucide dei tram lucidi
+T39	VEH 3210 3221	tram lucidi
+T40	PER 3224 3250	uomini col colletto pulito
+T41	PER 3253 3276	donne all ' ultima moda
+T42	PER 3279 3304	donne autentiche , lavate
+T43	FAC 3453 3461	un caffè
+T44	LOC 3598 3602	mare
+T45	PER 3678 3692	il signor capo
+T46	GPE 3914 3930	una città grande
+T47	FAC 4082 4105	quella piccola stazione
+T48	PER 4130 4138	la gente
+T49	VEH 4401 4417	un piccolo treno
+T50	VEH 4442 4449	diretto
+T51	PER 4455 4466	signor Capo
+T52	PER 4503 4514	viaggiatori
+T53	PER 4783 4794	signor Capo
+T54	VEH 4840 4848	Il treno
+T55	PER 4875 4893	un piccolo signore
+T56	FAC 4899 4933	uno scompartimento di prima classe
+T57	VEH 5034 5045	la carrozza
+T58	PER 5255 5268	i carabinieri
+T59	PER 5271 5302	i due carabinieri regolamentari
+T60	PER 5305 5325	Le guardie del treno
+T61	PER 5328 5336	la gente
+T62	PER 5369 5381	quel signore
+T63	PER 5412 5438	quegli uomini neri e rossi
+T64	PER 5467 5473	alcuni
+T65	ORG 5509 5524	società moderna
+T66	PER 5684 5695	il pubblico
+T67	VEH 5715 5720	treno
+T68	FAC 5743 5754	una tribuna
+T69	PER 5757 5835	un giovane signore , tutto vestito di bianco che pareva un sorbetto vanigliato
+T70	PER 5877 5889	Quel signore
+T71	PER 5936 5991	il piccolo signore nero con gli occhi fuori dalla testa
+T72	PER 6033 6056	l ' elegante giovinotto
+T73	PER 6060 6073	il vecchiotto
+T74	PER 6141 6168	Un professionista del furto
+T75	VEH 6173 6178	treni
+T76	PER 6191 6216	L ' elegantissimo giovane
+T77	PER 6257 6265	pubblico
+T78	PER 6299 6302	uno
+T79	PER 6344 6362	il vecchio signore
+T80	PER 6750 6768	signori ferrovieri
+T81	PER 6775 6794	signori viaggiatori
+T82	PER 7050 7070	padrone del medesimo
+T83	PER 7215 7223	due soli
+T84	FAC 7230 7244	scompartimento
+T85	ORG 7329 7352	la vecchia Mediterranea
+T86	ORG 7426 7441	la Mediterranea
+T87	ORG 7471 7479	lo Stato
+T88	ORG 7482 7502	Le ferrovie di Stato
+T89	ORG 7497 7502	Stato
+T90	PER 7630 7655	L ' elegantissimo giovane
+T91	ORG 7722 7748	ferrovie di Stato italiane
+T92	ORG 7734 7739	Stato
+T93	ORG 7765 7780	ferrovie estere
+T94	LOC 7806 7812	estero
+T95	FAC 7826 7841	vagoni - salons
+T96	PER 7925 7937	quel signore
+T97	PER 8038 8056	il vecchio signore
+T98	PER 8111 8136	gentiluomini o mascalzoni
+T99	PER 8156 8174	il capo - stazione
+T100	PER 8239 8251	Capo - treno
+T101	PER 8295 8305	il vecchio
+T102	PER 8362 8372	avversario
+T103	PER 8396 8406	il giovane
+T104	PER 8456 8466	avversario
+T105	VEH 8538 8546	il treno
+T106	PER 8560 8578	il vecchio signore
+T107	PER 8653 8681	l ' elegante giovane signore
+T108	PER 8823 8831	L ' uomo
+T109	VEH 8892 8903	la macchina
+T110	PER 9025 9043	il giovane signore
+T111	FAC 9066 9093	prossima stazione balnearia
+T112	VEH 9192 9200	il treno
+T113	PER 9290 9308	Il vecchio signore
+T114	PER 9340 9354	suo avversario
+T115	FAC 9392 9408	sala d ' aspetto
+T116	PER 9420 9430	il giovane
+T117	PER 9472 9495	capo - stazione Foresti
+T118	PER 9595 9599	Capo
+T119	PER 9689 9696	signore
+T120	VEH 9762 9767	treno
+T121	VEH 9781 9796	La sua macchina
+T122	PER 9825 9835	il giovane
+T123	PER 9858 9876	Il capo - stazione
+T124	VEH 10142 10157	la sua macchina
+T125	VEH 10274 10282	macchine
+T126	PER 10320 10334	il signor Capo
+T127	PER 10406 10429	macchinisti e fuochisti
+T128	PER 10432 10445	i macchinisti
+T129	PER 10560 10571	viaggiatori
+T130	PER 10690 10708	il capo - stazione
+T131	LOC 10848 10856	Il mondo
+T132	PER 10919 10937	il giovane signore
+T133	PER 10978 11031	barone Y ... , segretario dell ' ambasciata germanica
+T134	PER 11011 11031	ambasciata germanica
+T135	PER 11034 11048	mio buon amico
+T136	ORG 11109 11114	Stato
+T137	VEH 11122 11134	una macchina
+T138	PER 11191 11202	sua signora
+T139	PER 11246 11256	suo barone
+T140	PER 11277 11291	quella signora
+T141	ORG 11311 11319	lo Stato
+T142	PER 11442 11460	Il giovane signore
+T143	PER 11554 11578	Un tirapiedi del Governo
+T144	ORG 11571 11578	Governo
+T145	PER 11641 11655	signor Foresti
+T146	PER 11696 11705	tirapiedi
+T147	PER 11730 11737	persona
+T148	PER 11776 11797	Tirapiedi del Governo
+T149	ORG 11790 11797	Governo
+T150	PER 11812 11830	il giovane signore
+T151	PER 12006 12034	tutto il disgraziato signore
+T152	PER 12273 12283	il giovane
+T153	PER 12330 12341	Il facchino
+T154	FAC 12387 12392	pozzo
+T155	FAC 12462 12488	La caserma dei carabinieri
+T156	PER 12477 12488	carabinieri
+T157	FAC 12499 12525	la caserma dei carabinieri
+T158	PER 12514 12525	carabinieri
+T159	PER 12609 12620	signor Capo
+T160	FAC 12697 12710	la sua galera
+T161	FAC 12732 12741	tribunale
+T162	PER 12757 12770	il gentiluomo
+T163	VEH 12782 12797	una carrozzella
+T164	PER 12803 12807	Capo
+T165	PER 12928 12946	il capo - stazione
+T166	PER 12969 12973	Capo
+T167	PER 13018 13026	facchino
+T168	PER 13067 13081	Povero giovane
+T169	PER 13296 13317	tirapiedi del Governo
+T170	ORG 13310 13317	Governo
+T171	PER 13338 13343	tutti
+T172	PER 13346 13367	superiori e inferiori
+T173	PER 13561 13572	signor Capo
+T174	VEH 13619 13627	un treno
+T175	FAC 13645 13664	una piccola osteria
+T176	FAC 13708 13717	stanzetta
+T177	PER 13718 13746	quel signore vestito di nero

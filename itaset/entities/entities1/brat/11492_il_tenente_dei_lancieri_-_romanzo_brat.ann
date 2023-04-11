@@ -1,0 +1,140 @@
+T0	ORG 4 12	La ditta
+T1	PER 33 58	padre Giovanni Monghisoni
+T2	PER 80 107	la vera padrona del negozio
+T3	PER 131 158	unica figlia del Monghisoni
+T4	PER 164 202	signora Maddalena , maritata Trebeschi
+T5	PER 193 202	Trebeschi
+T6	PER 330 347	signora Maddalena
+T7	VEH 369 376	la nave
+T8	PER 558 575	signora Maddalena
+T9	FAC 605 616	ogni stanza
+T10	LOC 722 749	via Lentasio a porta Romana
+T11	FAC 756 771	lunghi cameroni
+T12	PER 901 909	commessi
+T13	PER 915 924	avventori
+T14	FAC 1012 1032	Santa Casa di Loreto
+T15	PER 1146 1163	signora Maddalena
+T16	PER 1256 1272	babbo Monghisoni
+T17	PER 1354 1366	la figliuola
+T18	PER 1498 1515	signora Maddalena
+T19	PER 1536 1574	le altre donne , tutte matte da legare
+T20	FAC 1695 1703	ospedale
+T21	PER 1712 1720	il padre
+T22	PER 1850 1859	gli altri
+T23	PER 1889 1898	Mio padre
+T24	LOC 1922 1927	mondo
+T25	PER 1970 1992	un fiore di galantuomo
+T26	PER 2010 2019	Mio padre
+T27	PER 2103 2120	Signora Maddalena
+T28	LOC 2241 2253	porta Romana
+T29	PER 2268 2285	il bel granatiere
+T30	PER 2555 2575	la padrona del mondo
+T31	LOC 2570 2575	mondo
+T32	PER 2811 2816	altri
+T33	PER 2846 2870	signor Daniele Trebeschi
+T34	PER 2995 3008	suoi commessi
+T35	PER 3036 3053	signora Maddalena
+T36	FAC 3088 3095	negozio
+T37	PER 3212 3227	i suoi commessi
+T38	PER 3475 3492	signor Monghisoni
+T39	FAC 3559 3569	il negozio
+T40	PER 3572 3609	un uomo sicuro , fidato , interessato
+T41	ORG 3790 3795	ditta
+T42	LOC 3811 3816	mondo
+T43	PER 3823 3834	i figliuoli
+T44	PER 3856 3873	signora Maddalena
+T45	FAC 4091 4105	un bugigattolo
+T46	FAC 4125 4151	primo camerone del fondaco
+T47	PER 4605 4617	tanti babbei
+T48	PER 4620 4636	tanti mangiapane
+T49	ORG 4799 4817	quella sua azienda
+T50	ORG 4824 4832	la ditta
+T51	PER 4991 5007	un suo banchiere
+T52	FAC 5135 5142	fondaco
+T53	PER 5155 5169	signor Daniele
+T54	PER 5429 5439	i commessi
+T55	PER 5465 5482	signora Maddalena
+T56	PER 5518 5532	signor Daniele
+T57	PER 5759 5773	signor Daniele
+T58	GPE 5776 5785	Melegnano
+T59	PER 5828 5840	suoi parenti
+T60	FAC 6093 6097	casa
+T61	FAC 6185 6200	suo bugigattolo
+T62	FAC 6295 6317	quell ' androne chiuso
+T63	FAC 6464 6484	Santa Casa di Loreto
+T64	ORG 6495 6511	ditta Monghisoni
+T65	PER 6708 6725	signora Maddalena
+T66	ORG 6786 6791	Banca
+T67	PER 6854 6863	mio padre
+T68	PER 6884 6891	nessuno
+T69	ORG 6897 6905	la ditta
+T70	PER 7037 7042	tutti
+T71	PER 7116 7133	signora Maddalena
+T72	PER 7404 7462	Il sarto di casa , un vecchio portinaio di via San Barnaba
+T73	FAC 7416 7420	casa
+T74	PER 7423 7462	un vecchio portinaio di via San Barnaba
+T75	LOC 7447 7462	via San Barnaba
+T76	PER 7500 7517	tutti i Trebeschi
+T77	PER 7525 7542	signora Maddalena
+T78	PER 7680 7697	signora Maddalena
+T79	PER 7869 7886	signora Maddalena
+T80	PER 8115 8126	Vecchio mio
+T81	PER 8288 8297	il marito
+T82	PER 8398 8405	Daniele
+T83	PER 8415 8422	Daniele
+T84	PER 8493 8501	Dààniele
+T85	PER 8543 8560	signora Maddalena
+T86	PER 8621 8630	mio padre
+T87	PER 8633 8641	Dààniele
+T88	PER 8673 8687	signor Daniele
+T89	PER 8706 8718	due facchini
+T90	PER 8811 8828	signora Maddalena
+T91	PER 8942 8959	tutta la famiglia
+T92	PER 8971 8979	il sarto
+T93	PER 9002 9018	signor Trebeschi
+T94	PER 9021 9030	Maddalena
+T95	PER 9160 9179	signora , Maddalena
+T96	PER 9186 9194	il sarto
+T97	PER 9233 9247	signor Daniele
+T98	PER 9323 9340	signora Maddalena
+T99	PER 9608 9622	signor Daniele
+T100	PER 9667 9672	sarto
+T101	PER 9742 9751	Maddalena
+T102	PER 9811 9821	Temistocle
+T103	PER 9824 9834	Temistocle
+T104	PER 9992 10020	il primogenito dei Trebeschi
+T105	PER 10085 10090	sarto
+T106	PER 10264 10281	signora Maddalena
+T107	PER 10336 10346	Temistocle
+T108	PER 10372 10381	suo padre
+T109	PER 10421 10438	signora Maddalena
+T110	PER 10474 10486	uno sciupone
+T111	PER 10541 10546	tutti
+T112	PER 10752 10757	sarto
+T113	PER 10791 10801	Temistocle
+T114	PER 10844 10861	signora Maddalena
+T115	FAC 10907 10916	magazzino
+T116	PER 10953 10966	un giovanotto
+T117	PER 11092 11109	signora Maddalena
+T118	PER 11128 11138	Gian Maria
+T119	PER 11141 11170	Gian Maria , il secondogenito
+T120	PER 11213 11223	Temistocle
+T121	PER 11395 11425	la nipote del signor Trebeschi
+T122	PER 11409 11425	signor Trebeschi
+T123	PER 11431 11449	signorina Cammilla
+T124	PER 11509 11527	giovane personcina
+T125	PER 11722 11758	l ' ultimo dei Trebeschi , Giacomino
+T126	PER 11793 11807	un bel ragazzo
+T127	PER 11854 11859	tutti
+T128	PER 11905 11914	Giacomino
+T129	PER 12025 12042	signora Maddalena
+T130	PER 12096 12110	quel figliuolo
+T131	PER 12187 12204	signora Maddalena
+T132	PER 12223 12232	Giacomino
+T133	PER 12404 12412	mercante
+T134	PER 12507 12512	serva
+T135	PER 12544 12553	sua madre
+T136	PER 12679 12691	Tutti quanti
+T137	PER 12798 12807	Giacomino
+T138	PER 12831 12836	altri
+T139	PER 12924 12932	il babbo

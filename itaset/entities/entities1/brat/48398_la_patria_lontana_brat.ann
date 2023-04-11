@@ -1,0 +1,196 @@
+T0	PER 6 14	Voialtri
+T1	GPE 79 88	Argentina
+T2	PER 152 168	i suoi figliuoli
+T3	GPE 172 178	Italia
+T4	GPE 218 224	Italia
+T5	PER 416 448	un produttore di vino di Mendoza
+T6	GPE 441 448	Mendoza
+T7	PER 463 523	un nemico dell ' importazione del vino italiano in Argentina
+T8	GPE 514 523	Argentina
+T9	PER 622 636	molti italiani
+T10	ORG 653 669	la mia ; azienda
+T11	PER 696 715	nostri connazionali
+T12	ORG 791 798	circolo
+T13	PER 829 832	due
+T14	PER 878 892	Nessuno di noi
+T15	PER 906 914	italiano
+T16	PER 919 951	il produttore di vino di Mendoza
+T17	GPE 944 951	Mendoza
+T18	PER 976 981	altri
+T19	PER 998 1006	italiano
+T20	PER 1036 1045	L ' altro
+T21	PER 1117 1125	Il primo
+T22	PER 1176 1186	il secondo
+T23	PER 1211 1298	gli astanti , sette o otto commercianti del Brasile , dell ' Uruguay e dell ' Argentina
+T24	GPE 1255 1262	Brasile
+T25	GPE 1272 1279	Uruguay
+T26	GPE 1289 1298	Argentina
+T27	GPE 1318 1324	Italia
+T28	PER 1358 1366	italiani
+T29	PER 1382 1390	italiani
+T30	PER 1417 1427	un signore
+T31	PER 1527 1532	altro
+T32	PER 1579 1591	Buondelmonti
+T33	PER 1597 1611	questo signore
+T34	PER 1614 1622	italiano
+T35	PER 1699 1711	Buondelmonti
+T36	PER 1720 1748	il signore della lunga barba
+T37	PER 1801 1816	caro professore
+T38	PER 2024 2032	i popoli
+T39	LOC 2148 2156	il mondo
+T40	PER 2162 2178	professor Axerio
+T41	PER 2268 2280	Buondelmonti
+T42	GPE 2331 2337	Italia
+T43	PER 2355 2389	un uomo d ' intelligenza fuorviata
+T44	PER 2395 2407	Buondelmonti
+T45	PER 2647 2658	Tutti e due
+T46	PER 2664 2676	Buondelmonti
+T47	PER 2682 2698	professor Axerio
+T48	PER 2741 2747	l ' un
+T49	PER 2748 2757	l ' altro
+T50	PER 2773 2870	due prototipi d ' uomini per intelligenza , per carattere , per cultura , per professione avversi
+T51	PER 2873 2886	il professore
+T52	PER 2911 2920	scrittore
+T53	PER 2954 2966	lo scrittore
+T54	PER 2982 2992	professore
+T55	PER 3010 3036	pedante de ' luoghi comuni
+T56	PER 3065 3076	Shakespeare
+T57	PER 3127 3132	amici
+T58	PER 3142 3154	Buondelmonti
+T59	PER 3167 3173	Axerio
+T60	PER 3241 3255	questo sciocco
+T61	PER 3323 3333	Professore
+T62	PER 3440 3454	questi signori
+T63	PER 3599 3612	Il professore
+T64	PER 3708 3717	scrittore
+T65	GPE 3745 3751	Italia
+T66	PER 3858 3864	Jacopo
+T67	PER 3885 3904	signor Buondelmonti
+T68	PER 3914 3987	signora Giovanna Axerio , sua moglie , una giovane donna di media statura
+T69	PER 4114 4138	Alcuni de ' commercianti
+T70	ORG 4163 4170	circolo
+T71	PER 4252 4276	professore Jacopo Axerio
+T72	PER 4281 4299	Piero Buondelmonti
+T73	GPE 4336 4342	Italia
+T74	ORG 4345 4372	Un altro circolo di signore
+T75	PER 4365 4372	signore
+T76	PER 4402 4408	alcune
+T77	PER 4465 4487	quelli che discutevano
+T78	PER 4493 4516	signora Giovanna Axerio
+T79	PER 4540 4546	marito
+T80	PER 4561 4573	Buondelmonti
+T81	PER 4645 4657	il fanciullo
+T82	PER 4693 4701	Qualcuno
+T83	PER 4832 4847	Il sopraggiunto
+T84	PER 4852 4878	un signore alto , asciutto
+T85	PER 4981 4995	signora Axerio
+T86	PER 5101 5112	signora mia
+T87	PER 5193 5211	il giovane signore
+T88	PER 5245 5261	professor Axerio
+T89	PER 5312 5317	tutti
+T90	PER 5323 5332	patriotti
+T91	PER 5341 5353	i socialisti
+T92	PER 5368 5377	patriotti
+T93	PER 5405 5415	socialista
+T94	PER 5442 5452	socialista
+T95	PER 5460 5470	socialista
+T96	PER 5476 5492	uomo del passato
+T97	PER 5529 5546	borghese liberale
+T98	PER 5552 5563	democratico
+T99	PER 5569 5577	radicale
+T100	PER 5709 5721	Buondelmonti
+T101	PER 5831 5859	la moglie del suo avversario
+T102	PER 5845 5859	suo avversario
+T103	PER 5923 5935	Buondelmonti
+T104	PER 5992 6014	quello sciocco pedante
+T105	PER 6198 6208	gli uomini
+T106	GPE 6373 6383	la nazione
+T107	GPE 6467 6477	la nazione
+T108	FAC 6491 6517	il campo di concentramento
+T109	PER 6521 6546	un certo numero di uomini
+T110	FAC 6677 6700	campo di concentramento
+T111	GPE 6858 6868	la nazione
+T112	PER 7197 7211	questi signori
+T113	FAC 7311 7343	campo di concentramento italiano
+T114	PER 7370 7379	patriotti
+T115	PER 7506 7525	nostri connazionali
+T116	PER 7599 7607	italiani
+T117	GPE 7756 7766	la nazione
+T118	PER 7811 7823	nazionalisti
+T119	PER 7836 7845	patriotti
+T120	PER 7860 7872	imperialisti
+T121	PER 7875 7889	I commercianti
+T122	PER 7946 7954	qualcuno
+T123	PER 8051 8063	simile gente
+T124	PER 8112 8122	Le signore
+T125	PER 8224 8244	il giovane eloquente
+T126	PER 8260 8274	signora Axerio
+T127	PER 8303 8308	molte
+T128	PER 8378 8381	una
+T129	PER 8557 8562	cieca
+T130	PER 8565 8583	Il giovane signore
+T131	PER 9027 9033	Axerio
+T132	PER 9173 9180	umanità
+T133	PER 9239 9257	Piero Buondelmonti
+T134	PER 9303 9311	Voialtri
+T135	PER 9401 9409	voialtri
+T136	PER 9520 9526	popoli
+T137	PER 9549 9553	uomo
+T138	FAC 9630 9648	campi di battaglia
+T139	PER 9685 9703	uomini del passato
+T140	PER 9721 9727	Axerio
+T141	PER 9861 9873	Buondelmonti
+T142	PER 9957 9977	L ' uomo del passato
+T143	PER 10016 10057	uomini del nostro tempo e dell ' avvenire
+T144	PER 10088 10098	professore
+T145	PER 10101 10117	I due avversarii
+T146	PER 10201 10207	l ' un
+T147	PER 10208 10217	l ' altro
+T148	PER 10520 10526	l ' un
+T149	PER 10527 10536	l ' altro
+T150	PER 10570 10583	l ' individuo
+T151	PER 10691 10703	Buondelmonti
+T152	PER 10792 10798	Axerio
+T153	PER 10803 10810	Pedanti
+T154	PER 10818 10824	altrui
+T155	PER 10873 10887	signora Axerio
+T156	PER 10899 10911	Buondelmonti
+T157	PER 10972 10987	giovane signore
+T158	PER 11010 11024	Uomini di fede
+T159	PER 11027 11038	signora mia
+T160	PER 11061 11071	la signora
+T161	GPE 11122 11128	Italia
+T162	PER 11147 11166	signor Buondelmonti
+T163	PER 11247 11258	altra gente
+T164	PER 11272 11282	Le persone
+T165	PER 11311 11319	le altre
+T166	FAC 11393 11407	sala da pranzo
+T167	PER 11436 11448	un cameriere
+T168	PER 11464 11479	medico di bordo
+T169	FAC 11474 11479	bordo
+T170	PER 11501 11522	comandante della nave
+T171	VEH 11518 11522	nave
+T172	PER 11562 11580	il giovane signore
+T173	PER 11591 11606	Filippo Porrèna
+T174	PER 11612 11624	Buondelmonti
+T175	PER 11627 11637	gli Axerio
+T176	PER 11640 11652	Il cameriere
+T177	PER 11676 11682	medico
+T178	PER 11701 11714	il comandante
+T179	PER 11723 11732	il medico
+T180	FAC 11803 11808	bordo
+T181	PER 11836 11845	il medico
+T182	PER 11896 11909	gli emigranti
+T183	PER 11926 11948	uno ferito di coltello
+T184	PER 11954 11971	professore Axerio
+T185	PER 12053 12066	il comandante
+T186	PER 12097 12115	uomo tanto celebre
+T187	PER 12149 12155	Axerio
+T188	PER 12364 12374	comandante
+T189	PER 12414 12423	il ferito
+T190	PER 12428 12441	il comandante
+T191	GPE 12484 12493	Atlantide
+T192	FAC 12549 12557	casa sua
+T193	PER 12564 12570	Axerio
+T194	FAC 12617 12621	prua
+T195	PER 12635 12648	gli emigranti

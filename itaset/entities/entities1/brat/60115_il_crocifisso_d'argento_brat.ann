@@ -1,0 +1,178 @@
+T0	PER 2 10	Contessa
+T1	PER 30 42	la cameriera
+T2	PER 45 56	La contessa
+T3	PER 197 212	giovane signora
+T4	PER 227 239	La cameriera
+T5	PER 323 331	contessa
+T6	PER 334 345	La contessa
+T7	PER 418 427	L ' altra
+T8	PER 574 585	la contessa
+T9	PER 683 693	il bambino
+T10	PER 704 714	il piccino
+T11	PER 767 777	La signora
+T12	PER 856 866	Il bambino
+T13	PER 958 968	la signora
+T14	PER 987 992	conte
+T15	PER 1044 1056	la cameriera
+T16	PER 1183 1194	La contessa
+T17	PER 1277 1286	cameriera
+T18	PER 1319 1323	dama
+T19	PER 1408 1416	la donna
+T20	PER 1430 1441	La contessa
+T21	PER 1541 1551	un bambino
+T22	PER 1637 1644	signora
+T23	PER 1655 1667	la cameriera
+T24	PER 1710 1730	La contessa , livida
+T25	PER 1767 1777	suo figlio
+T26	PER 1845 1854	cameriera
+T27	FAC 1886 1899	camera vicina
+T28	PER 1925 1935	Il piccino
+T29	FAC 2087 2093	camera
+T30	PER 2106 2118	la cameriera
+T31	PER 2277 2280	Dio
+T32	PER 2305 2315	il bambino
+T33	PER 2351 2358	signora
+T34	PER 2364 2381	Rosa del gastaldo
+T35	PER 2495 2505	Il bambino
+T36	PER 2526 2534	la mamma
+T37	PER 2550 2561	la contessa
+T38	PER 2644 2648	caro
+T39	PER 2687 2697	suo marito
+T40	PER 2700 2711	La contessa
+T41	PER 2776 2786	il bambino
+T42	GPE 2859 2864	città
+T43	PER 2871 2877	marito
+T44	FAC 2886 2895	sua villa
+T45	FAC 2904 2920	splendido podere
+T46	FAC 3084 3088	casa
+T47	FAC 3095 3122	cortile rustico della villa
+T48	FAC 3117 3122	villa
+T49	PER 3162 3167	conte
+T50	PER 3297 3305	Il conte
+T51	PER 3462 3466	Rosa
+T52	PER 3476 3484	il conte
+T53	PER 3610 3620	sua moglie
+T54	PER 3652 3656	Rosa
+T55	PER 3777 3784	signora
+T56	PER 3911 3916	padre
+T57	PER 3927 3933	marito
+T58	PER 3960 3968	il conte
+T59	PER 4003 4018	il pover ' uomo
+T60	PER 4116 4128	il cameriere
+T61	PER 4149 4160	La contessa
+T62	PER 4176 4212	nessun contadino del cortile rustico
+T63	FAC 4197 4212	cortile rustico
+T64	FAC 4239 4243	casa
+T65	PER 4250 4265	nessuno di casa
+T66	FAC 4261 4265	casa
+T67	FAC 4278 4285	cortile
+T68	PER 4317 4329	il cocchiere
+T69	PER 4405 4413	il conte
+T70	PER 4563 4574	tua schiava
+T71	PER 4649 4659	mio figlio
+T72	PER 4678 4685	nessuno
+T73	PER 4733 4741	Il conte
+T74	PER 4954 4965	La contessa
+T75	PER 5193 5203	Sua moglie
+T76	PER 5330 5339	il marito
+T77	PER 5441 5449	il conte
+T78	PER 5626 5635	cameriere
+T79	PER 5692 5703	La contessa
+T80	FAC 5855 5862	la casa
+T81	PER 5863 5874	i domestici
+T82	FAC 6073 6091	il cortile funesto
+T83	PER 6159 6180	le figlie della morta
+T84	PER 6175 6180	morta
+T85	FAC 6228 6235	la casa
+T86	FAC 6256 6277	camera della contessa
+T87	PER 6269 6277	contessa
+T88	GPE 6301 6307	Vienna
+T89	PER 6607 6617	Il padrone
+T90	PER 6635 6646	il gastaldo
+T91	PER 6701 6709	contessa
+T92	PER 6718 6731	una cameriera
+T93	PER 6736 6745	Il medico
+T94	PER 6828 6839	la contessa
+T95	PER 6856 6864	il conte
+T96	FAC 6906 6912	camera
+T97	PER 6929 6939	sua moglie
+T98	PER 6961 6973	questa gente
+T99	PER 7025 7030	tutti
+T100	PER 7061 7072	la contessa
+T101	FAC 7098 7102	casa
+T102	PER 7116 7123	nessuno
+T103	FAC 7201 7210	le camere
+T104	PER 7235 7238	Dio
+T105	PER 7284 7291	signori
+T106	PER 7296 7304	Il conte
+T107	PER 7467 7478	la contessa
+T108	PER 7492 7507	voialtri uomini
+T109	PER 7596 7611	vostra famiglia
+T110	PER 7687 7697	il sindaco
+T111	PER 7721 7731	i colerosi
+T112	PER 7798 7805	bambino
+T113	PER 7882 7889	bambino
+T114	PER 7977 7990	dottor Tunisi
+T115	PER 8222 8233	la contessa
+T116	PER 8248 8253	conte
+T117	FAC 8342 8355	tutta la casa
+T118	FAC 8378 8384	armadi
+T119	PER 8468 8476	Il conte
+T120	FAC 8671 8681	una stanza
+T121	PER 8682 8692	suo marito
+T122	PER 8695 8712	tutti i domestici
+T123	FAC 8752 8756	case
+T124	PER 8800 8805	tutti
+T125	PER 8859 8867	ciascuno
+T126	PER 8870 8880	Il bambino
+T127	VEH 8915 8926	la carrozza
+T128	FAC 8966 8974	giardino
+T129	FAC 9001 9006	villa
+T130	PER 9029 9040	la contessa
+T131	FAC 9080 9090	sua camera
+T132	PER 9466 9473	Signore
+T133	PER 9494 9545	le miserabili creature che avevano perduta la madre
+T134	PER 9537 9545	la madre
+T135	FAC 9655 9667	la sua villa
+T136	GPE 9721 9727	Vienna
+T137	PER 9770 9780	suo marito
+T138	PER 9783 9793	suo figlio
+T139	PER 9799 9815	suo comodo Iddio
+T140	PER 9963 9973	suo marito
+T141	PER 9986 9996	il bambino
+T142	PER 10125 10132	bambino
+T143	FAC 10638 10643	villa
+T144	LOC 10664 10669	prato
+T145	LOC 10739 10756	viale d ' entrata
+T146	PER 10759 10770	La contessa
+T147	VEH 10946 10954	carrozza
+T148	PER 10957 10967	il Sindaco
+T149	PER 10980 10985	conte
+T150	FAC 11056 11064	casa sua
+T151	PER 11170 11180	la signora
+T152	VEH 11250 11258	carrozza
+T153	PER 11263 11270	bambino
+T154	PER 11312 11322	suo marito
+T155	PER 11404 11423	la signora contessa
+T156	PER 11442 11463	quell ' umile Sindaco
+T157	PER 11520 11528	il conte
+T158	PER 11572 11577	tutti
+T159	VEH 11587 11595	carrozza
+T160	PER 11598 11608	la signora
+T161	PER 11723 11731	il conte
+T162	PER 11871 11886	quel marmocchio
+T163	PER 11929 11940	la contessa
+T164	PER 12008 12020	un contadino
+T165	PER 12056 12065	domestici
+T166	PER 12068 12081	Un ragazzetto
+T167	PER 12165 12173	il padre
+T168	PER 12242 12250	Il conte
+T169	PER 12291 12301	il ragazzo
+T170	PER 12379 12387	La mamma
+T171	PER 12409 12419	il ragazzo
+T172	PER 12439 12447	La mamma
+T173	PER 12463 12474	La contessa
+T174	PER 12561 12570	cocchiere
+T175	PER 12698 12708	Il Sindaco
+T176	PER 12743 12751	il conte
+T177	PER 12783 12795	quell ' uomo
