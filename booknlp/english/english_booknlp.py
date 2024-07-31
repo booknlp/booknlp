@@ -45,7 +45,7 @@ class EnglishBookNLP:
 				self.gender_cats=model_params["referential_gender_cats"]
 
 			home = str(Path.home())
-			modelPath=os.path.join(home, "booknlp_models")
+			modelPath=os.path.join(home, "booknlp_models").replace('\\', '/')
 			if "model_path"  in model_params:			
 				modelPath=model_params["model_path"]
 
@@ -57,17 +57,17 @@ class EnglishBookNLP:
 				corefName="coref_google_bert_uncased_L-12_H-768_A-12-v1.0.model"
 				quoteAttribName="speaker_google_bert_uncased_L-12_H-768_A-12-v1.0.1.model"
 
-				self.entityPath=os.path.join(modelPath, entityName)
+				self.entityPath=os.path.join(modelPath, entityName).replace('\\', '/')
 				if not Path(self.entityPath).is_file():
 					print("downloading %s" % entityName)
 					urllib.request.urlretrieve("http://people.ischool.berkeley.edu/~dbamman/booknlp_models/%s" % entityName, self.entityPath)
 
-				self.coref_model=os.path.join(modelPath, corefName)
+				self.coref_model=os.path.join(modelPath, corefName).replace('\\', '/')
 				if not Path(self.coref_model).is_file():
 					print("downloading %s" % corefName)
 					urllib.request.urlretrieve("http://people.ischool.berkeley.edu/~dbamman/booknlp_models/%s" % corefName, self.coref_model)
 
-				self.quoteAttribModel=os.path.join(modelPath, quoteAttribName)
+				self.quoteAttribModel=os.path.join(modelPath, quoteAttribName).replace('\\', '/')
 				if not Path(self.quoteAttribModel).is_file():
 					print("downloading %s" % quoteAttribName)
 					urllib.request.urlretrieve("http://people.ischool.berkeley.edu/~dbamman/booknlp_models/%s" % quoteAttribName, self.quoteAttribModel)
@@ -78,17 +78,17 @@ class EnglishBookNLP:
 				corefName="coref_google_bert_uncased_L-2_H-256_A-4-v1.0.model"
 				quoteAttribName="speaker_google_bert_uncased_L-8_H-256_A-4-v1.0.1.model"
 
-				self.entityPath=os.path.join(modelPath, entityName)
+				self.entityPath=os.path.join(modelPath, entityName).replace('\\', '/')
 				if not Path(self.entityPath).is_file():
 					print("downloading %s" % entityName)
 					urllib.request.urlretrieve("http://people.ischool.berkeley.edu/~dbamman/booknlp_models/%s" % entityName, self.entityPath)
 
-				self.coref_model=os.path.join(modelPath, corefName)
+				self.coref_model=os.path.join(modelPath, corefName).replace('\\', '/')
 				if not Path(self.coref_model).is_file():
 					print("downloading %s" % corefName)
 					urllib.request.urlretrieve("http://people.ischool.berkeley.edu/~dbamman/booknlp_models/%s" % corefName, self.coref_model)
 
-				self.quoteAttribModel=os.path.join(modelPath, quoteAttribName)
+				self.quoteAttribModel=os.path.join(modelPath, quoteAttribName).replace('\\', '/')
 				if not Path(self.quoteAttribModel).is_file():
 					print("downloading %s" % quoteAttribName)
 					urllib.request.urlretrieve("http://people.ischool.berkeley.edu/~dbamman/booknlp_models/%s" % quoteAttribName, self.quoteAttribModel)

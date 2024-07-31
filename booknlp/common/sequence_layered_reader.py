@@ -153,7 +153,7 @@ def prepare_annotations_from_folder(folder, tagset, labeled=True):
 	sentences = []
 	for filename in os.listdir(folder):
 		print(filename)
-		annotations = read_annotations(os.path.join(folder,filename), tagset, labeled)
+		annotations = read_annotations(os.path.join(folder,filename).replace('\\', '/'), tagset, labeled)
 		sentences += annotations
 	print("num sentences: %s" % len(sentences))
 	return sentences
