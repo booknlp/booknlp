@@ -163,7 +163,7 @@ class GenderEM:
 
 	def read_hyperparams(self, filename):
 		self.hyperparameters={}
-		with open(filename) as file:
+		with open(filename, encoding='UTF8') as file:
 			header=file.readline().rstrip()
 			gender_mapping={}
 			for idx, val in enumerate(header.split("\t")[2:]):
