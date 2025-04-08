@@ -17,7 +17,10 @@ class QuotationAttribution:
 		base_model=re.sub(".model", "", base_model)
 
 		self.model = BERTSpeakerID(base_model=base_model)
-		self.model.load_state_dict(torch.load(modelFile, map_location=device))
+		state_dict = torch.load(modelFile, map_location=device)
+		# Filter out unexpected keys
+		state_dict = {k: v for k, v in state_dict.items() if not k.startswith('bert.embeddings.position_ids')}
+		self.model.load_state_dict(state_dict)
 		self.model.to(device)
 		self.model.eval()
 

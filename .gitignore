@@ -1,0 +1,54 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# BookNLP specific
+output/
+*.tokens
+*.entities
+*.quotes
+*.supersense
+*.event
+*.book
+*.book.html
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Local development settings
+.env
+.env.local
+
+# Logs
+*.log
+
+# Model files and data
+*.model
+*.bin
+*.pt
+*.pth
+*.h5
+*.hdf5
+
+# Temporary files
+*.tmp
+*.temp
+*.bak 
