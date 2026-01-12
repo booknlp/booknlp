@@ -1,6 +1,7 @@
 import torch
 import re
 from booknlp.english.speaker_attribution import BERTSpeakerID
+from booknlp.patches import remove_position_ids_from_state_dict
 import numpy as np
 import sys
 
@@ -17,7 +18,9 @@ class QuotationAttribution:
 		base_model=re.sub(".model", "", base_model)
 
 		self.model = BERTSpeakerID(base_model=base_model)
-		self.model.load_state_dict(torch.load(modelFile, map_location=device))
+		state_dict = torch.load(modelFile, map_location=device)
+		state_dict = remove_position_ids_from_state_dict(state_dict)
+		self.model.load_state_dict(state_dict)
 		self.model.to(device)
 		self.model.eval()
 
