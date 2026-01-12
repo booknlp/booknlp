@@ -163,7 +163,7 @@ class GenderEM:
 
 	def read_hyperparams(self, filename):
 		self.hyperparameters={}
-		with open(filename) as file:
+		with open(filename, encoding="utf-8") as file:
 			header=file.readline().rstrip()
 			gender_mapping={}
 			for idx, val in enumerate(header.split("\t")[2:]):
@@ -470,7 +470,7 @@ class GenderEM:
 
 	def read_tokens(self, tokenFile):
 		toks=[]
-		with open(tokenFile) as file:
+		with open(tokenFile, encoding="utf-8") as file:
 			for line in file:
 				cols=line.rstrip().split("\t")
 
@@ -497,7 +497,7 @@ class GenderEM:
 
 		entities=[]
 
-		with open(entityFile) as file:
+		with open(entityFile, encoding="utf-8") as file:
 
 			for line in file:
 				cols=line.rstrip().split("\t")

@@ -2,7 +2,7 @@ import os
 
 def read_tagset(filename):
 	tags={}
-	with open(filename) as file:
+	with open(filename, encoding="utf-8") as file:
 		for line in file:
 			cols=line.rstrip().split("\t")
 			tags[cols[0]]=int(cols[1])
@@ -12,7 +12,7 @@ def read_tagset(filename):
 def read_filenames(filename):
 	inpaths=[]
 	outpaths=[]
-	with open(filename) as file:
+	with open(filename, encoding="utf-8") as file:
 		for line in file:
 			cols=line.rstrip().split("\t")
 			

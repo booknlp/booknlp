@@ -25,7 +25,7 @@ class LitBankEntityTagger:
 
 	def read_wn(self, filename):
 		wns={}
-		with open(filename) as file:
+		with open(filename, encoding="utf-8") as file:
 			for line in file:
 				cols=line.rstrip().split("\t")
 				word=cols[0]
