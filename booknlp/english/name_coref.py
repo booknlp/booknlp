@@ -14,7 +14,7 @@ class NameCoref:
 	def __init__(self, aliasFile):
 		self.honorifics={"mr":1, "mr.":1, "mrs":1, "mrs.":1, "miss":1, "uncle":1, "aunt":1, "lady":1, "lord":1, "monsieur":1, "master":1, "mistress":1}
 		self.aliases={}
-		with open(aliasFile) as file:
+		with open(aliasFile, encoding="utf-8") as file:
 			for line in file:
 				cols=line.rstrip().split("\t")
 				canonical=cols[0]
@@ -257,7 +257,7 @@ class NameCoref:
 
 		entities=[]
 		is_named=[]
-		with open(spanFile) as file:
+		with open(spanFile, encoding="utf-8") as file:
 			for line in file:
 				cols=line.rstrip().split("\t")
 

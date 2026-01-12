@@ -336,7 +336,7 @@ class EnglishBookNLP:
 			start_time = time.time()
 			originalTime=start_time
 
-			with open(filename) as file:
+			with open(filename, encoding="utf-8") as file:
 				data=file.read()
 
 				if len(data) == 0:
