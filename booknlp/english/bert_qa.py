@@ -1,5 +1,6 @@
 import torch
 import re
+import os
 from booknlp.english.speaker_attribution import BERTSpeakerID
 import numpy as np
 import sys
@@ -13,7 +14,7 @@ class QuotationAttribution:
 
 		device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-		base_model=re.sub("google_bert", "google/bert", modelFile.split("/")[-1])
+		base_model=re.sub("google_bert", "google/bert", os.path.basename(modelFile))
 		base_model=re.sub(".model", "", base_model)
 
 		self.model = BERTSpeakerID(base_model=base_model)
