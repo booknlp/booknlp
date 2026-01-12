@@ -1,6 +1,7 @@
 import torch, sys, re
 
 from booknlp.english.bert_coref_quote_pronouns import BERTCorefTagger
+from booknlp.patches import remove_position_ids_from_state_dict
 import numpy as np
 from booknlp.common.pipelines import Entity
 from booknlp.english.name_coref import NameCoref
@@ -16,7 +17,9 @@ class LitBankCoref:
 		base_model=re.sub(".model", "", base_model)
 
 		self.model = BERTCorefTagger(gender_cats=gender_cats, freeze_bert=True, base_model=base_model, pronominalCorefOnly=pronominalCorefOnly)
-		self.model.load_state_dict(torch.load(modelFile, map_location=device))
+		state_dict = torch.load(modelFile, map_location=device)
+		state_dict = remove_position_ids_from_state_dict(state_dict)
+		self.model.load_state_dict(state_dict)
 		self.model.to(device)
 		self.model.eval()
 
